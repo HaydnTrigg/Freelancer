@@ -77,7 +77,7 @@
     {
       "start": 102764624,
       "end": 102764635,
-      "name": "sub_6201050",
+      "name": "_sub_6201050",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -97,7 +97,7 @@
     {
       "start": 102764768,
       "end": 102764799,
-      "name": "sub_62010E0",
+      "name": "_sub_62010E0",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -107,7 +107,7 @@
     {
       "start": 102764800,
       "end": 102764944,
-      "name": "sub_6201100",
+      "name": "_sub_6201100",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -127,7 +127,7 @@
     {
       "start": 102765360,
       "end": 102765503,
-      "name": "sub_6201330",
+      "name": "_sub_6201330@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -137,7 +137,7 @@
     {
       "start": 102765504,
       "end": 102765539,
-      "name": "sub_62013C0",
+      "name": "_sub_62013C0@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -157,7 +157,7 @@
     {
       "start": 102766096,
       "end": 102766101,
-      "name": "sub_6201610",
+      "name": "_sub_6201610@4",
       "thunk": false,
       "lib": false,
       "static": false,

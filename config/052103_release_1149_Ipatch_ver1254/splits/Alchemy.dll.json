@@ -10,7 +10,7 @@
       "size": 27,
       "scope": "static"
     },
-    "sub_6201050": {
+    "_sub_6201050": {
       "address": 102764624,
       "size": 11,
       "scope": "static"
@@ -20,12 +20,12 @@
       "size": 121,
       "scope": "static"
     },
-    "sub_62010E0": {
+    "_sub_62010E0": {
       "address": 102764768,
       "size": 31,
       "scope": "static"
     },
-    "sub_6201100": {
+    "_sub_6201100": {
       "address": 102764800,
       "size": 144,
       "scope": "static"
@@ -35,12 +35,12 @@
       "size": 416,
       "scope": "static"
     },
-    "sub_6201330": {
+    "_sub_6201330@4": {
       "address": 102765360,
       "size": 143,
       "scope": "static"
     },
-    "sub_62013C0": {
+    "_sub_62013C0@4": {
       "address": 102765504,
       "size": 35,
       "scope": "static"
@@ -50,7 +50,7 @@
       "size": 541,
       "scope": "static"
     },
-    "sub_6201610": {
+    "_sub_6201610@4": {
       "address": 102766096,
       "size": 5,
       "scope": "static"
