@@ -51,4 +51,3 @@ Unsupported Versions:
 ![thorn.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-thorn.dll.svg)
 ![x86math.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-x86math.dll.svg)
 ![ximage.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-ximage.dll.svg)
-![zlib.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-zlib.dll.svg)
