@@ -137,10 +137,10 @@ objects_path = f"config/{CONFIG_ID}/objects.json"
 
 CONFIG_DELINK_DIR = Path(f"config/{CONFIG_ID}/delink")
 
-DELINK_VERSION = "v0.6.0"
+DELINK_VERSION = "v0.7.0"
 DELINK_EXE = Path(args.delink) if args.delink else Path("build/tools/delink-windows-x86_64.exe")
 DELINK_URL = f"https://github.com/HaydnTrigg/delink/releases/download/{DELINK_VERSION}/delink-windows-x86_64.exe"
-DELINK_SHA1 = "BA201EDE61C0C43C9CF38E161590FDEAA774E2B1"
+DELINK_SHA1 = "6A83F205E2718B0D98275DF73A6AB72929D5B2A0"
 
 OBJDIFF_VERSION = "v3.7.2-Monkey"
 OBJDIFF_CLI_EXE = Path(args.objdiff_cli) if args.objdiff_cli else Path("build/tools/objdiff-cli-windows-x86_64.exe")
