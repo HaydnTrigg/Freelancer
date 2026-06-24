@@ -27,8 +27,7 @@
         "system.dll": "system.dll",
         "thorn.dll": "thorn.dll",
         "x86math.dll": "x86math.dll",
-        "ximage.dll": "ximage.dll",
-        "zlib.dll": "zlib.dll"
+        "ximage.dll": "ximage.dll"
     },
     "compiler": "build/msvc6.0/BIN/CL.EXE",
     "compiler_c": "build/msvc6.0/BIN/CL.EXE",
@@ -84,7 +83,9 @@
         },
         "deformable2.dll": {
             "base": "decomp",
-            "flags": []
+            "flags": [
+                "/G6"
+            ]
         },
         "engbase.dll": {
             "base": "decomp",
@@ -155,10 +156,6 @@
             "flags": []
         },
         "ximage.dll": {
-            "base": "decomp",
-            "flags": []
-        },
-        "zlib.dll": {
             "base": "decomp",
             "flags": []
         }
@@ -212,7 +209,9 @@
         },
         "deformable2.dll": {
             "base": "decomp",
-            "flags": []
+            "flags": [
+                "/G6"
+            ]
         },
         "engbase.dll": {
             "base": "decomp",
@@ -283,10 +282,6 @@
             "flags": []
         },
         "ximage.dll": {
-            "base": "decomp",
-            "flags": []
-        },
-        "zlib.dll": {
             "base": "decomp",
             "flags": []
         }

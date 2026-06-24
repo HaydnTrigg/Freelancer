@@ -80,22 +80,22 @@
       "size": 193,
       "scope": "static"
     },
-    "sub_62019E0": {
+    "_sub_62019E0@4": {
       "address": 102767072,
       "size": 448,
       "scope": "static"
     },
-    "sub_6201BA0": {
+    "_sub_6201BA0@4": {
       "address": 102767520,
       "size": 208,
       "scope": "static"
     },
-    "sub_6201C70": {
+    "_sub_6201C70": {
       "address": 102767728,
       "size": 73,
       "scope": "static"
     },
-    "sub_6201CC0": {
+    "@sub_6201CC0@4": {
       "address": 102767808,
       "size": 160,
       "scope": "static"

@@ -1,29 +1,29 @@
 {
   "DALib.dll.obj": {
-    "sub_65C1000": {
+    "??0Compressor@@QAE@XZ": {
       "address": 106696704,
       "size": 80,
-      "scope": "static"
+      "scope": "global"
     },
-    "sub_65C1050": {
+    "??_GCompressor@@UAEPAXI@Z": {
       "address": 106696784,
       "size": 49,
-      "scope": "static"
+      "scope": "global"
     },
-    "sub_65C1090": {
+    "??1Compressor@@UAE@XZ": {
       "address": 106696848,
       "size": 29,
-      "scope": "static"
+      "scope": "global"
     },
-    "sub_65C10B0": {
+    "?Compress@Compressor@@QAE_NPAXI0I@Z": {
       "address": 106696880,
       "size": 82,
-      "scope": "static"
+      "scope": "global"
     },
-    "sub_65C1110": {
+    "?Decompress@Compressor@@QAE_NPAXI0I@Z": {
       "address": 106696976,
       "size": 71,
-      "scope": "static"
+      "scope": "global"
     },
     "?Startup@DALib@@YA_NPAUHWND__@@PBD@Z": {
       "address": 106697056,
@@ -785,42 +785,42 @@
       "size": 31,
       "scope": "global"
     },
-    "inflateInit_": {
+    "_inflateInit_@12": {
       "address": 106719792,
       "size": 6,
       "scope": "static"
     },
-    "deflateInit_": {
+    "_deflateInit_@16": {
       "address": 106719798,
       "size": 6,
       "scope": "static"
     },
-    "inflateEnd": {
+    "_inflateEnd@4": {
       "address": 106719804,
       "size": 6,
       "scope": "static"
     },
-    "deflateEnd": {
+    "_deflateEnd@4": {
       "address": 106719810,
       "size": 6,
       "scope": "static"
     },
-    "deflateReset": {
+    "_deflateReset@4": {
       "address": 106719816,
       "size": 6,
       "scope": "static"
     },
-    "deflate": {
+    "_deflate@8": {
       "address": 106719822,
       "size": 6,
       "scope": "static"
     },
-    "inflateReset": {
+    "_inflateReset@4": {
       "address": 106719828,
       "size": 6,
       "scope": "static"
     },
-    "inflate": {
+    "_inflate@8": {
       "address": 106719834,
       "size": 6,
       "scope": "static"

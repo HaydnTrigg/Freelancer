@@ -1,26 +1,26 @@
 {
   "shading.dll.obj": {
-    "Register_AtmosphereMaterial": {
+    "_Register_AtmosphereMaterial": {
       "address": 116068352,
       "size": 74,
       "scope": "static"
     },
-    "sub_6EB1050": {
+    "_sub_6EB1050@12": {
       "address": 116068432,
       "size": 59,
       "scope": "static"
     },
-    "sub_6EB1090": {
+    "_sub_6EB1090@4": {
       "address": 116068496,
       "size": 43,
       "scope": "static"
     },
-    "sub_6EB10C0": {
+    "_sub_6EB10C0@12": {
       "address": 116068544,
       "size": 318,
       "scope": "static"
     },
-    "UnknownMaterial::initialize": {
+    "_UnknownMaterial_initialize@8": {
       "address": 116068864,
       "size": 356,
       "scope": "static"

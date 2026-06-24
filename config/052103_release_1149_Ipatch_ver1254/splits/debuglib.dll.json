@@ -15,21 +15,6 @@
       "size": 230,
       "scope": "static"
     },
-    "sub_65D11B0": {
-      "address": 106762672,
-      "size": 89,
-      "scope": "static"
-    },
-    "sub_65D1210": {
-      "address": 106762768,
-      "size": 279,
-      "scope": "static"
-    },
-    "sub_65D1330": {
-      "address": 106763056,
-      "size": 13,
-      "scope": "static"
-    },
     "sub_65D1340": {
       "address": 106763072,
       "size": 56,
@@ -123,11 +108,6 @@
     "sub_65D1B70": {
       "address": 106765168,
       "size": 176,
-      "scope": "static"
-    },
-    "sub_65D1C20": {
-      "address": 106765344,
-      "size": 228,
       "scope": "static"
     },
     "sub_65D1D10": {
@@ -810,36 +790,6 @@
       "size": 6,
       "scope": "static"
     },
-    "listen": {
-      "address": 106785862,
-      "size": 6,
-      "scope": "static"
-    },
-    "closesocket": {
-      "address": 106785868,
-      "size": 6,
-      "scope": "static"
-    },
-    "bind": {
-      "address": 106785874,
-      "size": 6,
-      "scope": "static"
-    },
-    "htons": {
-      "address": 106785880,
-      "size": 6,
-      "scope": "static"
-    },
-    "setsockopt": {
-      "address": 106785886,
-      "size": 6,
-      "scope": "static"
-    },
-    "socket": {
-      "address": 106785892,
-      "size": 6,
-      "scope": "static"
-    },
     "WSAGetLastError": {
       "address": 106785898,
       "size": 6,
@@ -903,11 +853,6 @@
     "__WSAFDIsSet": {
       "address": 106785970,
       "size": 6,
-      "scope": "static"
-    },
-    "sub_65D6CB8": {
-      "address": 106785976,
-      "size": 11,
       "scope": "static"
     },
     "?_Xlen@std@@YAXXZ": {
@@ -2443,6 +2388,61 @@
     "sub_65E019C": {
       "address": 106824092,
       "size": 10,
+      "scope": "static"
+    },
+    "_sub_65D1210@12": {
+      "address": 106762768,
+      "size": 279,
+      "scope": "static"
+    },
+    "?EraseMessage@DebugServer@@QAE?AUMsgIter@@PAUMsgNode@@@Z": {
+      "address": 106762672,
+      "size": 89,
+      "scope": "static"
+    },
+    "_sub_65D1330": {
+      "address": 106763056,
+      "size": 13,
+      "scope": "static"
+    },
+    "_sub_65D6CB8": {
+      "address": 106785976,
+      "size": 11,
+      "scope": "static"
+    },
+    "@sub_65D1C20@4": {
+      "address": 106765344,
+      "size": 228,
+      "scope": "static"
+    },
+    "_socket@12": {
+      "address": 106785892,
+      "size": 6,
+      "scope": "static"
+    },
+    "_setsockopt@20": {
+      "address": 106785886,
+      "size": 6,
+      "scope": "static"
+    },
+    "_htons@4": {
+      "address": 106785880,
+      "size": 6,
+      "scope": "static"
+    },
+    "_bind@12": {
+      "address": 106785874,
+      "size": 6,
+      "scope": "static"
+    },
+    "_listen@8": {
+      "address": 106785862,
+      "size": 6,
+      "scope": "static"
+    },
+    "_closesocket@4": {
+      "address": 106785868,
+      "size": 6,
       "scope": "static"
     }
   }

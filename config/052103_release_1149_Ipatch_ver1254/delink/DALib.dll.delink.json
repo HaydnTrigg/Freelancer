@@ -57,51 +57,51 @@
     {
       "start": 106696704,
       "end": 106696784,
-      "name": "sub_65C1000",
+      "name": "??0Compressor@@QAE@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
-      "public": false,
+      "public": true,
       "thunk_target": null
     },
     {
       "start": 106696784,
       "end": 106696833,
-      "name": "sub_65C1050",
+      "name": "??_GCompressor@@UAEPAXI@Z",
       "thunk": false,
       "lib": false,
       "static": false,
-      "public": false,
+      "public": true,
       "thunk_target": null
     },
     {
       "start": 106696848,
       "end": 106696877,
-      "name": "sub_65C1090",
+      "name": "??1Compressor@@UAE@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
-      "public": false,
+      "public": true,
       "thunk_target": null
     },
     {
       "start": 106696880,
       "end": 106696962,
-      "name": "sub_65C10B0",
+      "name": "?Compress@Compressor@@QAE_NPAXI0I@Z",
       "thunk": false,
       "lib": false,
       "static": false,
-      "public": false,
+      "public": true,
       "thunk_target": null
     },
     {
       "start": 106696976,
       "end": 106697047,
-      "name": "sub_65C1110",
+      "name": "?Decompress@Compressor@@QAE_NPAXI0I@Z",
       "thunk": false,
       "lib": false,
       "static": false,
-      "public": false,
+      "public": true,
       "thunk_target": null
     },
     {
@@ -1627,7 +1627,7 @@
     {
       "start": 106719792,
       "end": 106719798,
-      "name": "inflateInit_",
+      "name": "_inflateInit_@12",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1637,7 +1637,7 @@
     {
       "start": 106719798,
       "end": 106719804,
-      "name": "deflateInit_",
+      "name": "_deflateInit_@16",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1647,7 +1647,7 @@
     {
       "start": 106719804,
       "end": 106719810,
-      "name": "inflateEnd",
+      "name": "_inflateEnd@4",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1657,7 +1657,7 @@
     {
       "start": 106719810,
       "end": 106719816,
-      "name": "deflateEnd",
+      "name": "_deflateEnd@4",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1667,7 +1667,7 @@
     {
       "start": 106719816,
       "end": 106719822,
-      "name": "deflateReset",
+      "name": "_deflateReset@4",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1677,7 +1677,7 @@
     {
       "start": 106719822,
       "end": 106719828,
-      "name": "deflate",
+      "name": "_deflate@8",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1687,7 +1687,7 @@
     {
       "start": 106719828,
       "end": 106719834,
-      "name": "inflateReset",
+      "name": "_inflateReset@4",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -1697,7 +1697,7 @@
     {
       "start": 106719834,
       "end": 106719840,
-      "name": "inflate",
+      "name": "_inflate@8",
       "thunk": true,
       "lib": false,
       "static": false,
@@ -2256,6 +2256,41 @@
     }
   ],
   "names": [
+    {
+      "addr": 106696704,
+      "name": "??0Compressor@@QAE@XZ",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106696784,
+      "name": "??_GCompressor@@UAEPAXI@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106696848,
+      "name": "??1Compressor@@UAE@XZ",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106696880,
+      "name": "?Compress@Compressor@@QAE_NPAXI0I@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106696976,
+      "name": "?Decompress@Compressor@@QAE_NPAXI0I@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
     {
       "addr": 106697056,
       "name": "?Startup@DALib@@YA_NPAUHWND__@@PBD@Z",
@@ -3154,56 +3189,56 @@
     },
     {
       "addr": 106719792,
-      "name": "inflateInit_",
+      "name": "_inflateInit_@12",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719798,
-      "name": "deflateInit_",
+      "name": "_deflateInit_@16",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719804,
-      "name": "inflateEnd",
+      "name": "_inflateEnd@4",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719810,
-      "name": "deflateEnd",
+      "name": "_deflateEnd@4",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719816,
-      "name": "deflateReset",
+      "name": "_deflateReset@4",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719822,
-      "name": "deflate",
+      "name": "_deflate@8",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719828,
-      "name": "inflateReset",
+      "name": "_inflateReset@4",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106719834,
-      "name": "inflate",
+      "name": "_inflate@8",
       "public": false,
       "weak": false,
       "is_func": true
@@ -3874,8 +3909,8 @@
       "is_func": false
     },
     {
-      "addr": 106721600,
-      "name": "a114",
+      "addr": 106721596,
+      "name": "??_7Compressor@@6B@",
       "public": false,
       "weak": false,
       "is_func": false

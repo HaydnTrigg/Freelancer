@@ -1,26 +1,26 @@
 {
   "deformable2.dll.obj": {
-    "sub_65F1000": {
+    "_sub_65F1000@16": {
       "address": 106893312,
       "size": 48,
       "scope": "static"
     },
-    "sub_65F1030": {
+    "?sub_65F1030@CDeformable@@QAEHH@Z": {
       "address": 106893360,
       "size": 136,
       "scope": "static"
     },
-    "sub_65F10C0": {
+    "?sub_65F10C0@CDeformable@@QAEHXZ": {
       "address": 106893504,
       "size": 64,
       "scope": "static"
     },
-    "sub_65F1100": {
+    "?sub_65F1100@CDeformable@@QAEHPADPAH@Z": {
       "address": 106893568,
       "size": 724,
       "scope": "static"
     },
-    "sub_65F13E0": {
+    "?sub_65F13E0@Matrix@@QAEPAU1@XZ": {
       "address": 106894304,
       "size": 45,
       "scope": "static"
@@ -1535,7 +1535,7 @@
       "size": 29,
       "scope": "static"
     },
-    "sub_6600DE0": {
+    "_sub_6600DE0": {
       "address": 106958304,
       "size": 57,
       "scope": "static"

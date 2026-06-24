@@ -278,15 +278,5 @@
         "objects": {
             "src/ximage.dll.cpp": "ximage.dll.obj"
         }
-    },
-    "zlib.dll": {
-        "progress_category": "zlib.dll",
-        "cflags": "zlib.dll",
-        "idb": "idb/zlib.dll.i64",
-        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/zlib.dll.json",
-        "delink": "zlib.dll",
-        "objects": {
-            "src/zlib.dll.cpp": "zlib.dll.obj"
-        }
     }
 }

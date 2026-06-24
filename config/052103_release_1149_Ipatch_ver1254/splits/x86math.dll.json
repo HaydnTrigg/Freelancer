@@ -1,21 +1,21 @@
 {
   "x86math.dll.obj": {
-    "sub_6F71000": {
+    "_sub_6F71000": {
       "address": 116854784,
       "size": 10,
       "scope": "static"
     },
-    "sub_6F71010": {
+    "_sub_6F71010": {
       "address": 116854800,
       "size": 71,
       "scope": "static"
     },
-    "sub_6F71060": {
+    "_sub_6F71060": {
       "address": 116854880,
       "size": 12,
       "scope": "static"
     },
-    "sub_6F71070": {
+    "_sub_6F71070": {
       "address": 116854896,
       "size": 21,
       "scope": "static"
@@ -25,52 +25,52 @@
       "size": 189,
       "scope": "static"
     },
-    "x86MathEngine::QueryInterface": {
+    "_x86MathEngine_QueryInterface@12": {
       "address": 116855120,
       "size": 16,
       "scope": "static"
     },
-    "x86MathEngine::AddRef_Release": {
+    "_x86MathEngine_AddRef_Release@4": {
       "address": 116855136,
       "size": 8,
       "scope": "static"
     },
-    "x86MathEngine::IComponentFactory::CreateInstance": {
+    "_x86MathEngine_CreateInstance@12": {
       "address": 116855152,
       "size": 121,
       "scope": "static"
     },
-    "sub_6F711F0": {
+    "_sub_6F711F0@12": {
       "address": 116855280,
       "size": 398,
       "scope": "static"
     },
-    "sub_6F71380": {
+    "_sub_6F71380@16": {
       "address": 116855680,
       "size": 550,
       "scope": "static"
     },
-    "sub_6F715B0": {
+    "_sub_6F715B0@16": {
       "address": 116856240,
       "size": 101,
       "scope": "static"
     },
-    "sub_6F71620": {
+    "_sub_6F71620@8": {
       "address": 116856352,
       "size": 69,
       "scope": "static"
     },
-    "sub_6F71670": {
+    "_sub_6F71670@16": {
       "address": 116856432,
       "size": 116,
       "scope": "static"
     },
-    "sub_6F716F0": {
+    "_sub_6F716F0@16": {
       "address": 116856560,
       "size": 318,
       "scope": "static"
     },
-    "sub_6F71830": {
+    "_sub_6F71830@16": {
       "address": 116856880,
       "size": 87,
       "scope": "static"
@@ -290,12 +290,12 @@
       "size": 129,
       "scope": "static"
     },
-    "x86MathEngine::IComponentFactory::QueryInterface": {
+    "x86MathEngine_IComponentFactory_QueryInterface": {
       "address": 116861248,
       "size": 10,
       "scope": "static"
     },
-    "x86MathEngine::IComponentFactory::AddRef_Release": {
+    "x86MathEngine_IComponentFactory_AddRef_Release": {
       "address": 116861264,
       "size": 10,
       "scope": "static"

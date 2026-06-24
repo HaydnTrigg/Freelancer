@@ -217,7 +217,7 @@
     {
       "start": 102767072,
       "end": 102767520,
-      "name": "sub_62019E0",
+      "name": "_sub_62019E0@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -227,7 +227,7 @@
     {
       "start": 102767520,
       "end": 102767728,
-      "name": "sub_6201BA0",
+      "name": "_sub_6201BA0@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -237,7 +237,7 @@
     {
       "start": 102767728,
       "end": 102767801,
-      "name": "sub_6201C70",
+      "name": "_sub_6201C70",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -247,7 +247,7 @@
     {
       "start": 102767808,
       "end": 102767968,
-      "name": "sub_6201CC0",
+      "name": "@sub_6201CC0@4",
       "thunk": false,
       "lib": false,
       "static": false,

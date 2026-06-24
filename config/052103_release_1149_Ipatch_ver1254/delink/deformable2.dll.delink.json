@@ -57,7 +57,7 @@
     {
       "start": 106893312,
       "end": 106893360,
-      "name": "sub_65F1000",
+      "name": "_sub_65F1000@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -67,7 +67,7 @@
     {
       "start": 106893360,
       "end": 106893496,
-      "name": "sub_65F1030",
+      "name": "?sub_65F1030@CDeformable@@QAEHH@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -77,7 +77,7 @@
     {
       "start": 106893504,
       "end": 106893568,
-      "name": "sub_65F10C0",
+      "name": "?sub_65F10C0@CDeformable@@QAEHXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -87,7 +87,7 @@
     {
       "start": 106893568,
       "end": 106894292,
-      "name": "sub_65F1100",
+      "name": "?sub_65F1100@CDeformable@@QAEHPADPAH@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -97,7 +97,7 @@
     {
       "start": 106894304,
       "end": 106894349,
-      "name": "sub_65F13E0",
+      "name": "?sub_65F13E0@Matrix@@QAEPAU1@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -3127,7 +3127,7 @@
     {
       "start": 106958304,
       "end": 106958361,
-      "name": "sub_6600DE0",
+      "name": "_sub_6600DE0",
       "thunk": false,
       "lib": false,
       "static": false,

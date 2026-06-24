@@ -87,7 +87,7 @@
     {
       "start": 106762672,
       "end": 106762761,
-      "name": "sub_65D11B0",
+      "name": "?EraseMessage@DebugServer@@QAE?AUMsgIter@@PAUMsgNode@@@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -97,7 +97,7 @@
     {
       "start": 106762768,
       "end": 106763047,
-      "name": "sub_65D1210",
+      "name": "_sub_65D1210@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -107,7 +107,7 @@
     {
       "start": 106763056,
       "end": 106763069,
-      "name": "sub_65D1330",
+      "name": "_sub_65D1330",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -307,7 +307,7 @@
     {
       "start": 106765344,
       "end": 106765572,
-      "name": "sub_65D1C20",
+      "name": "@sub_65D1C20@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -5004,42 +5004,42 @@
     },
     {
       "addr": 106785862,
-      "name": "listen",
+      "name": "_listen@8",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106785868,
-      "name": "closesocket",
+      "name": "_closesocket@4",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106785874,
-      "name": "bind",
+      "name": "_bind@12",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106785880,
-      "name": "htons",
+      "name": "_htons@4",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106785886,
-      "name": "setsockopt",
+      "name": "_setsockopt@20",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 106785892,
-      "name": "socket",
+      "name": "_socket@12",
       "public": false,
       "weak": false,
       "is_func": true
