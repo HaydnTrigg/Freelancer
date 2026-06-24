@@ -1,0 +1,1619 @@
+{
+  "soundstreamer.dll.obj": {
+    "InitAcmDriver": {
+      "address": 116330496,
+      "size": 56,
+      "scope": "static"
+    },
+    "sub_6EF1040": {
+      "address": 116330560,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_6EF1080": {
+      "address": 116330624,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_6EF10B0": {
+      "address": 116330672,
+      "size": 108,
+      "scope": "static"
+    },
+    "::free_sub_6EF1120": {
+      "address": 116330784,
+      "size": 212,
+      "scope": "static"
+    },
+    "Streamer::Streamer": {
+      "address": 116331008,
+      "size": 457,
+      "scope": "static"
+    },
+    "sub_6EF13D0": {
+      "address": 116331472,
+      "size": 399,
+      "scope": "static"
+    },
+    "sub_6EF1560": {
+      "address": 116331872,
+      "size": 1062,
+      "scope": "static"
+    },
+    "StreamingSound::sub_6EF1990": {
+      "address": 116332944,
+      "size": 59,
+      "scope": "static"
+    },
+    "StreamingSound::sub_6EF19D0": {
+      "address": 116333008,
+      "size": 403,
+      "scope": "static"
+    },
+    "StreamingSound::Restart": {
+      "address": 116333424,
+      "size": 377,
+      "scope": "static"
+    },
+    "sub_6EF1D10": {
+      "address": 116333840,
+      "size": 49,
+      "scope": "static"
+    },
+    "Streamer::SetVolume": {
+      "address": 116333904,
+      "size": 30,
+      "scope": "static"
+    },
+    "StreamingSound::GetVolume": {
+      "address": 116333936,
+      "size": 42,
+      "scope": "static"
+    },
+    "Streamer::SetPan": {
+      "address": 116333984,
+      "size": 30,
+      "scope": "static"
+    },
+    "StreamingSound::GetPan": {
+      "address": 116334016,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6EF1DF0": {
+      "address": 116334064,
+      "size": 233,
+      "scope": "static"
+    },
+    "sub_6EF1EE0": {
+      "address": 116334304,
+      "size": 194,
+      "scope": "static"
+    },
+    "sub_6EF1FB0": {
+      "address": 116334512,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_6EF2020": {
+      "address": 116334624,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_6EF2090": {
+      "address": 116334736,
+      "size": 252,
+      "scope": "static"
+    },
+    "sub_6EF2190": {
+      "address": 116334992,
+      "size": 316,
+      "scope": "static"
+    },
+    "sub_6EF22D0": {
+      "address": 116335312,
+      "size": 228,
+      "scope": "static"
+    },
+    "sub_6EF23C0": {
+      "address": 116335552,
+      "size": 123,
+      "scope": "static"
+    },
+    "sub_6EF2440": {
+      "address": 116335680,
+      "size": 172,
+      "scope": "static"
+    },
+    "sub_6EF24F0": {
+      "address": 116335856,
+      "size": 687,
+      "scope": "static"
+    },
+    "sub_6EF27A0": {
+      "address": 116336544,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_6EF2800": {
+      "address": 116336640,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_6EF2850": {
+      "address": 116336720,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_6EF28C0": {
+      "address": 116336832,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_6EF28F0": {
+      "address": 116336880,
+      "size": 17,
+      "scope": "static"
+    },
+    "temp_string": {
+      "address": 116336912,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6EF2940": {
+      "address": 116336960,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6EF2950": {
+      "address": 116336976,
+      "size": 264,
+      "scope": "static"
+    },
+    "sub_6EF2A60": {
+      "address": 116337248,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6EF2A80": {
+      "address": 116337280,
+      "size": 44,
+      "scope": "static"
+    },
+    "nullsub_2": {
+      "address": 116337328,
+      "size": 1,
+      "scope": "static"
+    },
+    "threadMain": {
+      "address": 116337344,
+      "size": 46,
+      "scope": "static"
+    },
+    "CSoundStreamer::CSoundStreamer": {
+      "address": 116337392,
+      "size": 90,
+      "scope": "static"
+    },
+    "DAComponentAggregate_CSoundStreamer::Dtor": {
+      "address": 116337488,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6EF2BB0": {
+      "address": 116337584,
+      "size": 452,
+      "scope": "static"
+    },
+    "SoundStreamer::init": {
+      "address": 116338048,
+      "size": 35,
+      "scope": "static"
+    },
+    "SoundStreamer::Initialize": {
+      "address": 116338096,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6EF2DE0": {
+      "address": 116338144,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6EF2DF0": {
+      "address": 116338160,
+      "size": 4,
+      "scope": "static"
+    },
+    "SoundStreamer::Init": {
+      "address": 116338176,
+      "size": 608,
+      "scope": "static"
+    },
+    "CSoundStreamer::Open": {
+      "address": 116338784,
+      "size": 550,
+      "scope": "static"
+    },
+    "CSoundStreamer::CloseHandle": {
+      "address": 116339344,
+      "size": 350,
+      "scope": "static"
+    },
+    "CSoundStreamer::Stop": {
+      "address": 116339696,
+      "size": 37,
+      "scope": "static"
+    },
+    "CSoundStreamer::Restart": {
+      "address": 116339744,
+      "size": 69,
+      "scope": "static"
+    },
+    "CSoundStreamer::SetVolume": {
+      "address": 116339824,
+      "size": 42,
+      "scope": "static"
+    },
+    "CSoundStreamer::GetVolume": {
+      "address": 116339872,
+      "size": 43,
+      "scope": "static"
+    },
+    "CSoundStreamer::SetPan": {
+      "address": 116339920,
+      "size": 42,
+      "scope": "static"
+    },
+    "CSoundStreamer::GetPan": {
+      "address": 116339968,
+      "size": 43,
+      "scope": "static"
+    },
+    "CSoundStreamer::GetStatus": {
+      "address": 116340016,
+      "size": 79,
+      "scope": "static"
+    },
+    "CSoundStreamer::main": {
+      "address": 116340144,
+      "size": 471,
+      "scope": "static"
+    },
+    "sub_6EF3790": {
+      "address": 116340624,
+      "size": 251,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 116340880,
+      "size": 121,
+      "scope": "static"
+    },
+    "sub_6EF3910": {
+      "address": 116341008,
+      "size": 23,
+      "scope": "static"
+    },
+    "nullsub_1": {
+      "address": 116341040,
+      "size": 3,
+      "scope": "static"
+    },
+    "CSoundStreamer::GetSomethingA": {
+      "address": 116341056,
+      "size": 10,
+      "scope": "static"
+    },
+    "CSoundStreamer::GetSomethingB": {
+      "address": 116341072,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EF3960": {
+      "address": 116341088,
+      "size": 536,
+      "scope": "static"
+    },
+    "SoundStreamerIComponentFactory::QueryInterface": {
+      "address": 116341632,
+      "size": 59,
+      "scope": "static"
+    },
+    "SoundStreamerIComponentFactory::Release": {
+      "address": 116341696,
+      "size": 43,
+      "scope": "static"
+    },
+    "SoundStreamerIComponentFactory::CreateInstance": {
+      "address": 116341744,
+      "size": 272,
+      "scope": "static"
+    },
+    "QueryInterface_sub_6EF3D00": {
+      "address": 116342016,
+      "size": 178,
+      "scope": "static"
+    },
+    "SoundStreamerIComponentFactory::AddRef": {
+      "address": 116342208,
+      "size": 16,
+      "scope": "static"
+    },
+    "Release_sub_6EF3DD0": {
+      "address": 116342224,
+      "size": 59,
+      "scope": "static"
+    },
+    "SoundStreamer::QueryInterface": {
+      "address": 116342288,
+      "size": 15,
+      "scope": "static"
+    },
+    "SoundStreamer::AddRef": {
+      "address": 116342304,
+      "size": 16,
+      "scope": "static"
+    },
+    "SoundStreamer::Release": {
+      "address": 116342320,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6EF3E40": {
+      "address": 116342336,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6EF3E70": {
+      "address": 116342384,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EF3E80": {
+      "address": 116342400,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EF3E90": {
+      "address": 116342416,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EF3EA0": {
+      "address": 116342432,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_6EF3EC0": {
+      "address": 116342464,
+      "size": 79,
+      "scope": "static"
+    },
+    "AcmDriverEnumCallback": {
+      "address": 116342544,
+      "size": 145,
+      "scope": "static"
+    },
+    "OpenAcmDriver": {
+      "address": 116342704,
+      "size": 78,
+      "scope": "static"
+    },
+    "acmStreamClose": {
+      "address": 116342784,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmStreamSize": {
+      "address": 116342790,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmStreamOpen": {
+      "address": 116342796,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmFormatSuggest": {
+      "address": 116342802,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmStreamUnprepareHeader": {
+      "address": 116342808,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmStreamConvert": {
+      "address": 116342814,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmStreamPrepareHeader": {
+      "address": 116342820,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmDriverDetailsA": {
+      "address": 116342826,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmDriverOpen": {
+      "address": 116342832,
+      "size": 6,
+      "scope": "static"
+    },
+    "acmDriverEnum": {
+      "address": 116342838,
+      "size": 6,
+      "scope": "static"
+    },
+    "?_Xlen@std@@YAXXZ": {
+      "address": 116342844,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_6EF4096": {
+      "address": 116342934,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_6EF40FA": {
+      "address": 116343034,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6EF4107": {
+      "address": 116343047,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_6EF4124": {
+      "address": 116343076,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6EF4140": {
+      "address": 116343104,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_6EF419D": {
+      "address": 116343197,
+      "size": 61,
+      "scope": "static"
+    },
+    "sub_6EF41DA": {
+      "address": 116343258,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_6EF41F7": {
+      "address": 116343287,
+      "size": 24,
+      "scope": "static"
+    },
+    "?_Xran@std@@YAXXZ": {
+      "address": 116343311,
+      "size": 119,
+      "scope": "static"
+    },
+    "sub_6EF4286": {
+      "address": 116343430,
+      "size": 24,
+      "scope": "static"
+    },
+    "sub_6EF429E": {
+      "address": 116343454,
+      "size": 8,
+      "scope": "static"
+    },
+    "?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z": {
+      "address": 116343462,
+      "size": 206,
+      "scope": "static"
+    },
+    "?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z": {
+      "address": 116343668,
+      "size": 53,
+      "scope": "static"
+    },
+    "?erase@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@II@Z": {
+      "address": 116343721,
+      "size": 103,
+      "scope": "static"
+    },
+    "?_Grow@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAE_NI_N@Z": {
+      "address": 116343824,
+      "size": 133,
+      "scope": "static"
+    },
+    "sub_6EF4495": {
+      "address": 116343957,
+      "size": 48,
+      "scope": "static"
+    },
+    "sub_6EF44C5": {
+      "address": 116344005,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6EF44EF": {
+      "address": 116344047,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6EF44FB": {
+      "address": 116344059,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6EF4507": {
+      "address": 116344071,
+      "size": 11,
+      "scope": "static"
+    },
+    "delete": {
+      "address": 116344082,
+      "size": 105,
+      "scope": "static"
+    },
+    "__fpmath": {
+      "address": 116344187,
+      "size": 23,
+      "scope": "static"
+    },
+    "nullsub_3": {
+      "address": 116344210,
+      "size": 1,
+      "scope": "static"
+    },
+    "__cfltcvt_init": {
+      "address": 116344211,
+      "size": 56,
+      "scope": "static"
+    },
+    "_malloc": {
+      "address": 116344267,
+      "size": 18,
+      "scope": "static"
+    },
+    "__nh_malloc": {
+      "address": 116344285,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6EF4609": {
+      "address": 116344329,
+      "size": 116,
+      "scope": "static"
+    },
+    "__ftol": {
+      "address": 116344448,
+      "size": 39,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 116344496,
+      "size": 47,
+      "scope": "static"
+    },
+    "___memcpy": {
+      "address": 116344544,
+      "size": 821,
+      "scope": "static"
+    },
+    "__vsnprintf": {
+      "address": 116345365,
+      "size": 80,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 116345445,
+      "size": 14,
+      "scope": "static"
+    },
+    "?_JumpToContinuation@@YGXPAXPAUEHRegistrationNode@@@Z": {
+      "address": 116345459,
+      "size": 52,
+      "scope": "static"
+    },
+    "sub_6EF4AA7": {
+      "address": 116345511,
+      "size": 7,
+      "scope": "static"
+    },
+    "?_UnwindNestedFrames@@YGXPAUEHRegistrationNode@@PAUEHExceptionRecord@@@Z": {
+      "address": 116345518,
+      "size": 79,
+      "scope": "static"
+    },
+    "___CxxFrameHandler": {
+      "address": 116345597,
+      "size": 54,
+      "scope": "static"
+    },
+    "?_CallCatchBlock2@@YAPAXPAUEHRegistrationNode@@PBU_s_FuncInfo@@PAXHK@Z": {
+      "address": 116345651,
+      "size": 84,
+      "scope": "static"
+    },
+    "?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z": {
+      "address": 116345735,
+      "size": 37,
+      "scope": "static"
+    },
+    "?_CallSETranslator@@YAHPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAX2PBU_s_FuncInfo@@H1@Z": {
+      "address": 116345772,
+      "size": 180,
+      "scope": "static"
+    },
+    "?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z": {
+      "address": 116345952,
+      "size": 117,
+      "scope": "static"
+    },
+    "?_GetRangeOfTrysToCheck@@YAPBU_s_TryBlockMapEntry@@PBU_s_FuncInfo@@HHPAI1@Z": {
+      "address": 116346069,
+      "size": 123,
+      "scope": "static"
+    },
+    "__global_unwind2": {
+      "address": 116346192,
+      "size": 32,
+      "scope": "static"
+    },
+    "__unwind_handler": {
+      "address": 116346224,
+      "size": 34,
+      "scope": "static"
+    },
+    "__local_unwind2": {
+      "address": 116346258,
+      "size": 104,
+      "scope": "static"
+    },
+    "__abnormal_termination": {
+      "address": 116346362,
+      "size": 35,
+      "scope": "static"
+    },
+    "__NLG_Notify1": {
+      "address": 116346397,
+      "size": 9,
+      "scope": "static"
+    },
+    "__NLG_Notify": {
+      "address": 116346406,
+      "size": 24,
+      "scope": "static"
+    },
+    "__onexit": {
+      "address": 116346430,
+      "size": 109,
+      "scope": "static"
+    },
+    "_atexit": {
+      "address": 116346539,
+      "size": 18,
+      "scope": "static"
+    },
+    "___onexitinit": {
+      "address": 116346557,
+      "size": 47,
+      "scope": "static"
+    },
+    "purecall": {
+      "address": 116346604,
+      "size": 7,
+      "scope": "static"
+    },
+    "malloc": {
+      "address": 116346613,
+      "size": 177,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 116346790,
+      "size": 184,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 116346974,
+      "size": 157,
+      "scope": "global"
+    },
+    "__amsg_exit": {
+      "address": 116347131,
+      "size": 48,
+      "scope": "static"
+    },
+    "sub_6EF512E": {
+      "address": 116347182,
+      "size": 28,
+      "scope": "static"
+    },
+    "??0exception@@QAE@ABQBD@Z": {
+      "address": 116347210,
+      "size": 61,
+      "scope": "static"
+    },
+    "??0exception@@QAE@ABV0@@Z": {
+      "address": 116347271,
+      "size": 74,
+      "scope": "static"
+    },
+    "sub_6EF51D1": {
+      "address": 116347345,
+      "size": 22,
+      "scope": "static"
+    },
+    "?what@exception@@UBEPBDXZ": {
+      "address": 116347367,
+      "size": 13,
+      "scope": "static"
+    },
+    "??1type_info@@UAE@XZ": {
+      "address": 116347380,
+      "size": 21,
+      "scope": "static"
+    },
+    "??_Gtype_info@@UAEPAXI@Z": {
+      "address": 116347401,
+      "size": 28,
+      "scope": "static"
+    },
+    "_strlen": {
+      "address": 116347440,
+      "size": 123,
+      "scope": "static"
+    },
+    "__EH_prolog": {
+      "address": 116347564,
+      "size": 31,
+      "scope": "static"
+    },
+    "__CxxThrowException@8": {
+      "address": 116347595,
+      "size": 58,
+      "scope": "static"
+    },
+    "___memcpy_0": {
+      "address": 116347664,
+      "size": 821,
+      "scope": "static"
+    },
+    "sub_6EF5645": {
+      "address": 116348485,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_6EF5672": {
+      "address": 116348530,
+      "size": 328,
+      "scope": "static"
+    },
+    "sub_6EF57BA": {
+      "address": 116348858,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_6EF5817": {
+      "address": 116348951,
+      "size": 168,
+      "scope": "static"
+    },
+    "___sbh_heap_init": {
+      "address": 116349119,
+      "size": 72,
+      "scope": "static"
+    },
+    "___sbh_find_block": {
+      "address": 116349191,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6EF5932": {
+      "address": 116349234,
+      "size": 809,
+      "scope": "static"
+    },
+    "___sbh_alloc_block": {
+      "address": 116350043,
+      "size": 777,
+      "scope": "static"
+    },
+    "___sbh_alloc_new_region": {
+      "address": 116350820,
+      "size": 177,
+      "scope": "static"
+    },
+    "___sbh_alloc_new_group": {
+      "address": 116350997,
+      "size": 251,
+      "scope": "static"
+    },
+    "___sbh_resize_block": {
+      "address": 116351248,
+      "size": 758,
+      "scope": "static"
+    },
+    "sub_6EF6406": {
+      "address": 116352006,
+      "size": 324,
+      "scope": "static"
+    },
+    "sub_6EF654A": {
+      "address": 116352330,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6EF65A0": {
+      "address": 116352416,
+      "size": 194,
+      "scope": "static"
+    },
+    "sub_6EF6662": {
+      "address": 116352610,
+      "size": 87,
+      "scope": "static"
+    },
+    "sub_6EF66B9": {
+      "address": 116352697,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_6EF66FE": {
+      "address": 116352766,
+      "size": 520,
+      "scope": "static"
+    },
+    "sub_6EF6906": {
+      "address": 116353286,
+      "size": 292,
+      "scope": "static"
+    },
+    "sub_6EF6A2A": {
+      "address": 116353578,
+      "size": 169,
+      "scope": "static"
+    },
+    "__setdefaultprecision": {
+      "address": 116353747,
+      "size": 18,
+      "scope": "static"
+    },
+    "__ms_p5_test_fdiv": {
+      "address": 116353765,
+      "size": 62,
+      "scope": "static"
+    },
+    "__ms_p5_mp_test_fdiv": {
+      "address": 116353827,
+      "size": 41,
+      "scope": "static"
+    },
+    "__forcdecpt": {
+      "address": 116353868,
+      "size": 90,
+      "scope": "static"
+    },
+    "__cropzeros": {
+      "address": 116353958,
+      "size": 78,
+      "scope": "static"
+    },
+    "__positive": {
+      "address": 116354036,
+      "size": 24,
+      "scope": "static"
+    },
+    "__fassign": {
+      "address": 116354060,
+      "size": 62,
+      "scope": "static"
+    },
+    "__cftoe": {
+      "address": 116354122,
+      "size": 260,
+      "scope": "static"
+    },
+    "__cftof": {
+      "address": 116354382,
+      "size": 222,
+      "scope": "static"
+    },
+    "__cftog": {
+      "address": 116354604,
+      "size": 155,
+      "scope": "static"
+    },
+    "__cftoe_g": {
+      "address": 116354759,
+      "size": 39,
+      "scope": "static"
+    },
+    "__cftof_g": {
+      "address": 116354798,
+      "size": 35,
+      "scope": "static"
+    },
+    "__cfltcvt": {
+      "address": 116354833,
+      "size": 81,
+      "scope": "static"
+    },
+    "__shift": {
+      "address": 116354914,
+      "size": 37,
+      "scope": "static"
+    },
+    "__callnewh": {
+      "address": 116354951,
+      "size": 27,
+      "scope": "static"
+    },
+    "__flsbuf": {
+      "address": 116354978,
+      "size": 277,
+      "scope": "static"
+    },
+    "__output": {
+      "address": 116355255,
+      "size": 1825,
+      "scope": "static"
+    },
+    "_write_char": {
+      "address": 116357112,
+      "size": 53,
+      "scope": "static"
+    },
+    "_write_multi_char": {
+      "address": 116357165,
+      "size": 49,
+      "scope": "static"
+    },
+    "_write_string": {
+      "address": 116357214,
+      "size": 56,
+      "scope": "static"
+    },
+    "_get_int_arg": {
+      "address": 116357270,
+      "size": 13,
+      "scope": "static"
+    },
+    "_get_int64_arg": {
+      "address": 116357283,
+      "size": 16,
+      "scope": "static"
+    },
+    "_get_short_arg": {
+      "address": 116357299,
+      "size": 14,
+      "scope": "static"
+    },
+    "___InternalCxxFrameHandler": {
+      "address": 116357313,
+      "size": 155,
+      "scope": "static"
+    },
+    "?FindHandler@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@EH1@Z": {
+      "address": 116357468,
+      "size": 423,
+      "scope": "static"
+    },
+    "?FindHandlerForForeignException@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@HH1@Z": {
+      "address": 116357891,
+      "size": 168,
+      "scope": "static"
+    },
+    "?TypeMatch@@YAHPBU_s_HandlerType@@PBU_s_CatchableType@@PBU_s_ThrowInfo@@@Z": {
+      "address": 116358059,
+      "size": 93,
+      "scope": "static"
+    },
+    "___FrameUnwindToState": {
+      "address": 116358152,
+      "size": 158,
+      "scope": "static"
+    },
+    "sub_6EF7CA6": {
+      "address": 116358310,
+      "size": 22,
+      "scope": "static"
+    },
+    "?CatchIt@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@PBU_s_HandlerType@@PBU_s_CatchableType@@PBU_s_TryBlockMapEntry@@H1E@Z": {
+      "address": 116358332,
+      "size": 123,
+      "scope": "static"
+    },
+    "?CallCatchBlock@@YAPAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PBU_s_FuncInfo@@PAXHK@Z": {
+      "address": 116358455,
+      "size": 268,
+      "scope": "static"
+    },
+    "?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z": {
+      "address": 116358723,
+      "size": 42,
+      "scope": "static"
+    },
+    "?BuildCatchObject@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PBU_s_HandlerType@@PBU_s_CatchableType@@@Z": {
+      "address": 116358765,
+      "size": 452,
+      "scope": "static"
+    },
+    "sub_6EF8031": {
+      "address": 116359217,
+      "size": 103,
+      "scope": "static"
+    },
+    "?AdjustPointer@@YAPAXPAXABUPMD@@@Z": {
+      "address": 116359320,
+      "size": 35,
+      "scope": "static"
+    },
+    "__CallSettingFrame@12": {
+      "address": 116359360,
+      "size": 76,
+      "scope": "static"
+    },
+    "sub_6EF810C": {
+      "address": 116359436,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6EF8162": {
+      "address": 116359522,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6EF81B8": {
+      "address": 116359608,
+      "size": 655,
+      "scope": "static"
+    },
+    "__cinit": {
+      "address": 116360263,
+      "size": 45,
+      "scope": "static"
+    },
+    "__exit": {
+      "address": 116360308,
+      "size": 17,
+      "scope": "static"
+    },
+    "__cexit": {
+      "address": 116360325,
+      "size": 15,
+      "scope": "static"
+    },
+    "_doexit": {
+      "address": 116360340,
+      "size": 153,
+      "scope": "static"
+    },
+    "__initterm": {
+      "address": 116360493,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_6EF8547": {
+      "address": 116360519,
+      "size": 97,
+      "scope": "static"
+    },
+    "_memset": {
+      "address": 116360624,
+      "size": 88,
+      "scope": "static"
+    },
+    "__ioinit": {
+      "address": 116360712,
+      "size": 427,
+      "scope": "static"
+    },
+    "__ioterm": {
+      "address": 116361139,
+      "size": 35,
+      "scope": "static"
+    },
+    "__setenvp": {
+      "address": 116361174,
+      "size": 185,
+      "scope": "static"
+    },
+    "__setargv": {
+      "address": 116361359,
+      "size": 153,
+      "scope": "static"
+    },
+    "_parse_cmdline": {
+      "address": 116361512,
+      "size": 436,
+      "scope": "static"
+    },
+    "___crtGetEnvironmentStringsA": {
+      "address": 116361948,
+      "size": 306,
+      "scope": "static"
+    },
+    "__FF_MSGBANNER": {
+      "address": 116362254,
+      "size": 57,
+      "scope": "static"
+    },
+    "__NMSG_WRITE": {
+      "address": 116362311,
+      "size": 339,
+      "scope": "static"
+    },
+    "_strcpy": {
+      "address": 116362656,
+      "size": 7,
+      "scope": "static"
+    },
+    "_strcat": {
+      "address": 116362672,
+      "size": 224,
+      "scope": "static"
+    },
+    "_strcmp": {
+      "address": 116362896,
+      "size": 132,
+      "scope": "static"
+    },
+    "?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z": {
+      "address": 116363028,
+      "size": 70,
+      "scope": "static"
+    },
+    "sub_6EF8F5A": {
+      "address": 116363098,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_6EF8F6B": {
+      "address": 116363115,
+      "size": 13,
+      "scope": "static"
+    },
+    "_strtol": {
+      "address": 116363128,
+      "size": 23,
+      "scope": "static"
+    },
+    "_strtoxl": {
+      "address": 116363151,
+      "size": 520,
+      "scope": "static"
+    },
+    "found_bx": {
+      "address": 116363680,
+      "size": 5,
+      "scope": "static"
+    },
+    "_strchr": {
+      "address": 116363696,
+      "size": 188,
+      "scope": "static"
+    },
+    "_strstr": {
+      "address": 116363888,
+      "size": 128,
+      "scope": "static"
+    },
+    "_strncmp": {
+      "address": 116364016,
+      "size": 56,
+      "scope": "static"
+    },
+    "__control87": {
+      "address": 116364072,
+      "size": 53,
+      "scope": "static"
+    },
+    "__controlfp": {
+      "address": 116364125,
+      "size": 22,
+      "scope": "static"
+    },
+    "__abstract_cw": {
+      "address": 116364147,
+      "size": 146,
+      "scope": "static"
+    },
+    "__hw_cw": {
+      "address": 116364293,
+      "size": 137,
+      "scope": "static"
+    },
+    "__isctype": {
+      "address": 116364430,
+      "size": 117,
+      "scope": "static"
+    },
+    "_tolower": {
+      "address": 116364547,
+      "size": 203,
+      "scope": "static"
+    },
+    "__ZeroTail": {
+      "address": 116364750,
+      "size": 73,
+      "scope": "static"
+    },
+    "__IncMan": {
+      "address": 116364823,
+      "size": 86,
+      "scope": "static"
+    },
+    "__RoundMan": {
+      "address": 116364909,
+      "size": 140,
+      "scope": "static"
+    },
+    "__CopyMan": {
+      "address": 116365049,
+      "size": 27,
+      "scope": "static"
+    },
+    "__FillZeroMan": {
+      "address": 116365076,
+      "size": 12,
+      "scope": "static"
+    },
+    "__IsZeroMan": {
+      "address": 116365088,
+      "size": 27,
+      "scope": "static"
+    },
+    "__ShrMan": {
+      "address": 116365115,
+      "size": 141,
+      "scope": "static"
+    },
+    "__ld12cvt": {
+      "address": 116365256,
+      "size": 364,
+      "scope": "static"
+    },
+    "sub_6EF9934": {
+      "address": 116365620,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6EF994A": {
+      "address": 116365642,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6EF9960": {
+      "address": 116365664,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_6EF998D": {
+      "address": 116365709,
+      "size": 45,
+      "scope": "static"
+    },
+    "__fptostr": {
+      "address": 116365754,
+      "size": 119,
+      "scope": "static"
+    },
+    "__fltout": {
+      "address": 116365873,
+      "size": 100,
+      "scope": "static"
+    },
+    "___dtold": {
+      "address": 116365973,
+      "size": 182,
+      "scope": "static"
+    },
+    "__fptrap": {
+      "address": 116366155,
+      "size": 7,
+      "scope": "static"
+    },
+    "__lseek": {
+      "address": 116366164,
+      "size": 154,
+      "scope": "static"
+    },
+    "__write": {
+      "address": 116366318,
+      "size": 429,
+      "scope": "static"
+    },
+    "__getbuf": {
+      "address": 116366747,
+      "size": 68,
+      "scope": "static"
+    },
+    "__isatty": {
+      "address": 116366815,
+      "size": 38,
+      "scope": "static"
+    },
+    "___initstdio": {
+      "address": 116366853,
+      "size": 165,
+      "scope": "static"
+    },
+    "___endstdio": {
+      "address": 116367018,
+      "size": 20,
+      "scope": "static"
+    },
+    "_wctomb": {
+      "address": 116367038,
+      "size": 104,
+      "scope": "static"
+    },
+    "__aulldiv": {
+      "address": 116367152,
+      "size": 104,
+      "scope": "static"
+    },
+    "__aullrem": {
+      "address": 116367264,
+      "size": 117,
+      "scope": "static"
+    },
+    "?_ValidateRead@@YAHPBXI@Z": {
+      "address": 116367381,
+      "size": 28,
+      "scope": "static"
+    },
+    "?_ValidateWrite@@YAHPAXI@Z": {
+      "address": 116367409,
+      "size": 28,
+      "scope": "static"
+    },
+    "?_ValidateExecute@@YAHP6GHXZ@Z": {
+      "address": 116367437,
+      "size": 24,
+      "scope": "static"
+    },
+    "sub_6EFA068": {
+      "address": 116367464,
+      "size": 8,
+      "scope": "static"
+    },
+    "__except_handler3": {
+      "address": 116367472,
+      "size": 189,
+      "scope": "static"
+    },
+    "__seh_longjmp_unwind@4": {
+      "address": 116367661,
+      "size": 27,
+      "scope": "static"
+    },
+    "_abort": {
+      "address": 116367688,
+      "size": 23,
+      "scope": "static"
+    },
+    "__setmbcp": {
+      "address": 116367711,
+      "size": 409,
+      "scope": "static"
+    },
+    "_getSystemCP": {
+      "address": 116368120,
+      "size": 74,
+      "scope": "static"
+    },
+    "_CPtoLCID": {
+      "address": 116368194,
+      "size": 51,
+      "scope": "static"
+    },
+    "_setSBCS": {
+      "address": 116368245,
+      "size": 41,
+      "scope": "static"
+    },
+    "_setSBUpLow": {
+      "address": 116368286,
+      "size": 389,
+      "scope": "static"
+    },
+    "___initmbctable": {
+      "address": 116368675,
+      "size": 28,
+      "scope": "static"
+    },
+    "___crtMessageBoxA": {
+      "address": 116368703,
+      "size": 137,
+      "scope": "static"
+    },
+    "_strncpy": {
+      "address": 116368848,
+      "size": 254,
+      "scope": "static"
+    },
+    "_toupper": {
+      "address": 116369102,
+      "size": 204,
+      "scope": "static"
+    },
+    "___crtGetStringTypeA": {
+      "address": 116369306,
+      "size": 329,
+      "scope": "static"
+    },
+    "___crtLCMapStringA": {
+      "address": 116369635,
+      "size": 548,
+      "scope": "static"
+    },
+    "_strncnt": {
+      "address": 116370183,
+      "size": 43,
+      "scope": "static"
+    },
+    "___addl": {
+      "address": 116370226,
+      "size": 33,
+      "scope": "static"
+    },
+    "___add_12": {
+      "address": 116370259,
+      "size": 94,
+      "scope": "static"
+    },
+    "___shl_12": {
+      "address": 116370353,
+      "size": 46,
+      "scope": "static"
+    },
+    "___shr_12": {
+      "address": 116370399,
+      "size": 45,
+      "scope": "static"
+    },
+    "___mtold12": {
+      "address": 116370444,
+      "size": 199,
+      "scope": "static"
+    },
+    "___strgtold12": {
+      "address": 116370643,
+      "size": 1185,
+      "scope": "static"
+    },
+    "_$I10_OUTPUT": {
+      "address": 116371876,
+      "size": 659,
+      "scope": "static"
+    },
+    "__dosmaperr": {
+      "address": 116372535,
+      "size": 103,
+      "scope": "static"
+    },
+    "__free_osfhnd": {
+      "address": 116372638,
+      "size": 122,
+      "scope": "static"
+    },
+    "__get_osfhandle": {
+      "address": 116372760,
+      "size": 61,
+      "scope": "static"
+    },
+    "__fcloseall": {
+      "address": 116372821,
+      "size": 88,
+      "scope": "static"
+    },
+    "_fflush": {
+      "address": 116372909,
+      "size": 59,
+      "scope": "static"
+    },
+    "__flush": {
+      "address": 116372968,
+      "size": 92,
+      "scope": "static"
+    },
+    "sub_6EFB644": {
+      "address": 116373060,
+      "size": 9,
+      "scope": "static"
+    },
+    "_flsall": {
+      "address": 116373069,
+      "size": 109,
+      "scope": "static"
+    },
+    "_raise": {
+      "address": 116373178,
+      "size": 301,
+      "scope": "static"
+    },
+    "_siglookup": {
+      "address": 116373479,
+      "size": 69,
+      "scope": "static"
+    },
+    "___ld12mul": {
+      "address": 116373548,
+      "size": 544,
+      "scope": "static"
+    },
+    "___multtenpow12": {
+      "address": 116374092,
+      "size": 124,
+      "scope": "static"
+    },
+    "_fclose": {
+      "address": 116374216,
+      "size": 86,
+      "scope": "static"
+    },
+    "__commit": {
+      "address": 116374302,
+      "size": 87,
+      "scope": "static"
+    },
+    "__close": {
+      "address": 116374389,
+      "size": 179,
+      "scope": "static"
+    },
+    "__freebuf": {
+      "address": 116374568,
+      "size": 43,
+      "scope": "static"
+    },
+    "RtlUnwind": {
+      "address": 116374612,
+      "size": 6,
+      "scope": "static"
+    },
+    "SEH_6EF2950": {
+      "address": 116374624,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EFBC6C": {
+      "address": 116374636,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6EFBC74": {
+      "address": 116374644,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EFBC80": {
+      "address": 116374656,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6EFBC88": {
+      "address": 116374664,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6EFBC94": {
+      "address": 116374676,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6EFBC9C": {
+      "address": 116374684,
+      "size": 10,
+      "scope": "static"
+    }
+  }
+}

@@ -1,0 +1,1109 @@
+{
+  "imeui.dll.obj": {
+    "sub_6711000": {
+      "address": 108072960,
+      "size": 110,
+      "scope": "static"
+    },
+    "sub_6711070": {
+      "address": 108073072,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6711080": {
+      "address": 108073088,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_67110A0": {
+      "address": 108073120,
+      "size": 10,
+      "scope": "static"
+    },
+    "nullsub_1": {
+      "address": 108073136,
+      "size": 3,
+      "scope": "static"
+    },
+    "sub_67110C0": {
+      "address": 108073152,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_67110E0": {
+      "address": 108073184,
+      "size": 33,
+      "scope": "static"
+    },
+    "?UpdatedText@CInputBox@@UAEXPBG@Z": {
+      "address": 108073232,
+      "size": 3,
+      "scope": "global"
+    },
+    "sub_6711120": {
+      "address": 108073248,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_6711150": {
+      "address": 108073296,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_6711180": {
+      "address": 108073344,
+      "size": 27,
+      "scope": "static"
+    },
+    "sub_67111A0": {
+      "address": 108073376,
+      "size": 21,
+      "scope": "static"
+    },
+    "?GetSingleton@IMEFocus@@SAPAU1@XZ": {
+      "address": 108073408,
+      "size": 6,
+      "scope": "global"
+    },
+    "??1IMEFocus@@UAE@XZ": {
+      "address": 108073424,
+      "size": 226,
+      "scope": "global"
+    },
+    "??0IMEFocus@@QAE@PAUHWND__@@@Z": {
+      "address": 108073664,
+      "size": 260,
+      "scope": "global"
+    },
+    "?Draw@IMEFocus@@QAEXPAX@Z": {
+      "address": 108073936,
+      "size": 93,
+      "scope": "global"
+    },
+    "?GetSymbolFont@IMEFocus@@QAEPAVCImeUiFont_Base@@XZ": {
+      "address": 108074032,
+      "size": 6,
+      "scope": "global"
+    },
+    "?SetSupportLevel@IMEFocus@@QAEXH@Z": {
+      "address": 108074048,
+      "size": 14,
+      "scope": "global"
+    },
+    "?RevertLevel3Drawing@IMEFocus@@QAEX_N@Z": {
+      "address": 108074064,
+      "size": 10,
+      "scope": "global"
+    },
+    "?IgnoreHotKey@IMEFocus@@QBE_NPBUtagMSG@@@Z": {
+      "address": 108074080,
+      "size": 28,
+      "scope": "global"
+    },
+    "?RegisterInputBox@IMEFocus@@QAEPAUIMEInputBox@@PAU2@@Z": {
+      "address": 108074112,
+      "size": 85,
+      "scope": "global"
+    },
+    "?GetFocus@IMEFocus@@QBEPAUIMEInputBox@@XZ": {
+      "address": 108074208,
+      "size": 4,
+      "scope": "global"
+    },
+    "?SetFocus@IMEFocus@@UAEXPAUIMEInputBox@@_N@Z": {
+      "address": 108074224,
+      "size": 52,
+      "scope": "global"
+    },
+    "?NumInputBoxes@IMEFocus@@QBEHXZ": {
+      "address": 108074288,
+      "size": 4,
+      "scope": "global"
+    },
+    "?GetInputBox@IMEFocus@@QBEPAUIMEInputBox@@H@Z": {
+      "address": 108074304,
+      "size": 45,
+      "scope": "global"
+    },
+    "?RemoveInputBox@IMEFocus@@QAEPAUIMEInputBox@@H@Z": {
+      "address": 108074352,
+      "size": 100,
+      "scope": "global"
+    },
+    "?RemoveInputBox@IMEFocus@@QAEPAUIMEInputBox@@PAU2@@Z": {
+      "address": 108074464,
+      "size": 97,
+      "scope": "global"
+    },
+    "?OnSize@IMEFocus@@UAEXPAUHWND__@@IJ@Z": {
+      "address": 108074576,
+      "size": 51,
+      "scope": "global"
+    },
+    "?OnSetFocus@IMEFocus@@UAEXXZ": {
+      "address": 108074640,
+      "size": 13,
+      "scope": "global"
+    },
+    "?OnKillFocus@IMEFocus@@UAEXXZ": {
+      "address": 108074656,
+      "size": 13,
+      "scope": "global"
+    },
+    "?OnMouseMove@IMEFocus@@UAE_NPAUHWND__@@IJ@Z": {
+      "address": 108074672,
+      "size": 5,
+      "scope": "global"
+    },
+    "?OnChar@IMEFocus@@UAE_NI@Z": {
+      "address": 108074688,
+      "size": 46,
+      "scope": "global"
+    },
+    "?OnKeyDown@IMEFocus@@UAE_NI@Z": {
+      "address": 108074736,
+      "size": 17,
+      "scope": "global"
+    },
+    "?WndProc@IMEFocus@@QAE_NPAUHWND__@@IIJPAH@Z": {
+      "address": 108074768,
+      "size": 172,
+      "scope": "global"
+    },
+    "?GetDefaultAppearance@IMEFocus@@QAEPBU_IMEUI_APPEARANCE@@XZ": {
+      "address": 108074960,
+      "size": 548,
+      "scope": "global"
+    },
+    "sub_6711A00": {
+      "address": 108075520,
+      "size": 77,
+      "scope": "static"
+    },
+    "sub_6711A50": {
+      "address": 108075600,
+      "size": 15,
+      "scope": "static"
+    },
+    "??4CCaret@@QAEAAV0@ABV0@@Z": {
+      "address": 108075616,
+      "size": 22,
+      "scope": "global"
+    },
+    "?GetTitle@CInputBox@@QAEPAGXZ": {
+      "address": 108075648,
+      "size": 4,
+      "scope": "global"
+    },
+    "?SetTitle@CInputBox@@QAEXPAG@Z": {
+      "address": 108075664,
+      "size": 20,
+      "scope": "global"
+    },
+    "?GetRect@CInputBox@@QAEPBUtagRECT@@XZ": {
+      "address": 108075696,
+      "size": 4,
+      "scope": "global"
+    },
+    "?GetCaret@CInputBox@@QAEPAVCCaret@@XZ": {
+      "address": 108075712,
+      "size": 4,
+      "scope": "global"
+    },
+    "?GetMarginX@CInputBox@@QBEKXZ": {
+      "address": 108075728,
+      "size": 4,
+      "scope": "global"
+    },
+    "?GetMarginY@CInputBox@@QBEKXZ": {
+      "address": 108075744,
+      "size": 4,
+      "scope": "global"
+    },
+    "?HandleWideChar@CInputBox@@QAE_NG@Z": {
+      "address": 108075760,
+      "size": 37,
+      "scope": "global"
+    },
+    "?GetFreeInputBufferSize@CInputBox@@IBEHXZ": {
+      "address": 108075808,
+      "size": 15,
+      "scope": "global"
+    },
+    "?MoveCaretRight@CInputBox@@IAE_N_N@Z": {
+      "address": 108075824,
+      "size": 15,
+      "scope": "global"
+    },
+    "?MoveCaretLeft@CInputBox@@IAE_N_N@Z": {
+      "address": 108075840,
+      "size": 15,
+      "scope": "global"
+    },
+    "?MoveCaretHead@CInputBox@@IAE_NXZ": {
+      "address": 108075856,
+      "size": 10,
+      "scope": "global"
+    },
+    "?MoveCaretTail@CInputBox@@IAE_NXZ": {
+      "address": 108075872,
+      "size": 10,
+      "scope": "global"
+    },
+    "??0CInputBox@@QAE@ABV0@@Z": {
+      "address": 108075888,
+      "size": 151,
+      "scope": "global"
+    },
+    "??4CInputBox@@QAEAAV0@ABV0@@Z": {
+      "address": 108076048,
+      "size": 159,
+      "scope": "global"
+    },
+    "sub_6711CB0": {
+      "address": 108076208,
+      "size": 87,
+      "scope": "static"
+    },
+    "??0IMEInputBox@@QAE@ABU0@@Z": {
+      "address": 108076304,
+      "size": 169,
+      "scope": "global"
+    },
+    "??4IMEInputBox@@QAEAAU0@ABU0@@Z": {
+      "address": 108076480,
+      "size": 171,
+      "scope": "global"
+    },
+    "sub_6711E70": {
+      "address": 108076656,
+      "size": 87,
+      "scope": "static"
+    },
+    "?IsImeAvailable@IMEFocus@@QBE_NXZ": {
+      "address": 108076752,
+      "size": 4,
+      "scope": "global"
+    },
+    "?HasRevertedLevel3Drawing@IMEFocus@@QBE_NXZ": {
+      "address": 108076768,
+      "size": 4,
+      "scope": "global"
+    },
+    "??0IMEFocus@@QAE@ABU0@@Z": {
+      "address": 108076784,
+      "size": 168,
+      "scope": "global"
+    },
+    "??4IMEFocus@@QAEAAU0@ABU0@@Z": {
+      "address": 108076960,
+      "size": 233,
+      "scope": "global"
+    },
+    "sub_6712090": {
+      "address": 108077200,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_67120F0": {
+      "address": 108077296,
+      "size": 233,
+      "scope": "static"
+    },
+    "sub_67121E0": {
+      "address": 108077536,
+      "size": 189,
+      "scope": "static"
+    },
+    "sub_67122A0": {
+      "address": 108077728,
+      "size": 109,
+      "scope": "static"
+    },
+    "sub_6712310": {
+      "address": 108077840,
+      "size": 108,
+      "scope": "static"
+    },
+    "sub_6712380": {
+      "address": 108077952,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_67123D0": {
+      "address": 108078032,
+      "size": 52,
+      "scope": "static"
+    },
+    "sub_6712410": {
+      "address": 108078096,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6712440": {
+      "address": 108078144,
+      "size": 55,
+      "scope": "static"
+    },
+    "sub_6712480": {
+      "address": 108078208,
+      "size": 79,
+      "scope": "static"
+    },
+    "sub_67124D0": {
+      "address": 108078288,
+      "size": 50,
+      "scope": "static"
+    },
+    "sub_6712510": {
+      "address": 108078352,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6712530": {
+      "address": 108078384,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6712540": {
+      "address": 108078400,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_6712560": {
+      "address": 108078432,
+      "size": 116,
+      "scope": "static"
+    },
+    "??0CCaret@@QAE@PAUHWND__@@@Z": {
+      "address": 108078560,
+      "size": 21,
+      "scope": "global"
+    },
+    "??1CCaret@@QAE@XZ": {
+      "address": 108078592,
+      "size": 1,
+      "scope": "global"
+    },
+    "?Show@CCaret@@QAEX_N@Z": {
+      "address": 108078608,
+      "size": 9,
+      "scope": "global"
+    },
+    "?SetPos@CCaret@@QAE_NHH@Z": {
+      "address": 108078624,
+      "size": 29,
+      "scope": "global"
+    },
+    "?UpdateCaret@CCaret@@QAE_NXZ": {
+      "address": 108078656,
+      "size": 90,
+      "scope": "global"
+    },
+    "?SetBlink@CCaret@@QAEX_N@Z": {
+      "address": 108078752,
+      "size": 14,
+      "scope": "global"
+    },
+    "??0CInputBox@@QAE@XZ": {
+      "address": 108078768,
+      "size": 100,
+      "scope": "global"
+    },
+    "??1CInputBox@@UAE@XZ": {
+      "address": 108078880,
+      "size": 20,
+      "scope": "global"
+    },
+    "?SetMargins@CInputBox@@QAEXKK@Z": {
+      "address": 108078912,
+      "size": 17,
+      "scope": "global"
+    },
+    "?SetInputBufferSize@CInputBox@@QAEXK@Z": {
+      "address": 108078944,
+      "size": 155,
+      "scope": "global"
+    },
+    "?Resize@CInputBox@@UAEXPBUtagRECT@@@Z": {
+      "address": 108079104,
+      "size": 39,
+      "scope": "global"
+    },
+    "?OnSetFocus@CInputBox@@UAEXXZ": {
+      "address": 108079152,
+      "size": 28,
+      "scope": "global"
+    },
+    "?OnKillFocus@CInputBox@@UAEXXZ": {
+      "address": 108079184,
+      "size": 19,
+      "scope": "global"
+    },
+    "?HandleKey@CInputBox@@UAE_NI@Z": {
+      "address": 108079216,
+      "size": 150,
+      "scope": "global"
+    },
+    "?CharFilter@CInputBox@@UBE_NG@Z": {
+      "address": 108079440,
+      "size": 50,
+      "scope": "global"
+    },
+    "?HandleMultiByteChar@CInputBox@@QAE_ND@Z": {
+      "address": 108079504,
+      "size": 196,
+      "scope": "global"
+    },
+    "?RecalcCaretPos@CInputBox@@MAEXXZ": {
+      "address": 108079712,
+      "size": 81,
+      "scope": "global"
+    },
+    "?AddChar@CInputBox@@IAEXG@Z": {
+      "address": 108079808,
+      "size": 183,
+      "scope": "global"
+    },
+    "?DeleteChar@CInputBox@@IAE_NXZ": {
+      "address": 108080000,
+      "size": 87,
+      "scope": "global"
+    },
+    "?ResetCaret@CInputBox@@IAEXXZ": {
+      "address": 108080096,
+      "size": 5,
+      "scope": "global"
+    },
+    "?ToggleInsertMode@CInputBox@@MAEXXZ": {
+      "address": 108080112,
+      "size": 18,
+      "scope": "global"
+    },
+    "?MoveCaret@CInputBox@@MAE_N_N0@Z": {
+      "address": 108080144,
+      "size": 135,
+      "scope": "global"
+    },
+    "??1IMEInputBox@@UAE@XZ": {
+      "address": 108080288,
+      "size": 121,
+      "scope": "global"
+    },
+    "??0IMEInputBox@@QAE@PBUtagLOGFONTA@@@Z": {
+      "address": 108080416,
+      "size": 144,
+      "scope": "global"
+    },
+    "?UpdateAppearance@IMEInputBox@@IAEXXZ": {
+      "address": 108080560,
+      "size": 58,
+      "scope": "global"
+    },
+    "?GetHFont@IMEInputBox@@QAEPAUHFONT__@@XZ": {
+      "address": 108080624,
+      "size": 27,
+      "scope": "global"
+    },
+    "?GetFont@IMEInputBox@@QAEPBUtagLOGFONTA@@XZ": {
+      "address": 108080656,
+      "size": 15,
+      "scope": "global"
+    },
+    "?CalcCaretPos@IMEInputBox@@MAE_NPAUtagPOINT@@@Z": {
+      "address": 108080672,
+      "size": 74,
+      "scope": "global"
+    },
+    "?OnSetFocus@IMEInputBox@@UAEXXZ": {
+      "address": 108080752,
+      "size": 28,
+      "scope": "global"
+    },
+    "?OnKillFocus@IMEInputBox@@UAEXXZ": {
+      "address": 108080784,
+      "size": 23,
+      "scope": "global"
+    },
+    "?Resize@IMEInputBox@@UAEXPBUtagRECT@@@Z": {
+      "address": 108080816,
+      "size": 24,
+      "scope": "global"
+    },
+    "?IsImeOn@IMEInputBox@@QBE_NXZ": {
+      "address": 108080848,
+      "size": 22,
+      "scope": "global"
+    },
+    "?SetFont@IMEInputBox@@QAEXPAUtagLOGFONTA@@@Z": {
+      "address": 108080880,
+      "size": 41,
+      "scope": "global"
+    },
+    "?ToggleInsertMode@IMEInputBox@@MAEXXZ": {
+      "address": 108080928,
+      "size": 40,
+      "scope": "global"
+    },
+    "sub_6712F50": {
+      "address": 108080976,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6712F60": {
+      "address": 108080992,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_6712F70": {
+      "address": 108081008,
+      "size": 2512,
+      "scope": "static"
+    },
+    "sub_6713960": {
+      "address": 108083552,
+      "size": 49,
+      "scope": "static"
+    },
+    "sub_67139A0": {
+      "address": 108083616,
+      "size": 2009,
+      "scope": "static"
+    },
+    "sub_6714270": {
+      "address": 108085872,
+      "size": 97,
+      "scope": "static"
+    },
+    "sub_67142E0": {
+      "address": 108085984,
+      "size": 119,
+      "scope": "static"
+    },
+    "sub_6714360": {
+      "address": 108086112,
+      "size": 237,
+      "scope": "static"
+    },
+    "sub_6714450": {
+      "address": 108086352,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_6714470": {
+      "address": 108086384,
+      "size": 39,
+      "scope": "static"
+    },
+    "sub_67144A0": {
+      "address": 108086432,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_67144C0": {
+      "address": 108086464,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_6714530": {
+      "address": 108086576,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6714550": {
+      "address": 108086608,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_67145B0": {
+      "address": 108086704,
+      "size": 596,
+      "scope": "static"
+    },
+    "sub_6714810": {
+      "address": 108087312,
+      "size": 151,
+      "scope": "static"
+    },
+    "sub_67148B0": {
+      "address": 108087472,
+      "size": 293,
+      "scope": "static"
+    },
+    "sub_67149E0": {
+      "address": 108087776,
+      "size": 302,
+      "scope": "static"
+    },
+    "sub_6714B10": {
+      "address": 108088080,
+      "size": 103,
+      "scope": "static"
+    },
+    "sub_6714B80": {
+      "address": 108088192,
+      "size": 65,
+      "scope": "static"
+    },
+    "sub_6714BD0": {
+      "address": 108088272,
+      "size": 585,
+      "scope": "static"
+    },
+    "sub_6714E20": {
+      "address": 108088864,
+      "size": 1082,
+      "scope": "static"
+    },
+    "sub_6715260": {
+      "address": 108089952,
+      "size": 134,
+      "scope": "static"
+    },
+    "sub_67152F0": {
+      "address": 108090096,
+      "size": 148,
+      "scope": "static"
+    },
+    "sub_6715390": {
+      "address": 108090256,
+      "size": 57,
+      "scope": "static"
+    },
+    "sub_67153D0": {
+      "address": 108090320,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_6715440": {
+      "address": 108090432,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6715460": {
+      "address": 108090464,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_67154C0": {
+      "address": 108090560,
+      "size": 216,
+      "scope": "static"
+    },
+    "sub_67155A0": {
+      "address": 108090784,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_67155C0": {
+      "address": 108090816,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_67155E0": {
+      "address": 108090848,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_6715600": {
+      "address": 108090880,
+      "size": 1152,
+      "scope": "static"
+    },
+    "sub_6715AA0": {
+      "address": 108092064,
+      "size": 291,
+      "scope": "static"
+    },
+    "sub_6715BD0": {
+      "address": 108092368,
+      "size": 337,
+      "scope": "static"
+    },
+    "sub_6715D30": {
+      "address": 108092720,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_6715DA0": {
+      "address": 108092832,
+      "size": 274,
+      "scope": "static"
+    },
+    "sub_6715EC0": {
+      "address": 108093120,
+      "size": 146,
+      "scope": "static"
+    },
+    "sub_6715F60": {
+      "address": 108093280,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6715F70": {
+      "address": 108093296,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6715F95": {
+      "address": 108093333,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6715FBA": {
+      "address": 108093370,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6715FDF": {
+      "address": 108093407,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716004": {
+      "address": 108093444,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716029": {
+      "address": 108093481,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_671604E": {
+      "address": 108093518,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716073": {
+      "address": 108093555,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716098": {
+      "address": 108093592,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_67160BD": {
+      "address": 108093629,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_67160E2": {
+      "address": 108093666,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716107": {
+      "address": 108093703,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_671612C": {
+      "address": 108093740,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716151": {
+      "address": 108093777,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6716176": {
+      "address": 108093814,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_671619B": {
+      "address": 108093851,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_67161C0": {
+      "address": 108093888,
+      "size": 125,
+      "scope": "static"
+    },
+    "sub_671623D": {
+      "address": 108094013,
+      "size": 58,
+      "scope": "static"
+    },
+    "sub_6716277": {
+      "address": 108094071,
+      "size": 35,
+      "scope": "static"
+    },
+    "sub_671629A": {
+      "address": 108094106,
+      "size": 63,
+      "scope": "static"
+    },
+    "sub_67162D9": {
+      "address": 108094169,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_671633D": {
+      "address": 108094269,
+      "size": 155,
+      "scope": "static"
+    },
+    "sub_67163D8": {
+      "address": 108094424,
+      "size": 707,
+      "scope": "static"
+    },
+    "sub_671669B": {
+      "address": 108095131,
+      "size": 339,
+      "scope": "static"
+    },
+    "sub_67167EE": {
+      "address": 108095470,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_67167FB": {
+      "address": 108095483,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6716800": {
+      "address": 108095488,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_671680D": {
+      "address": 108095501,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_671681A": {
+      "address": 108095514,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_6716843": {
+      "address": 108095555,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_671686C": {
+      "address": 108095596,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6716879": {
+      "address": 108095609,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_67168A2": {
+      "address": 108095650,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_67168D0": {
+      "address": 108095696,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_67168FE": {
+      "address": 108095742,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_6716927": {
+      "address": 108095783,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6716934": {
+      "address": 108095796,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6716940": {
+      "address": 108095808,
+      "size": 41,
+      "scope": "static"
+    },
+    "VerQueryValueA": {
+      "address": 108095850,
+      "size": 6,
+      "scope": "static"
+    },
+    "GetFileVersionInfoA": {
+      "address": 108095856,
+      "size": 6,
+      "scope": "static"
+    },
+    "GetFileVersionInfoSizeA": {
+      "address": 108095862,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmIsIME": {
+      "address": 108095868,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmReleaseContext": {
+      "address": 108095874,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetContext": {
+      "address": 108095880,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetConversionStatus": {
+      "address": 108095886,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmAssociateContext": {
+      "address": 108095892,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetCandidateListA": {
+      "address": 108095898,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetCandidateListW": {
+      "address": 108095904,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetCompositionStringW": {
+      "address": 108095910,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetCompositionStringA": {
+      "address": 108095916,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetIMEFileNameA": {
+      "address": 108095922,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetVirtualKey": {
+      "address": 108095928,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmNotifyIME": {
+      "address": 108095934,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetOpenStatus": {
+      "address": 108095940,
+      "size": 6,
+      "scope": "static"
+    },
+    "ImmGetDefaultIMEWnd": {
+      "address": 108095946,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_67169D0": {
+      "address": 108095952,
+      "size": 11,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 108095964,
+      "size": 6,
+      "scope": "static"
+    },
+    "_purecall": {
+      "address": 108095970,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CxxFrameHandler": {
+      "address": 108095976,
+      "size": 6,
+      "scope": "static"
+    },
+    "free": {
+      "address": 108095984,
+      "size": 6,
+      "scope": "static"
+    },
+    "??_M@YGXPAXIHP6EX0@Z@Z": {
+      "address": 108095990,
+      "size": 128,
+      "scope": "static"
+    },
+    "?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z": {
+      "address": 108096118,
+      "size": 94,
+      "scope": "static"
+    },
+    "unknown_libname_1": {
+      "address": 108096212,
+      "size": 22,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 108096240,
+      "size": 47,
+      "scope": "static"
+    },
+    "_ftol": {
+      "address": 108096288,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 108096294,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 108096465,
+      "size": 157,
+      "scope": "global"
+    },
+    "_except_handler3": {
+      "address": 108096622,
+      "size": 6,
+      "scope": "static"
+    },
+    "?terminate@@YAXXZ": {
+      "address": 108096628,
+      "size": 6,
+      "scope": "static"
+    },
+    "_initterm": {
+      "address": 108096634,
+      "size": 6,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 108096640,
+      "size": 32,
+      "scope": "static"
+    },
+    "sub_6716CE0": {
+      "address": 108096736,
+      "size": 8,
+      "scope": "static"
+    },
+    "??0IMEInputBox@@QAE@PBUtagLOGFONTA@@@Z_SEH": {
+      "address": 108096744,
+      "size": 10,
+      "scope": "static"
+    }
+  }
+}

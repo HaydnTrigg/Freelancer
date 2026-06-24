@@ -1,0 +1,6187 @@
+{
+  "delink_ida_version": 1,
+  "meta": {
+    "arch": "x86",
+    "procname": "metapc",
+    "bits": 32,
+    "endian": "little",
+    "image_base": 106627072,
+    "min_ea": 106631168,
+    "max_ea": 106663936,
+    "filetype": "PE",
+    "input_file": "C:\\Program Files (x86)\\Microsoft Games\\Freelancer HD Edition\\EXE\\dacom.dll"
+  },
+  "segments": [
+    {
+      "name": ".text",
+      "start": 106631168,
+      "end": 106655744,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": true,
+      "class": "CODE",
+      "bitness": 32
+    },
+    {
+      "name": ".idata",
+      "start": 106655744,
+      "end": 106655916,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": false,
+      "class": "XTRN",
+      "bitness": 32
+    },
+    {
+      "name": ".rdata",
+      "start": 106655916,
+      "end": 106659840,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": false,
+      "class": "CONST",
+      "bitness": 32
+    },
+    {
+      "name": ".data",
+      "start": 106659840,
+      "end": 106663936,
+      "perm_r": true,
+      "perm_w": true,
+      "perm_x": false,
+      "class": "DATA",
+      "bitness": 32
+    }
+  ],
+  "functions": [
+    {
+      "start": 106631168,
+      "end": 106631293,
+      "name": "sub_65B1000",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631296,
+      "end": 106631334,
+      "name": "sub_65B1080",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631344,
+      "end": 106631439,
+      "name": "sub_65B10B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631440,
+      "end": 106631612,
+      "name": "sub_65B1110",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631616,
+      "end": 106631719,
+      "name": "sub_65B11C0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631728,
+      "end": 106631834,
+      "name": "sub_65B1230",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631840,
+      "end": 106631924,
+      "name": "sub_65B12A0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106631936,
+      "end": 106632050,
+      "name": "sub_65B1300",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632064,
+      "end": 106632147,
+      "name": "sub_65B1380",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632160,
+      "end": 106632209,
+      "name": "sub_65B13E0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632320,
+      "end": 106632366,
+      "name": "sub_65B1480",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632368,
+      "end": 106632419,
+      "name": "sub_65B14B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632432,
+      "end": 106632513,
+      "name": "sub_65B14F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632528,
+      "end": 106632533,
+      "name": "sub_65B1550",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632544,
+      "end": 106632551,
+      "name": "sub_65B1560",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632560,
+      "end": 106632627,
+      "name": "sub_65B1570",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632640,
+      "end": 106632782,
+      "name": "sub_65B15C0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632784,
+      "end": 106632941,
+      "name": "sub_65B1650",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106632944,
+      "end": 106633045,
+      "name": "sub_65B16F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106633056,
+      "end": 106633166,
+      "name": "sub_65B1760",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106633168,
+      "end": 106633914,
+      "name": "sub_65B17D0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634048,
+      "end": 106634073,
+      "name": "sub_65B1B40",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634080,
+      "end": 106634102,
+      "name": "sub_65B1B60",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634112,
+      "end": 106634288,
+      "name": "sub_65B1B80",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634288,
+      "end": 106634369,
+      "name": "sub_65B1C30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634384,
+      "end": 106634396,
+      "name": "sub_65B1C90",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634400,
+      "end": 106634423,
+      "name": "sub_65B1CA0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106634432,
+      "end": 106634981,
+      "name": "sub_65B1CC0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106635120,
+      "end": 106635136,
+      "name": "sub_65B1F70",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106635136,
+      "end": 106635398,
+      "name": "DACOManager::DACOManager",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106635408,
+      "end": 106635498,
+      "name": "DACOManager::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106635504,
+      "end": 106635512,
+      "name": "DACOManager::AddRefOrRelease",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106635520,
+      "end": 106635736,
+      "name": "DACOManager::CreateInstance",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106635744,
+      "end": 106636180,
+      "name": "DACOManager::RegisterComponent",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106636192,
+      "end": 106636430,
+      "name": "DACOManager::UnregisterComponent",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106636432,
+      "end": 106636497,
+      "name": "sub_65B2490",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106636512,
+      "end": 106636712,
+      "name": "DACOManager::EnumerateComponents",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106636720,
+      "end": 106637279,
+      "name": "DACOManager::AddLibrary",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106637280,
+      "end": 106637314,
+      "name": "TempStr::set",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106637328,
+      "end": 106637422,
+      "name": "sub_65B2810",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106637424,
+      "end": 106637626,
+      "name": "DACOManager::RemoveLibrary",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106637632,
+      "end": 106637868,
+      "name": "DACOManager::ShutDown",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106637872,
+      "end": 106638108,
+      "name": "DACOManager::SetINIConfig",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106638112,
+      "end": 106639015,
+      "name": "DACOManager::initialize",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106639024,
+      "end": 106639344,
+      "name": "sub_65B2EB0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106639344,
+      "end": 106639583,
+      "name": "sub_65B2FF0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106639584,
+      "end": 106639773,
+      "name": "sub_65B30E0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106639776,
+      "end": 106639817,
+      "name": "_DllMain@12",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106639824,
+      "end": 106639875,
+      "name": "DACOM_Acquire",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106639888,
+      "end": 106640145,
+      "name": "sub_65B3210",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106640160,
+      "end": 106640470,
+      "name": "DACOM_GetDllVersion",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106640480,
+      "end": 106640658,
+      "name": "DACOM_GetVersion",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106640672,
+      "end": 106640742,
+      "name": "sub_65B3520",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106640752,
+      "end": 106640941,
+      "name": "sub_65B3570",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106640944,
+      "end": 106640958,
+      "name": "sub_65B3630",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106640960,
+      "end": 106642079,
+      "name": "sub_65B3640",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642080,
+      "end": 106642095,
+      "name": "sub_65B3AA0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642096,
+      "end": 106642197,
+      "name": "sub_65B3AB0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642208,
+      "end": 106642387,
+      "name": "sub_65B3B20",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642400,
+      "end": 106642475,
+      "name": "sub_65B3BE0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642480,
+      "end": 106642555,
+      "name": "sub_65B3C30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642560,
+      "end": 106642648,
+      "name": "sub_65B3C80",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642656,
+      "end": 106642698,
+      "name": "sub_65B3CE0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642704,
+      "end": 106642709,
+      "name": "sub_65B3D10",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642720,
+      "end": 106642867,
+      "name": "sub_65B3D20",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642880,
+      "end": 106642981,
+      "name": "sub_65B3DC0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106642992,
+      "end": 106643006,
+      "name": "sub_65B3E30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106643008,
+      "end": 106643078,
+      "name": "sub_65B3E40",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106643088,
+      "end": 106643673,
+      "name": "sub_65B3E90",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106643680,
+      "end": 106643711,
+      "name": "sub_65B40E0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106643712,
+      "end": 106643796,
+      "name": "sub_65B4100",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106643808,
+      "end": 106643981,
+      "name": "sub_65B4160",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106643984,
+      "end": 106644051,
+      "name": "sub_65B4210",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644064,
+      "end": 106644246,
+      "name": "sub_65B4260",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644256,
+      "end": 106644342,
+      "name": "sub_65B4320",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644352,
+      "end": 106644357,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD@Z",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644368,
+      "end": 106644373,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD0@Z",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644384,
+      "end": 106644389,
+      "name": "?GetContinuedCRC32@DACOM_CRC@@YAKKPBD@Z",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644400,
+      "end": 106644413,
+      "name": "?GetContinuedCRC32@DACOM_CRC@@YAKKD@Z",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644416,
+      "end": 106644422,
+      "name": "?CompareStringsI@DACOM_CRC@@YAHPBD0@Z",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644432,
+      "end": 106644435,
+      "name": "?Startup@LogStream@@YA_NPBD@Z",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644448,
+      "end": 106644449,
+      "name": "?Update@LogStream@@YAXM@Z",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106644464,
+      "end": 106644479,
+      "name": "sub_65B43F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644480,
+      "end": 106644499,
+      "name": "sub_65B4400",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644512,
+      "end": 106644517,
+      "name": "sub_65B4420",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644528,
+      "end": 106644568,
+      "name": "sub_65B4430",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644576,
+      "end": 106644648,
+      "name": "sub_65B4460",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644656,
+      "end": 106644688,
+      "name": "sub_65B44B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644688,
+      "end": 106644696,
+      "name": "sub_65B44D0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644704,
+      "end": 106644800,
+      "name": "sub_65B44E0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644800,
+      "end": 106644894,
+      "name": "sub_65B4540",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644896,
+      "end": 106644928,
+      "name": "sub_65B45A0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106644928,
+      "end": 106645022,
+      "name": "sub_65B45C0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645024,
+      "end": 106645139,
+      "name": "sub_65B4620",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645152,
+      "end": 106645190,
+      "name": "CreateProfileParserFactory2",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645200,
+      "end": 106645238,
+      "name": "CreateProfileParserFactory",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645248,
+      "end": 106645307,
+      "name": "sub_65B4700",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645312,
+      "end": 106645328,
+      "name": "sub_65B4740",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645328,
+      "end": 106645598,
+      "name": "sub_65B4750",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645600,
+      "end": 106645777,
+      "name": "sub_65B4860",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645792,
+      "end": 106645851,
+      "name": "sub_65B4920",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645856,
+      "end": 106645871,
+      "name": "sub_65B4960",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645872,
+      "end": 106645888,
+      "name": "sub_65B4970",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645888,
+      "end": 106645904,
+      "name": "sub_65B4980",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645904,
+      "end": 106645914,
+      "name": "sub_65B4990",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645920,
+      "end": 106645930,
+      "name": "sub_65B49A0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645936,
+      "end": 106645946,
+      "name": "sub_65B49B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645952,
+      "end": 106645962,
+      "name": "sub_65B49C0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645968,
+      "end": 106645978,
+      "name": "sub_65B49D0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106645984,
+      "end": 106645994,
+      "name": "sub_65B49E0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106646000,
+      "end": 106646010,
+      "name": "sub_65B49F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106646016,
+      "end": 106646026,
+      "name": "sub_65B4A00",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106646032,
+      "end": 106646367,
+      "name": "sub_65B4A10",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106646368,
+      "end": 106646653,
+      "name": "sub_65B4B60",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106646656,
+      "end": 106646805,
+      "name": "sub_65B4C80",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106646816,
+      "end": 106647181,
+      "name": "sub_65B4D20",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106647184,
+      "end": 106647968,
+      "name": "sub_65B4E90",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648384,
+      "end": 106648443,
+      "name": "sub_65B5340",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648448,
+      "end": 106648485,
+      "name": "sub_65B5380",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648496,
+      "end": 106648565,
+      "name": "sub_65B53B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648576,
+      "end": 106648662,
+      "name": "sub_65B5400",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648672,
+      "end": 106648705,
+      "name": "sub_65B5460",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648720,
+      "end": 106648954,
+      "name": "sub_65B5490",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106648960,
+      "end": 106649063,
+      "name": "sub_65B5580",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106649072,
+      "end": 106649766,
+      "name": "sub_65B55F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106649872,
+      "end": 106650081,
+      "name": "sub_65B5910",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650112,
+      "end": 106650157,
+      "name": "sub_65B5A00",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650160,
+      "end": 106650180,
+      "name": "sub_65B5A30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650192,
+      "end": 106650226,
+      "name": "sub_65B5A50",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650240,
+      "end": 106650268,
+      "name": "sub_65B5A80",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650272,
+      "end": 106650300,
+      "name": "sub_65B5AA0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650304,
+      "end": 106650362,
+      "name": "sub_65B5AC0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650368,
+      "end": 106650414,
+      "name": "sub_65B5B00",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650416,
+      "end": 106650582,
+      "name": "sub_65B5B30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650592,
+      "end": 106650632,
+      "name": "sub_65B5BE0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650640,
+      "end": 106650681,
+      "name": "sub_65B5C10",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650688,
+      "end": 106650755,
+      "name": "sub_65B5C40",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650768,
+      "end": 106650811,
+      "name": "sub_65B5C90",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650816,
+      "end": 106650975,
+      "name": "sub_65B5CC0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106650976,
+      "end": 106651152,
+      "name": "sub_65B5D60",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651152,
+      "end": 106651168,
+      "name": "sub_65B5E10",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651168,
+      "end": 106651220,
+      "name": "sub_65B5E20",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651232,
+      "end": 106651307,
+      "name": "stricmp",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106651312,
+      "end": 106651318,
+      "name": "VerQueryValueA",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651318,
+      "end": 106651324,
+      "name": "GetFileVersionInfoA",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651324,
+      "end": 106651330,
+      "name": "GetFileVersionInfoSizeA",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651330,
+      "end": 106651341,
+      "name": "_free",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651342,
+      "end": 106651348,
+      "name": "??2@YAPAXI@Z",
+      "thunk": true,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651360,
+      "end": 106651407,
+      "name": "__alloca_probe",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651407,
+      "end": 106651451,
+      "name": "__onexit",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651451,
+      "end": 106651469,
+      "name": "_atexit",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651470,
+      "end": 106651476,
+      "name": "_purecall",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651476,
+      "end": 106651482,
+      "name": "free",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651482,
+      "end": 106651653,
+      "name": "__CRT_INIT@12",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651653,
+      "end": 106651810,
+      "name": "DllEntryPoint",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 106651810,
+      "end": 106651816,
+      "name": "__dllonexit",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651816,
+      "end": 106651822,
+      "name": "_initterm",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651824,
+      "end": 106651880,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD0@Z_0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651888,
+      "end": 106651954,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD@Z_0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 106651968,
+      "end": 106652034,
+      "name": "?GetContinuedCRC32@DACOM_CRC@@YAKKPBD@Z_0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    }
+  ],
+  "names": [
+    {
+      "addr": 106633850,
+      "name": "def_65B1808",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106633916,
+      "name": "jpt_65B1808",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106634559,
+      "name": "def_65B1CE1",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106634984,
+      "name": "jpt_65B1CE1",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106635136,
+      "name": "DACOManager::DACOManager",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106635408,
+      "name": "DACOManager::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106635504,
+      "name": "DACOManager::AddRefOrRelease",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106635520,
+      "name": "DACOManager::CreateInstance",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106635744,
+      "name": "DACOManager::RegisterComponent",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106636192,
+      "name": "DACOManager::UnregisterComponent",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106636512,
+      "name": "DACOManager::EnumerateComponents",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106636720,
+      "name": "DACOManager::AddLibrary",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106637280,
+      "name": "TempStr::set",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106637424,
+      "name": "DACOManager::RemoveLibrary",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106637632,
+      "name": "DACOManager::ShutDown",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106637872,
+      "name": "DACOManager::SetINIConfig",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106638112,
+      "name": "DACOManager::initialize",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106639776,
+      "name": "_DllMain@12",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106639824,
+      "name": "DACOM_Acquire",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106640160,
+      "name": "DACOM_GetDllVersion",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106640480,
+      "name": "DACOM_GetVersion",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644352,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644368,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD0@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644384,
+      "name": "?GetContinuedCRC32@DACOM_CRC@@YAKKPBD@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644400,
+      "name": "?GetContinuedCRC32@DACOM_CRC@@YAKKD@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644416,
+      "name": "?CompareStringsI@DACOM_CRC@@YAHPBD0@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644432,
+      "name": "?Startup@LogStream@@YA_NPBD@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106644448,
+      "name": "?Update@LogStream@@YAXM@Z",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106645152,
+      "name": "CreateProfileParserFactory2",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106645200,
+      "name": "CreateProfileParserFactory",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106647601,
+      "name": "def_65B4FD3",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106647781,
+      "name": "def_65B4EBE",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106647886,
+      "name": "def_65B5116",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106647968,
+      "name": "jpt_65B4EBE",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106648128,
+      "name": "jpt_65B4FD3",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106648232,
+      "name": "jpt_65B5116",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106648478,
+      "name": "___inc_tmpoff",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106649759,
+      "name": "def_65B5629",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106649768,
+      "name": "jpt_65B5629",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106650066,
+      "name": "def_65B5932",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106650084,
+      "name": "jpt_65B5932",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106651232,
+      "name": "stricmp",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651312,
+      "name": "VerQueryValueA",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651318,
+      "name": "GetFileVersionInfoA",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651324,
+      "name": "GetFileVersionInfoSizeA",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651330,
+      "name": "_free",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651342,
+      "name": "??2@YAPAXI@Z",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651360,
+      "name": "__alloca_probe",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651372,
+      "name": "probepages",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106651392,
+      "name": "lastpage",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106651407,
+      "name": "__onexit",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651451,
+      "name": "_atexit",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651470,
+      "name": "_purecall",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651476,
+      "name": "free",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651482,
+      "name": "__CRT_INIT@12",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651653,
+      "name": "DllEntryPoint",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651810,
+      "name": "__dllonexit",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651816,
+      "name": "_initterm",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651824,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD0@Z_0",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651888,
+      "name": "?GetCRC32@DACOM_CRC@@YAKPBD@Z_0",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106651968,
+      "name": "?GetContinuedCRC32@DACOM_CRC@@YAKKPBD@Z_0",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 106655744,
+      "name": "GetModuleHandleA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655748,
+      "name": "DisableThreadLibraryCalls",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655752,
+      "name": "LoadLibraryA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655756,
+      "name": "SearchPathA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655760,
+      "name": "FreeLibrary",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655764,
+      "name": "GetModuleFileNameA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655768,
+      "name": "OutputDebugStringA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655776,
+      "name": "ftell",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655780,
+      "name": "getenv",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655784,
+      "name": "_vsnprintf",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655788,
+      "name": "_strnicmp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655792,
+      "name": "_stricmp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655796,
+      "name": "__imp__initterm",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655800,
+      "name": "__imp_??2@YAPAXI@Z",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655804,
+      "name": "strncpy",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655808,
+      "name": "sprintf",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655812,
+      "name": "_splitpath",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655816,
+      "name": "fclose",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655820,
+      "name": "fread",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655824,
+      "name": "_adjust_fdiv",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655828,
+      "name": "fseek",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655832,
+      "name": "fopen",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655836,
+      "name": "strchr",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655840,
+      "name": "malloc",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655844,
+      "name": "strncmp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655848,
+      "name": "atoi",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655852,
+      "name": "_makepath",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655856,
+      "name": "abort",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655860,
+      "name": "vsprintf",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655864,
+      "name": "__imp___dllonexit",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655868,
+      "name": "isalnum",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655872,
+      "name": "__imp__purecall",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655876,
+      "name": "__imp_free",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655880,
+      "name": "_onexit",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655888,
+      "name": "MessageBoxA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655892,
+      "name": "PostQuitMessage",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655900,
+      "name": "__imp_VerQueryValueA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655904,
+      "name": "__imp_GetFileVersionInfoA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655908,
+      "name": "__imp_GetFileVersionInfoSizeA",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106655948,
+      "name": "DACOManager_vtable",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656116,
+      "name": "__entries_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656220,
+      "name": "__entries",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656244,
+      "name": "__IMPORT_DESCRIPTOR_VERSION",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656264,
+      "name": "__IMPORT_DESCRIPTOR_KERNEL32",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656284,
+      "name": "__IMPORT_DESCRIPTOR_USER32",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656304,
+      "name": "__IMPORT_DESCRIPTOR_MSVCRT",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656582,
+      "name": "aVersionDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656730,
+      "name": "aKernel32Dll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106656776,
+      "name": "aUser32Dll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657004,
+      "name": "aMsvcrtDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657294,
+      "name": "aDacomDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657304,
+      "name": "aComparestrings",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657342,
+      "name": "aFlushtodiskLog",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657372,
+      "name": "aGetcrc32DacomC",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657403,
+      "name": "aGetcrc32DacomC_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657433,
+      "name": "aGetcontinuedcr",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657471,
+      "name": "aGetcontinuedcr_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657511,
+      "name": "aLogeventLogstr",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657543,
+      "name": "aLognamedeventL",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657580,
+      "name": "aStartupLogstre",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657610,
+      "name": "aUpdateLogstrea",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657636,
+      "name": "aDacomAcquire",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657650,
+      "name": "aDacomGetdllver",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657670,
+      "name": "aDacomGetversio",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657687,
+      "name": "aFdump",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657693,
+      "name": "aStricmp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106657704,
+      "name": "aNb10",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659840,
+      "name": "First",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659844,
+      "name": "Last",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659856,
+      "name": "aSS",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659864,
+      "name": "FullPath",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659880,
+      "name": "aSS_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659888,
+      "name": "Format",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659896,
+      "name": "Mode",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659900,
+      "name": "String2",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659912,
+      "name": "Str",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659928,
+      "name": "aComanager",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659940,
+      "name": "aProfileParser2",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659956,
+      "name": "aProfileParser",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659972,
+      "name": "a111Icomanager",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106659988,
+      "name": "aSDNoticeGenera",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660016,
+      "name": "aDacomAddlibrar_1",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660056,
+      "name": "aDacomAddlibrar_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660116,
+      "name": "aSDErrorGeneral",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660144,
+      "name": "aCWorkBuildsDal",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660208,
+      "name": "aDacomAddlibrar",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660260,
+      "name": "aSDWarningGener",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660288,
+      "name": "aDacomSetinicon",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660340,
+      "name": "IID_IProfileParser2_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660364,
+      "name": "aDacomInitializ_0",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660428,
+      "name": "aDacomInitializ",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660464,
+      "name": "aFalse",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660472,
+      "name": "aTrue",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660480,
+      "name": "aIgnoredacomenv",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660496,
+      "name": "SubBlock",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660500,
+      "name": "aDllpathKeyInIn",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660548,
+      "name": "aDllpath",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660556,
+      "name": "VarName",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660564,
+      "name": "aDacomInitializ_1",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660624,
+      "name": "aDacomLoadLibra",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660684,
+      "name": "aLibraries",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660696,
+      "name": "Caption",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660720,
+      "name": "OutputString",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660724,
+      "name": "aCompiledAgains",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660764,
+      "name": "aCurrentDacomDl",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660804,
+      "name": "ModuleName",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660816,
+      "name": "a111Icomponentf",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660840,
+      "name": "IID_IProfileParser",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660860,
+      "name": "aRegexp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660868,
+      "name": "a111Idacomponen",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106660888,
+      "name": "a111Iregexp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106662452,
+      "name": "FDUMP",
+      "public": true,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106662780,
+      "name": "Str2",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 106662828,
+      "name": "Block",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    }
+  ],
+  "relocations": [
+    {
+      "addr": 106631779,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659856
+    },
+    {
+      "addr": 106631786,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655808
+    },
+    {
+      "addr": 106631815,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655804
+    },
+    {
+      "addr": 106631955,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106632013,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655804
+    },
+    {
+      "addr": 106632083,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106632580,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106632666,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106633130,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659864
+    },
+    {
+      "addr": 106633220,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633940
+    },
+    {
+      "addr": 106633227,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633916
+    },
+    {
+      "addr": 106633254,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655812
+    },
+    {
+      "addr": 106633387,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659888
+    },
+    {
+      "addr": 106633394,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655808
+    },
+    {
+      "addr": 106633577,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659880
+    },
+    {
+      "addr": 106633584,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655808
+    },
+    {
+      "addr": 106633727,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659880
+    },
+    {
+      "addr": 106633734,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655808
+    },
+    {
+      "addr": 106633916,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633481
+    },
+    {
+      "addr": 106633920,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633237
+    },
+    {
+      "addr": 106633924,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633787
+    },
+    {
+      "addr": 106633928,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633231
+    },
+    {
+      "addr": 106633932,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633851
+    },
+    {
+      "addr": 106633936,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106633850
+    },
+    {
+      "addr": 106634130,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659896
+    },
+    {
+      "addr": 106634143,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655832
+    },
+    {
+      "addr": 106634159,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655828
+    },
+    {
+      "addr": 106634173,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655776
+    },
+    {
+      "addr": 106634201,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655820
+    },
+    {
+      "addr": 106634230,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655816
+    },
+    {
+      "addr": 106634251,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655816
+    },
+    {
+      "addr": 106634461,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106635016
+    },
+    {
+      "addr": 106634468,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634984
+    },
+    {
+      "addr": 106634561,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655836
+    },
+    {
+      "addr": 106634925,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659912
+    },
+    {
+      "addr": 106634958,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659900
+    },
+    {
+      "addr": 106634965,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106634984,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634617
+    },
+    {
+      "addr": 106634988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634472
+    },
+    {
+      "addr": 106634992,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634626
+    },
+    {
+      "addr": 106634996,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634503
+    },
+    {
+      "addr": 106635000,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634839
+    },
+    {
+      "addr": 106635004,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634697
+    },
+    {
+      "addr": 106635008,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634768
+    },
+    {
+      "addr": 106635012,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106634559
+    },
+    {
+      "addr": 106635263,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655948
+    },
+    {
+      "addr": 106635298,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659956
+    },
+    {
+      "addr": 106635328,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659940
+    },
+    {
+      "addr": 106635350,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659940
+    },
+    {
+      "addr": 106635420,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659972
+    },
+    {
+      "addr": 106635559,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659924
+    },
+    {
+      "addr": 106636792,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655756
+    },
+    {
+      "addr": 106636809,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660208
+    },
+    {
+      "addr": 106636831,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106636836,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660116
+    },
+    {
+      "addr": 106636843,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106636886,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655812
+    },
+    {
+      "addr": 106636933,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655752
+    },
+    {
+      "addr": 106636952,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660056
+    },
+    {
+      "addr": 106636974,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106636979,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660116
+    },
+    {
+      "addr": 106636986,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106637063,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660016
+    },
+    {
+      "addr": 106637085,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106637090,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659988
+    },
+    {
+      "addr": 106637097,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106637303,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655784
+    },
+    {
+      "addr": 106637474,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655812
+    },
+    {
+      "addr": 106637499,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106637560,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655760
+    },
+    {
+      "addr": 106637765,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655760
+    },
+    {
+      "addr": 106637946,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660340
+    },
+    {
+      "addr": 106638063,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660288
+    },
+    {
+      "addr": 106638078,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106638083,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660260
+    },
+    {
+      "addr": 106638090,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106638147,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660556
+    },
+    {
+      "addr": 106638184,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660548
+    },
+    {
+      "addr": 106638218,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655764
+    },
+    {
+      "addr": 106638249,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655812
+    },
+    {
+      "addr": 106638277,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655852
+    },
+    {
+      "addr": 106638424,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660500
+    },
+    {
+      "addr": 106638439,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106638444,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660116
+    },
+    {
+      "addr": 106638451,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106638462,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660496
+    },
+    {
+      "addr": 106638519,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660496
+    },
+    {
+      "addr": 106638695,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660480
+    },
+    {
+      "addr": 106638709,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660472
+    },
+    {
+      "addr": 106638720,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655788
+    },
+    {
+      "addr": 106638738,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660472
+    },
+    {
+      "addr": 106638757,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660464
+    },
+    {
+      "addr": 106638780,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660464
+    },
+    {
+      "addr": 106638804,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655848
+    },
+    {
+      "addr": 106638816,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660556
+    },
+    {
+      "addr": 106638822,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655780
+    },
+    {
+      "addr": 106638902,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660428
+    },
+    {
+      "addr": 106638924,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106638929,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659988
+    },
+    {
+      "addr": 106638936,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106638958,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660364
+    },
+    {
+      "addr": 106638973,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106638978,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660260
+    },
+    {
+      "addr": 106638985,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106639044,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660684
+    },
+    {
+      "addr": 106639065,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660624
+    },
+    {
+      "addr": 106639080,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106639085,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660116
+    },
+    {
+      "addr": 106639092,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106639113,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660564
+    },
+    {
+      "addr": 106639128,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106639133,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659988
+    },
+    {
+      "addr": 106639140,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106639390,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106639619,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655860
+    },
+    {
+      "addr": 106639625,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655768
+    },
+    {
+      "addr": 106639658,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660720
+    },
+    {
+      "addr": 106639674,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662448
+    },
+    {
+      "addr": 106639697,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660696
+    },
+    {
+      "addr": 106639706,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655888
+    },
+    {
+      "addr": 106639728,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662448
+    },
+    {
+      "addr": 106639763,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655892
+    },
+    {
+      "addr": 106639769,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655856
+    },
+    {
+      "addr": 106639790,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655748
+    },
+    {
+      "addr": 106639796,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106639800,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106639584
+    },
+    {
+      "addr": 106639826,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662456
+    },
+    {
+      "addr": 106639839,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662464
+    },
+    {
+      "addr": 106639847,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662456
+    },
+    {
+      "addr": 106639857,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106639888
+    },
+    {
+      "addr": 106639870,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662464
+    },
+    {
+      "addr": 106639889,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662496
+    },
+    {
+      "addr": 106639918,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662492
+    },
+    {
+      "addr": 106639932,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662496
+    },
+    {
+      "addr": 106639944,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662476
+    },
+    {
+      "addr": 106639950,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662488
+    },
+    {
+      "addr": 106639961,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662496
+    },
+    {
+      "addr": 106639967,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662500
+    },
+    {
+      "addr": 106639994,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662472
+    },
+    {
+      "addr": 106640005,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662476
+    },
+    {
+      "addr": 106640010,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662480
+    },
+    {
+      "addr": 106640022,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662476
+    },
+    {
+      "addr": 106640028,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662488
+    },
+    {
+      "addr": 106640036,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662476
+    },
+    {
+      "addr": 106640041,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662472
+    },
+    {
+      "addr": 106640077,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662472
+    },
+    {
+      "addr": 106640096,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662476
+    },
+    {
+      "addr": 106640107,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662480
+    },
+    {
+      "addr": 106640113,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662476
+    },
+    {
+      "addr": 106640120,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662488
+    },
+    {
+      "addr": 106640134,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662480
+    },
+    {
+      "addr": 106640210,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655744
+    },
+    {
+      "addr": 106640244,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655764
+    },
+    {
+      "addr": 106640361,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660496
+    },
+    {
+      "addr": 106640519,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660804
+    },
+    {
+      "addr": 106640552,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660764
+    },
+    {
+      "addr": 106640574,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106640579,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659988
+    },
+    {
+      "addr": 106640586,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106640604,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660724
+    },
+    {
+      "addr": 106640626,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660144
+    },
+    {
+      "addr": 106640631,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659988
+    },
+    {
+      "addr": 106640638,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662452
+    },
+    {
+      "addr": 106644418,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655792
+    },
+    {
+      "addr": 106645176,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659940
+    },
+    {
+      "addr": 106645182,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655992
+    },
+    {
+      "addr": 106645224,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659956
+    },
+    {
+      "addr": 106645230,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656008
+    },
+    {
+      "addr": 106645259,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660816
+    },
+    {
+      "addr": 106645442,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656104
+    },
+    {
+      "addr": 106645458,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656068
+    },
+    {
+      "addr": 106645465,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656024
+    },
+    {
+      "addr": 106645601,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656116
+    },
+    {
+      "addr": 106645673,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656124
+    },
+    {
+      "addr": 106645707,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656120
+    },
+    {
+      "addr": 106646067,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646073,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662776
+    },
+    {
+      "addr": 106646079,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662796
+    },
+    {
+      "addr": 106646085,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106646089,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106646123,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662796
+    },
+    {
+      "addr": 106646148,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655840
+    },
+    {
+      "addr": 106646179,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646185,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662776
+    },
+    {
+      "addr": 106646191,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106646393,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662776
+    },
+    {
+      "addr": 106646410,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662776
+    },
+    {
+      "addr": 106646493,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646509,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646521,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646611,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646622,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646637,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646680,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646765,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106646843,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647146,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647153,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647200,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647212,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647226,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106648000
+    },
+    {
+      "addr": 106647233,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647968
+    },
+    {
+      "addr": 106647313,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647322,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647341,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647357,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647368,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647382,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647409,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647471,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647493,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647503,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106648160
+    },
+    {
+      "addr": 106647510,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106648128
+    },
+    {
+      "addr": 106647603,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647626,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647647,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647656,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647731,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647785,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647800,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647810,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647826,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106648248
+    },
+    {
+      "addr": 106647833,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106648232
+    },
+    {
+      "addr": 106647848,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647880,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647896,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647927,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662784
+    },
+    {
+      "addr": 106647968,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647694
+    },
+    {
+      "addr": 106647972,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647254
+    },
+    {
+      "addr": 106647976,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647673
+    },
+    {
+      "addr": 106647980,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647271
+    },
+    {
+      "addr": 106647984,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647298
+    },
+    {
+      "addr": 106647988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647723
+    },
+    {
+      "addr": 106647992,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647237
+    },
+    {
+      "addr": 106647996,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647781
+    },
+    {
+      "addr": 106648128,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647514
+    },
+    {
+      "addr": 106648132,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647530
+    },
+    {
+      "addr": 106648136,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647567
+    },
+    {
+      "addr": 106648140,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647518
+    },
+    {
+      "addr": 106648144,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647526
+    },
+    {
+      "addr": 106648148,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647534
+    },
+    {
+      "addr": 106648152,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647522
+    },
+    {
+      "addr": 106648156,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647601
+    },
+    {
+      "addr": 106648232,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647911
+    },
+    {
+      "addr": 106648236,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647907
+    },
+    {
+      "addr": 106648240,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647837
+    },
+    {
+      "addr": 106648244,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106647886
+    },
+    {
+      "addr": 106648385,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648391,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106648401,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662796
+    },
+    {
+      "addr": 106648411,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662796
+    },
+    {
+      "addr": 106648438,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648449,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648454,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106648467,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648473,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648480,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662796
+    },
+    {
+      "addr": 106648498,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648504,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106648512,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662796
+    },
+    {
+      "addr": 106648532,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662792
+    },
+    {
+      "addr": 106648583,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106648681,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106648751,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655836
+    },
+    {
+      "addr": 106648786,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655844
+    },
+    {
+      "addr": 106648830,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662808
+    },
+    {
+      "addr": 106648973,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106648982,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662800
+    },
+    {
+      "addr": 106648988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662804
+    },
+    {
+      "addr": 106649042,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649090,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655836
+    },
+    {
+      "addr": 106649125,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649828
+    },
+    {
+      "addr": 106649132,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649768
+    },
+    {
+      "addr": 106649138,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649143,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662808
+    },
+    {
+      "addr": 106649161,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649181,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649187,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655868
+    },
+    {
+      "addr": 106649203,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649220,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662808
+    },
+    {
+      "addr": 106649250,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649271,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649281,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655868
+    },
+    {
+      "addr": 106649298,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649318,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649329,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649367,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649376,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655844
+    },
+    {
+      "addr": 106649393,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649401,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649438,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649445,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649482,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649525,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649550,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662800
+    },
+    {
+      "addr": 106649578,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649603,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662804
+    },
+    {
+      "addr": 106649611,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649634,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649680,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649713,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649753,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649768,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649563
+    },
+    {
+      "addr": 106649772,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649136
+    },
+    {
+      "addr": 106649776,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649160
+    },
+    {
+      "addr": 106649780,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649316
+    },
+    {
+      "addr": 106649784,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649399
+    },
+    {
+      "addr": 106649788,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649444
+    },
+    {
+      "addr": 106649792,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649488
+    },
+    {
+      "addr": 106649796,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649503
+    },
+    {
+      "addr": 106649800,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649327
+    },
+    {
+      "addr": 106649804,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649664
+    },
+    {
+      "addr": 106649808,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649179
+    },
+    {
+      "addr": 106649812,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649269
+    },
+    {
+      "addr": 106649816,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649520
+    },
+    {
+      "addr": 106649820,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649573
+    },
+    {
+      "addr": 106649824,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649759
+    },
+    {
+      "addr": 106649881,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649909,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650084
+    },
+    {
+      "addr": 106649933,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649963,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106649979,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655836
+    },
+    {
+      "addr": 106650010,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106650026,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655836
+    },
+    {
+      "addr": 106650057,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106650072,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662780
+    },
+    {
+      "addr": 106650084,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649913
+    },
+    {
+      "addr": 106650088,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649972
+    },
+    {
+      "addr": 106650092,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650019
+    },
+    {
+      "addr": 106650096,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650066
+    },
+    {
+      "addr": 106650100,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650066
+    },
+    {
+      "addr": 106650104,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106649942
+    },
+    {
+      "addr": 106650117,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662788
+    },
+    {
+      "addr": 106650166,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656140
+    },
+    {
+      "addr": 106650200,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656140
+    },
+    {
+      "addr": 106650211,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655876
+    },
+    {
+      "addr": 106650319,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655876
+    },
+    {
+      "addr": 106650715,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660860
+    },
+    {
+      "addr": 106650721,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656172
+    },
+    {
+      "addr": 106650738,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660860
+    },
+    {
+      "addr": 106650924,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656188
+    },
+    {
+      "addr": 106650977,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656220
+    },
+    {
+      "addr": 106651049,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656228
+    },
+    {
+      "addr": 106651083,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106656224
+    },
+    {
+      "addr": 106651249,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660904
+    },
+    {
+      "addr": 106651255,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660904
+    },
+    {
+      "addr": 106651275,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660904
+    },
+    {
+      "addr": 106651284,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660904
+    },
+    {
+      "addr": 106651314,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655900
+    },
+    {
+      "addr": 106651320,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655904
+    },
+    {
+      "addr": 106651326,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655908
+    },
+    {
+      "addr": 106651344,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655800
+    },
+    {
+      "addr": 106651409,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651422,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655880
+    },
+    {
+      "addr": 106651429,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662824
+    },
+    {
+      "addr": 106651434,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651472,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655872
+    },
+    {
+      "addr": 106651478,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655876
+    },
+    {
+      "addr": 106651492,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662812
+    },
+    {
+      "addr": 106651500,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662812
+    },
+    {
+      "addr": 106651506,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655824
+    },
+    {
+      "addr": 106651517,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662816
+    },
+    {
+      "addr": 106651530,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655840
+    },
+    {
+      "addr": 106651538,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651552,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651557,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659844
+    },
+    {
+      "addr": 106651562,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659840
+    },
+    {
+      "addr": 106651567,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662824
+    },
+    {
+      "addr": 106651578,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662812
+    },
+    {
+      "addr": 106651591,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651601,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662824
+    },
+    {
+      "addr": 106651622,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651634,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655876
+    },
+    {
+      "addr": 106651640,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662828
+    },
+    {
+      "addr": 106651674,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662812
+    },
+    {
+      "addr": 106651692,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662820
+    },
+    {
+      "addr": 106651784,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662820
+    },
+    {
+      "addr": 106651812,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655864
+    },
+    {
+      "addr": 106651818,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106655796
+    },
+    {
+      "addr": 106651847,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662192
+    },
+    {
+      "addr": 106651867,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106661168
+    },
+    {
+      "addr": 106651916,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662192
+    },
+    {
+      "addr": 106651936,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106661168
+    },
+    {
+      "addr": 106651996,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662192
+    },
+    {
+      "addr": 106652016,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106661168
+    },
+    {
+      "addr": 106652061,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106662192
+    },
+    {
+      "addr": 106652082,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106661168
+    },
+    {
+      "addr": 106655744,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655748,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655752,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655756,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655760,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655764,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655768,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655776,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655780,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655784,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655788,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655792,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655796,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655800,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655804,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655808,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655812,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655816,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655820,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655824,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655828,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655832,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655836,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655840,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655844,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655848,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655852,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655856,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655860,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655864,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655868,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655872,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655876,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655880,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655888,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655892,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655900,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655904,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655908,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 106655948,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106635408
+    },
+    {
+      "addr": 106655952,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106635504
+    },
+    {
+      "addr": 106655956,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106635504
+    },
+    {
+      "addr": 106655960,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106635520
+    },
+    {
+      "addr": 106655964,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106635744
+    },
+    {
+      "addr": 106655968,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106636192
+    },
+    {
+      "addr": 106655972,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106636512
+    },
+    {
+      "addr": 106655976,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106636720
+    },
+    {
+      "addr": 106655980,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106637424
+    },
+    {
+      "addr": 106655984,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106637632
+    },
+    {
+      "addr": 106655988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106637872
+    },
+    {
+      "addr": 106655992,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645248
+    },
+    {
+      "addr": 106655996,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645312
+    },
+    {
+      "addr": 106656000,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650768
+    },
+    {
+      "addr": 106656004,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645328
+    },
+    {
+      "addr": 106656008,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645248
+    },
+    {
+      "addr": 106656012,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645312
+    },
+    {
+      "addr": 106656016,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650768
+    },
+    {
+      "addr": 106656020,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645328
+    },
+    {
+      "addr": 106656024,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645984
+    },
+    {
+      "addr": 106656028,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106646000
+    },
+    {
+      "addr": 106656032,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106646016
+    },
+    {
+      "addr": 106656036,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645904
+    },
+    {
+      "addr": 106656040,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644896
+    },
+    {
+      "addr": 106656044,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645920
+    },
+    {
+      "addr": 106656048,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645936
+    },
+    {
+      "addr": 106656052,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645952
+    },
+    {
+      "addr": 106656056,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645968
+    },
+    {
+      "addr": 106656060,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644928
+    },
+    {
+      "addr": 106656064,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645024
+    },
+    {
+      "addr": 106656068,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645856
+    },
+    {
+      "addr": 106656072,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645872
+    },
+    {
+      "addr": 106656076,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645888
+    },
+    {
+      "addr": 106656080,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644528
+    },
+    {
+      "addr": 106656084,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644576
+    },
+    {
+      "addr": 106656088,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644656
+    },
+    {
+      "addr": 106656092,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644688
+    },
+    {
+      "addr": 106656096,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644704
+    },
+    {
+      "addr": 106656100,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106644800
+    },
+    {
+      "addr": 106656104,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645600
+    },
+    {
+      "addr": 106656108,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645312
+    },
+    {
+      "addr": 106656112,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645792
+    },
+    {
+      "addr": 106656116,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660840
+    },
+    {
+      "addr": 106656124,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660340
+    },
+    {
+      "addr": 106656140,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106651470
+    },
+    {
+      "addr": 106656144,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106651470
+    },
+    {
+      "addr": 106656148,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106651470
+    },
+    {
+      "addr": 106656152,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650304
+    },
+    {
+      "addr": 106656156,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650368
+    },
+    {
+      "addr": 106656160,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650416
+    },
+    {
+      "addr": 106656164,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650592
+    },
+    {
+      "addr": 106656168,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650640
+    },
+    {
+      "addr": 106656172,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645248
+    },
+    {
+      "addr": 106656176,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106645312
+    },
+    {
+      "addr": 106656180,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650768
+    },
+    {
+      "addr": 106656184,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650816
+    },
+    {
+      "addr": 106656188,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650976
+    },
+    {
+      "addr": 106656192,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106651152
+    },
+    {
+      "addr": 106656196,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106651168
+    },
+    {
+      "addr": 106656200,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650304
+    },
+    {
+      "addr": 106656204,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650368
+    },
+    {
+      "addr": 106656208,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650416
+    },
+    {
+      "addr": 106656212,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650592
+    },
+    {
+      "addr": 106656216,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106650640
+    },
+    {
+      "addr": 106656220,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660888
+    },
+    {
+      "addr": 106656228,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106660868
+    },
+    {
+      "addr": 106656244,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29428
+    },
+    {
+      "addr": 106656256,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29510
+    },
+    {
+      "addr": 106656260,
+      "type": "OFF32",
+      "size": 4,
+      "target": 28828
+    },
+    {
+      "addr": 106656264,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29272
+    },
+    {
+      "addr": 106656276,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29658
+    },
+    {
+      "addr": 106656280,
+      "type": "OFF32",
+      "size": 4,
+      "target": 28672
+    },
+    {
+      "addr": 106656284,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29416
+    },
+    {
+      "addr": 106656296,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29704
+    },
+    {
+      "addr": 106656300,
+      "type": "OFF32",
+      "size": 4,
+      "target": 28816
+    },
+    {
+      "addr": 106656304,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29304
+    },
+    {
+      "addr": 106656316,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29932
+    },
+    {
+      "addr": 106656320,
+      "type": "OFF32",
+      "size": 4,
+      "target": 28704
+    },
+    {
+      "addr": 106656344,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29638
+    },
+    {
+      "addr": 106656348,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29610
+    },
+    {
+      "addr": 106656352,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29522
+    },
+    {
+      "addr": 106656356,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29538
+    },
+    {
+      "addr": 106656360,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29552
+    },
+    {
+      "addr": 106656364,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29566
+    },
+    {
+      "addr": 106656368,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29588
+    },
+    {
+      "addr": 106656376,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29784
+    },
+    {
+      "addr": 106656380,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29832
+    },
+    {
+      "addr": 106656384,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29818
+    },
+    {
+      "addr": 106656388,
+      "type": "OFF32",
+      "size": 4,
+      "target": 30008
+    },
+    {
+      "addr": 106656392,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29996
+    },
+    {
+      "addr": 106656396,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29968
+    },
+    {
+      "addr": 106656400,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29716
+    },
+    {
+      "addr": 106656404,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29732
+    },
+    {
+      "addr": 106656408,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29742
+    },
+    {
+      "addr": 106656412,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29752
+    },
+    {
+      "addr": 106656416,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29766
+    },
+    {
+      "addr": 106656420,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29776
+    },
+    {
+      "addr": 106656424,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29980
+    },
+    {
+      "addr": 106656428,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29792
+    },
+    {
+      "addr": 106656432,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29800
+    },
+    {
+      "addr": 106656436,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29808
+    },
+    {
+      "addr": 106656440,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29882
+    },
+    {
+      "addr": 106656444,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29892
+    },
+    {
+      "addr": 106656448,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29842
+    },
+    {
+      "addr": 106656452,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29850
+    },
+    {
+      "addr": 106656456,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29862
+    },
+    {
+      "addr": 106656460,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29870
+    },
+    {
+      "addr": 106656464,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29944
+    },
+    {
+      "addr": 106656468,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29902
+    },
+    {
+      "addr": 106656472,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29912
+    },
+    {
+      "addr": 106656476,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29924
+    },
+    {
+      "addr": 106656480,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29958
+    },
+    {
+      "addr": 106656488,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29690
+    },
+    {
+      "addr": 106656492,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29672
+    },
+    {
+      "addr": 106656500,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29444
+    },
+    {
+      "addr": 106656504,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29462
+    },
+    {
+      "addr": 106656508,
+      "type": "OFF32",
+      "size": 4,
+      "target": 29484
+    },
+    {
+      "addr": 106657116,
+      "type": "OFF32",
+      "size": 4,
+      "target": 30222
+    },
+    {
+      "addr": 106657132,
+      "type": "OFF32",
+      "size": 4,
+      "target": 30072
+    },
+    {
+      "addr": 106657136,
+      "type": "OFF32",
+      "size": 4,
+      "target": 30132
+    },
+    {
+      "addr": 106657140,
+      "type": "OFF32",
+      "size": 4,
+      "target": 30192
+    },
+    {
+      "addr": 106657144,
+      "type": "OFF32",
+      "size": 4,
+      "target": 17344
+    },
+    {
+      "addr": 106657204,
+      "type": "OFF32",
+      "size": 4,
+      "target": 30232
+    },
+    {
+      "addr": 106659924,
+      "type": "OFF32",
+      "size": 4,
+      "target": 106659928
+    }
+  ]
+}

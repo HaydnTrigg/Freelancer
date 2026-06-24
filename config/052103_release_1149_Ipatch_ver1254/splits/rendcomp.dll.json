@@ -1,0 +1,2424 @@
+{
+  "rendcomp.dll.obj": {
+    "sub_6C21000": {
+      "address": 113381376,
+      "size": 122,
+      "scope": "static"
+    },
+    "sub_6C21080": {
+      "address": 113381504,
+      "size": 236,
+      "scope": "static"
+    },
+    "sub_6C21170": {
+      "address": 113381744,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6C211A0": {
+      "address": 113381792,
+      "size": 574,
+      "scope": "static"
+    },
+    "sub_6C213E0": {
+      "address": 113382368,
+      "size": 112,
+      "scope": "static"
+    },
+    "sub_6C21450": {
+      "address": 113382480,
+      "size": 114,
+      "scope": "static"
+    },
+    "sub_6C214D0": {
+      "address": 113382608,
+      "size": 49,
+      "scope": "static"
+    },
+    "sub_6C21510": {
+      "address": 113382672,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6C21540": {
+      "address": 113382720,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6C215A0": {
+      "address": 113382816,
+      "size": 123,
+      "scope": "static"
+    },
+    "sub_6C21620": {
+      "address": 113382944,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C21650": {
+      "address": 113382992,
+      "size": 276,
+      "scope": "static"
+    },
+    "sub_6C21770": {
+      "address": 113383280,
+      "size": 313,
+      "scope": "static"
+    },
+    "sub_6C218B0": {
+      "address": 113383600,
+      "size": 143,
+      "scope": "static"
+    },
+    "sub_6C21940": {
+      "address": 113383744,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6C219A0": {
+      "address": 113383840,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C219D0": {
+      "address": 113383888,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C21A00": {
+      "address": 113383936,
+      "size": 141,
+      "scope": "static"
+    },
+    "sub_6C21A90": {
+      "address": 113384080,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_6C21AF0": {
+      "address": 113384176,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6C21B10": {
+      "address": 113384208,
+      "size": 976,
+      "scope": "static"
+    },
+    "sub_6C21EE0": {
+      "address": 113385184,
+      "size": 55,
+      "scope": "static"
+    },
+    "sub_6C21F20": {
+      "address": 113385248,
+      "size": 581,
+      "scope": "static"
+    },
+    "sub_6C22170": {
+      "address": 113385840,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_6C221D0": {
+      "address": 113385936,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_6C22210": {
+      "address": 113386000,
+      "size": 218,
+      "scope": "static"
+    },
+    "sub_6C222F0": {
+      "address": 113386224,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6C223A0": {
+      "address": 113386400,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C223B0": {
+      "address": 113386416,
+      "size": 53,
+      "scope": "static"
+    },
+    "sub_6C223F0": {
+      "address": 113386480,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6C22410": {
+      "address": 113386512,
+      "size": 48,
+      "scope": "static"
+    },
+    "sub_6C22440": {
+      "address": 113386560,
+      "size": 267,
+      "scope": "static"
+    },
+    "sub_6C22550": {
+      "address": 113386832,
+      "size": 159,
+      "scope": "static"
+    },
+    "sub_6C225F0": {
+      "address": 113386992,
+      "size": 39,
+      "scope": "static"
+    },
+    "sub_6C22620": {
+      "address": 113387040,
+      "size": 35,
+      "scope": "static"
+    },
+    "sub_6C22650": {
+      "address": 113387088,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6C22660": {
+      "address": 113387104,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6C22670": {
+      "address": 113387120,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_6C226A0": {
+      "address": 113387168,
+      "size": 77,
+      "scope": "static"
+    },
+    "sub_6C226F0": {
+      "address": 113387248,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_6C22740": {
+      "address": 113387328,
+      "size": 92,
+      "scope": "static"
+    },
+    "sub_6C227A0": {
+      "address": 113387424,
+      "size": 91,
+      "scope": "static"
+    },
+    "sub_6C22800": {
+      "address": 113387520,
+      "size": 36,
+      "scope": "static"
+    },
+    "sub_6C22830": {
+      "address": 113387568,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_6C22880": {
+      "address": 113387648,
+      "size": 220,
+      "scope": "static"
+    },
+    "sub_6C22960": {
+      "address": 113387872,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C22990": {
+      "address": 113387920,
+      "size": 35,
+      "scope": "static"
+    },
+    "sub_6C229C0": {
+      "address": 113387968,
+      "size": 61,
+      "scope": "static"
+    },
+    "sub_6C22A00": {
+      "address": 113388032,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6C22A20": {
+      "address": 113388064,
+      "size": 559,
+      "scope": "static"
+    },
+    "sub_6C22C50": {
+      "address": 113388624,
+      "size": 249,
+      "scope": "static"
+    },
+    "sub_6C22D50": {
+      "address": 113388880,
+      "size": 601,
+      "scope": "static"
+    },
+    "sub_6C22FE0": {
+      "address": 113389536,
+      "size": 1347,
+      "scope": "static"
+    },
+    "sub_6C23550": {
+      "address": 113390928,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_6C235A0": {
+      "address": 113391008,
+      "size": 165,
+      "scope": "static"
+    },
+    "sub_6C23650": {
+      "address": 113391184,
+      "size": 316,
+      "scope": "static"
+    },
+    "sub_6C237C0": {
+      "address": 113391552,
+      "size": 384,
+      "scope": "static"
+    },
+    "sub_6C23970": {
+      "address": 113391984,
+      "size": 599,
+      "scope": "static"
+    },
+    "sub_6C23BD0": {
+      "address": 113392592,
+      "size": 489,
+      "scope": "static"
+    },
+    "sub_6C23DC0": {
+      "address": 113393088,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6C23DF0": {
+      "address": 113393136,
+      "size": 21,
+      "scope": "static"
+    },
+    "sub_6C23E10": {
+      "address": 113393168,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_6C23E40": {
+      "address": 113393216,
+      "size": 58,
+      "scope": "static"
+    },
+    "sub_6C23E80": {
+      "address": 113393280,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6C23EA0": {
+      "address": 113393312,
+      "size": 226,
+      "scope": "static"
+    },
+    "sub_6C23F90": {
+      "address": 113393552,
+      "size": 64,
+      "scope": "static"
+    },
+    "sub_6C23FD0": {
+      "address": 113393616,
+      "size": 2452,
+      "scope": "static"
+    },
+    "??0Iostream_init@@QAE@XZ": {
+      "address": 113396080,
+      "size": 3,
+      "scope": "static"
+    },
+    "sub_6C24980": {
+      "address": 113396096,
+      "size": 76,
+      "scope": "static"
+    },
+    "sub_6C249D0": {
+      "address": 113396176,
+      "size": 202,
+      "scope": "static"
+    },
+    "sub_6C24AA0": {
+      "address": 113396384,
+      "size": 316,
+      "scope": "static"
+    },
+    "sub_6C24BE0": {
+      "address": 113396704,
+      "size": 117,
+      "scope": "static"
+    },
+    "sub_6C24C60": {
+      "address": 113396832,
+      "size": 156,
+      "scope": "static"
+    },
+    "sub_6C24D00": {
+      "address": 113396992,
+      "size": 1079,
+      "scope": "static"
+    },
+    "sub_6C25140": {
+      "address": 113398080,
+      "size": 1510,
+      "scope": "static"
+    },
+    "sub_6C25730": {
+      "address": 113399600,
+      "size": 87,
+      "scope": "static"
+    },
+    "sub_6C25790": {
+      "address": 113399696,
+      "size": 295,
+      "scope": "static"
+    },
+    "sub_6C258C0": {
+      "address": 113400000,
+      "size": 1024,
+      "scope": "static"
+    },
+    "sub_6C25CC0": {
+      "address": 113401024,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6C25CE0": {
+      "address": 113401056,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C25D10": {
+      "address": 113401104,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C25D40": {
+      "address": 113401152,
+      "size": 226,
+      "scope": "static"
+    },
+    "sub_6C25E30": {
+      "address": 113401392,
+      "size": 428,
+      "scope": "static"
+    },
+    "sub_6C26000": {
+      "address": 113401856,
+      "size": 389,
+      "scope": "static"
+    },
+    "sub_6C261B0": {
+      "address": 113402288,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_6C26200": {
+      "address": 113402368,
+      "size": 32,
+      "scope": "static"
+    },
+    "sub_6C26220": {
+      "address": 113402400,
+      "size": 57,
+      "scope": "static"
+    },
+    "sub_6C26260": {
+      "address": 113402464,
+      "size": 58,
+      "scope": "static"
+    },
+    "sub_6C262A0": {
+      "address": 113402528,
+      "size": 649,
+      "scope": "static"
+    },
+    "sub_6C26530": {
+      "address": 113403184,
+      "size": 181,
+      "scope": "static"
+    },
+    "sub_6C265F0": {
+      "address": 113403376,
+      "size": 24,
+      "scope": "static"
+    },
+    "sub_6C26610": {
+      "address": 113403408,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6C26630": {
+      "address": 113403440,
+      "size": 197,
+      "scope": "static"
+    },
+    "sub_6C26700": {
+      "address": 113403648,
+      "size": 1340,
+      "scope": "static"
+    },
+    "sub_6C26C40": {
+      "address": 113404992,
+      "size": 39,
+      "scope": "static"
+    },
+    "sub_6C26C70": {
+      "address": 113405040,
+      "size": 188,
+      "scope": "static"
+    },
+    "sub_6C26D30": {
+      "address": 113405232,
+      "size": 24,
+      "scope": "static"
+    },
+    "sub_6C26D50": {
+      "address": 113405264,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6C26D70": {
+      "address": 113405296,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6C26D90": {
+      "address": 113405328,
+      "size": 49,
+      "scope": "static"
+    },
+    "sub_6C26DD0": {
+      "address": 113405392,
+      "size": 415,
+      "scope": "static"
+    },
+    "sub_6C26F70": {
+      "address": 113405808,
+      "size": 39,
+      "scope": "static"
+    },
+    "sub_6C26FA0": {
+      "address": 113405856,
+      "size": 536,
+      "scope": "static"
+    },
+    "sub_6C271C0": {
+      "address": 113406400,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C271F0": {
+      "address": 113406448,
+      "size": 184,
+      "scope": "static"
+    },
+    "sub_6C272B0": {
+      "address": 113406640,
+      "size": 224,
+      "scope": "static"
+    },
+    "sub_6C27390": {
+      "address": 113406864,
+      "size": 184,
+      "scope": "static"
+    },
+    "sub_6C27450": {
+      "address": 113407056,
+      "size": 219,
+      "scope": "static"
+    },
+    "sub_6C27530": {
+      "address": 113407280,
+      "size": 224,
+      "scope": "static"
+    },
+    "sub_6C27610": {
+      "address": 113407504,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C27640": {
+      "address": 113407552,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_6C27660": {
+      "address": 113407584,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C27670": {
+      "address": 113407600,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C27680": {
+      "address": 113407616,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C27690": {
+      "address": 113407632,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C276A0": {
+      "address": 113407648,
+      "size": 60,
+      "scope": "static"
+    },
+    "sub_6C276E0": {
+      "address": 113407712,
+      "size": 55,
+      "scope": "static"
+    },
+    "sub_6C27720": {
+      "address": 113407776,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_6C27780": {
+      "address": 113407872,
+      "size": 294,
+      "scope": "static"
+    },
+    "sub_6C278B0": {
+      "address": 113408176,
+      "size": 91,
+      "scope": "static"
+    },
+    "sub_6C27910": {
+      "address": 113408272,
+      "size": 140,
+      "scope": "static"
+    },
+    "sub_6C279A0": {
+      "address": 113408416,
+      "size": 116,
+      "scope": "static"
+    },
+    "sub_6C27A20": {
+      "address": 113408544,
+      "size": 48,
+      "scope": "static"
+    },
+    "sub_6C27A50": {
+      "address": 113408592,
+      "size": 76,
+      "scope": "static"
+    },
+    "sub_6C27AA0": {
+      "address": 113408672,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6C27B00": {
+      "address": 113408768,
+      "size": 148,
+      "scope": "static"
+    },
+    "sub_6C27BA0": {
+      "address": 113408928,
+      "size": 287,
+      "scope": "static"
+    },
+    "sub_6C27CC0": {
+      "address": 113409216,
+      "size": 4624,
+      "scope": "static"
+    },
+    "sub_6C28ED0": {
+      "address": 113413840,
+      "size": 118,
+      "scope": "static"
+    },
+    "sub_6C28F50": {
+      "address": 113413968,
+      "size": 162,
+      "scope": "static"
+    },
+    "sub_6C29000": {
+      "address": 113414144,
+      "size": 61,
+      "scope": "static"
+    },
+    "sub_6C29040": {
+      "address": 113414208,
+      "size": 76,
+      "scope": "static"
+    },
+    "sub_6C29090": {
+      "address": 113414288,
+      "size": 242,
+      "scope": "static"
+    },
+    "sub_6C29190": {
+      "address": 113414544,
+      "size": 117,
+      "scope": "static"
+    },
+    "sub_6C29210": {
+      "address": 113414672,
+      "size": 64,
+      "scope": "static"
+    },
+    "sub_6C29250": {
+      "address": 113414736,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6C292B0": {
+      "address": 113414832,
+      "size": 51,
+      "scope": "static"
+    },
+    "sub_6C292F0": {
+      "address": 113414896,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6C29310": {
+      "address": 113414928,
+      "size": 68,
+      "scope": "static"
+    },
+    "sub_6C29360": {
+      "address": 113415008,
+      "size": 60,
+      "scope": "static"
+    },
+    "sub_6C293A0": {
+      "address": 113415072,
+      "size": 332,
+      "scope": "static"
+    },
+    "sub_6C294F0": {
+      "address": 113415408,
+      "size": 818,
+      "scope": "static"
+    },
+    "sub_6C29830": {
+      "address": 113416240,
+      "size": 20,
+      "scope": "static"
+    },
+    "sub_6C29850": {
+      "address": 113416272,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29860": {
+      "address": 113416288,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29870": {
+      "address": 113416304,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29880": {
+      "address": 113416320,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C29890": {
+      "address": 113416336,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C298A0": {
+      "address": 113416352,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C298B0": {
+      "address": 113416368,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C298C0": {
+      "address": 113416384,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C298D0": {
+      "address": 113416400,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C298E0": {
+      "address": 113416416,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C298F0": {
+      "address": 113416432,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29900": {
+      "address": 113416448,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29910": {
+      "address": 113416464,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29920": {
+      "address": 113416480,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29930": {
+      "address": 113416496,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29940": {
+      "address": 113416512,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29950": {
+      "address": 113416528,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29960": {
+      "address": 113416544,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29970": {
+      "address": 113416560,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29980": {
+      "address": 113416576,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29990": {
+      "address": 113416592,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C299A0": {
+      "address": 113416608,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C299B0": {
+      "address": 113416624,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C299C0": {
+      "address": 113416640,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C299D0": {
+      "address": 113416656,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C299E0": {
+      "address": 113416672,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C299F0": {
+      "address": 113416688,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C29A00": {
+      "address": 113416704,
+      "size": 181,
+      "scope": "static"
+    },
+    "sub_6C29AC0": {
+      "address": 113416896,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C29AD0": {
+      "address": 113416912,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C29AE0": {
+      "address": 113416928,
+      "size": 104,
+      "scope": "static"
+    },
+    "sub_6C29B50": {
+      "address": 113417040,
+      "size": 51,
+      "scope": "static"
+    },
+    "sub_6C29B90": {
+      "address": 113417104,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6C29BC0": {
+      "address": 113417152,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6C29C20": {
+      "address": 113417248,
+      "size": 123,
+      "scope": "static"
+    },
+    "sub_6C29CA0": {
+      "address": 113417376,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C29CD0": {
+      "address": 113417424,
+      "size": 191,
+      "scope": "static"
+    },
+    "sub_6C29D90": {
+      "address": 113417616,
+      "size": 313,
+      "scope": "static"
+    },
+    "sub_6C29ED0": {
+      "address": 113417936,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_6C29F40": {
+      "address": 113418048,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C29F70": {
+      "address": 113418096,
+      "size": 113,
+      "scope": "static"
+    },
+    "?seekoff@streambuf@@UAEJJW4seek_dir@ios@@H@Z": {
+      "address": 113418224,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6C2A000": {
+      "address": 113418240,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_6C2A060": {
+      "address": 113418336,
+      "size": 520,
+      "scope": "static"
+    },
+    "sub_6C2A270": {
+      "address": 113418864,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_6C2A2E0": {
+      "address": 113418976,
+      "size": 55,
+      "scope": "static"
+    },
+    "sub_6C2A320": {
+      "address": 113419040,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6C2A340": {
+      "address": 113419072,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_6C2A3A0": {
+      "address": 113419168,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6C2A3D0": {
+      "address": 113419216,
+      "size": 348,
+      "scope": "static"
+    },
+    "sub_6C2A530": {
+      "address": 113419568,
+      "size": 172,
+      "scope": "static"
+    },
+    "unknown_libname_1": {
+      "address": 113419744,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_6C2A5F0": {
+      "address": 113419760,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6C2A600": {
+      "address": 113419776,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6C2A6B0": {
+      "address": 113419952,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2A6C0": {
+      "address": 113419968,
+      "size": 355,
+      "scope": "static"
+    },
+    "sub_6C2A830": {
+      "address": 113420336,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6C2A850": {
+      "address": 113420368,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6C2A860": {
+      "address": 113420384,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6C2A870": {
+      "address": 113420400,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6C2A880": {
+      "address": 113420416,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6C2A890": {
+      "address": 113420432,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6C2A8F0": {
+      "address": 113420528,
+      "size": 82,
+      "scope": "static"
+    },
+    "sub_6C2A950": {
+      "address": 113420624,
+      "size": 32,
+      "scope": "static"
+    },
+    "sub_6C2A970": {
+      "address": 113420656,
+      "size": 36,
+      "scope": "static"
+    },
+    "sub_6C2A9A0": {
+      "address": 113420704,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2A9B0": {
+      "address": 113420720,
+      "size": 148,
+      "scope": "static"
+    },
+    "sub_6C2AA50": {
+      "address": 113420880,
+      "size": 1181,
+      "scope": "static"
+    },
+    "sub_6C2AEF0": {
+      "address": 113422064,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6C2AF00": {
+      "address": 113422080,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_6C2AF60": {
+      "address": 113422176,
+      "size": 79,
+      "scope": "static"
+    },
+    "sub_6C2AFB0": {
+      "address": 113422256,
+      "size": 61,
+      "scope": "static"
+    },
+    "sub_6C2AFF0": {
+      "address": 113422320,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6C2B010": {
+      "address": 113422352,
+      "size": 3,
+      "scope": "static"
+    },
+    "sub_6C2B020": {
+      "address": 113422368,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6C2B050": {
+      "address": 113422416,
+      "size": 174,
+      "scope": "static"
+    },
+    "sub_6C2B100": {
+      "address": 113422592,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C2B110": {
+      "address": 113422608,
+      "size": 120,
+      "scope": "static"
+    },
+    "sub_6C2B190": {
+      "address": 113422736,
+      "size": 151,
+      "scope": "static"
+    },
+    "sub_6C2B230": {
+      "address": 113422896,
+      "size": 287,
+      "scope": "static"
+    },
+    "sub_6C2B350": {
+      "address": 113423184,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_6C2B3C0": {
+      "address": 113423296,
+      "size": 198,
+      "scope": "static"
+    },
+    "sub_6C2B490": {
+      "address": 113423504,
+      "size": 3433,
+      "scope": "static"
+    },
+    "sub_6C2C230": {
+      "address": 113426992,
+      "size": 104,
+      "scope": "static"
+    },
+    "sub_6C2C2A0": {
+      "address": 113427104,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2C2B0": {
+      "address": 113427120,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6C2C2D0": {
+      "address": 113427152,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6C2C2E0": {
+      "address": 113427168,
+      "size": 20,
+      "scope": "static"
+    },
+    "sub_6C2C300": {
+      "address": 113427200,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6C2C320": {
+      "address": 113427232,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6C2C340": {
+      "address": 113427264,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6C2C360": {
+      "address": 113427296,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6C2C370": {
+      "address": 113427312,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6C2C390": {
+      "address": 113427344,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_6C2C3E0": {
+      "address": 113427424,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_6C2C430": {
+      "address": 113427504,
+      "size": 395,
+      "scope": "static"
+    },
+    "sub_6C2C5C0": {
+      "address": 113427904,
+      "size": 52,
+      "scope": "static"
+    },
+    "sub_6C2C600": {
+      "address": 113427968,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C2C610": {
+      "address": 113427984,
+      "size": 22,
+      "scope": "static"
+    },
+    "??4type_info@@AAEAAV0@ABV0@@Z": {
+      "address": 113428016,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6C2C640": {
+      "address": 113428032,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6C2C660": {
+      "address": 113428064,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6C2C690": {
+      "address": 113428112,
+      "size": 3199,
+      "scope": "static"
+    },
+    "sub_6C2D330": {
+      "address": 113431344,
+      "size": 124,
+      "scope": "static"
+    },
+    "sub_6C2D3B0": {
+      "address": 113431472,
+      "size": 162,
+      "scope": "static"
+    },
+    "sub_6C2D460": {
+      "address": 113431648,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6C2D480": {
+      "address": 113431680,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2D490": {
+      "address": 113431696,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2D4A0": {
+      "address": 113431712,
+      "size": 253,
+      "scope": "static"
+    },
+    "sub_6C2D5A0": {
+      "address": 113431968,
+      "size": 367,
+      "scope": "static"
+    },
+    "sub_6C2D710": {
+      "address": 113432336,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C2D720": {
+      "address": 113432352,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6C2D740": {
+      "address": 113432384,
+      "size": 153,
+      "scope": "static"
+    },
+    "sub_6C2D7E0": {
+      "address": 113432544,
+      "size": 51,
+      "scope": "static"
+    },
+    "sub_6C2D820": {
+      "address": 113432608,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6C2D850": {
+      "address": 113432656,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6C2D860": {
+      "address": 113432672,
+      "size": 130,
+      "scope": "static"
+    },
+    "sub_6C2D8F0": {
+      "address": 113432816,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C2D920": {
+      "address": 113432864,
+      "size": 145,
+      "scope": "static"
+    },
+    "sub_6C2D9C0": {
+      "address": 113433024,
+      "size": 67,
+      "scope": "static"
+    },
+    "sub_6C2DA10": {
+      "address": 113433104,
+      "size": 76,
+      "scope": "static"
+    },
+    "nullsub_3": {
+      "address": 113433184,
+      "size": 3,
+      "scope": "static"
+    },
+    "sub_6C2DA70": {
+      "address": 113433200,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C2DAA0": {
+      "address": 113433248,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6C2DAC0": {
+      "address": 113433280,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6C2DAE0": {
+      "address": 113433312,
+      "size": 103,
+      "scope": "static"
+    },
+    "sub_6C2DB50": {
+      "address": 113433424,
+      "size": 209,
+      "scope": "static"
+    },
+    "sub_6C2DC30": {
+      "address": 113433648,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6C2DCE0": {
+      "address": 113433824,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2DCF0": {
+      "address": 113433840,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C2DD20": {
+      "address": 113433888,
+      "size": 479,
+      "scope": "static"
+    },
+    "sub_6C2DF00": {
+      "address": 113434368,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_6C2DF60": {
+      "address": 113434464,
+      "size": 121,
+      "scope": "static"
+    },
+    "sub_6C2DFE0": {
+      "address": 113434592,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C2DFF0": {
+      "address": 113434608,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_6C2E020": {
+      "address": 113434656,
+      "size": 609,
+      "scope": "static"
+    },
+    "sub_6C2E290": {
+      "address": 113435280,
+      "size": 78,
+      "scope": "static"
+    },
+    "sub_6C2E2F0": {
+      "address": 113435376,
+      "size": 226,
+      "scope": "static"
+    },
+    "nullsub_1": {
+      "address": 113435616,
+      "size": 1,
+      "scope": "static"
+    },
+    "sub_6C2E3F0": {
+      "address": 113435632,
+      "size": 284,
+      "scope": "static"
+    },
+    "sub_6C2E510": {
+      "address": 113435920,
+      "size": 117,
+      "scope": "static"
+    },
+    "sub_6C2E590": {
+      "address": 113436048,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C2E5A0": {
+      "address": 113436064,
+      "size": 122,
+      "scope": "static"
+    },
+    "sub_6C2E630": {
+      "address": 113436208,
+      "size": 229,
+      "scope": "static"
+    },
+    "sub_6C2E720": {
+      "address": 113436448,
+      "size": 81,
+      "scope": "static"
+    },
+    "sub_6C2E780": {
+      "address": 113436544,
+      "size": 290,
+      "scope": "static"
+    },
+    "sub_6C2E8B0": {
+      "address": 113436848,
+      "size": 261,
+      "scope": "static"
+    },
+    "sub_6C2E9C0": {
+      "address": 113437120,
+      "size": 55,
+      "scope": "static"
+    },
+    "sub_6C2EA00": {
+      "address": 113437184,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6C2EA20": {
+      "address": 113437216,
+      "size": 581,
+      "scope": "static"
+    },
+    "sub_6C2EC70": {
+      "address": 113437808,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6C2ECA0": {
+      "address": 113437856,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6C2ECC0": {
+      "address": 113437888,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6C2ECF0": {
+      "address": 113437936,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_6C2ED50": {
+      "address": 113438032,
+      "size": 211,
+      "scope": "static"
+    },
+    "sub_6C2EE30": {
+      "address": 113438256,
+      "size": 906,
+      "scope": "static"
+    },
+    "sub_6C2F1C0": {
+      "address": 113439168,
+      "size": 102,
+      "scope": "static"
+    },
+    "sub_6C2F230": {
+      "address": 113439280,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6C2F250": {
+      "address": 113439312,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_6C2F2B0": {
+      "address": 113439408,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6C2F2E0": {
+      "address": 113439456,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_6C2F330": {
+      "address": 113439536,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6C2F340": {
+      "address": 113439552,
+      "size": 178,
+      "scope": "static"
+    },
+    "sub_6C2F400": {
+      "address": 113439744,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_6C2F430": {
+      "address": 113439792,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6C2F440": {
+      "address": 113439808,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2F450": {
+      "address": 113439824,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C2F460": {
+      "address": 113439840,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C2F470": {
+      "address": 113439856,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C2F480": {
+      "address": 113439872,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C2F490": {
+      "address": 113439888,
+      "size": 68,
+      "scope": "static"
+    },
+    "sub_6C2F4E0": {
+      "address": 113439968,
+      "size": 241,
+      "scope": "static"
+    },
+    "sub_6C2F5E0": {
+      "address": 113440224,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6C2F5F0": {
+      "address": 113440240,
+      "size": 476,
+      "scope": "static"
+    },
+    "sub_6C2F7D0": {
+      "address": 113440720,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6C2F7E0": {
+      "address": 113440736,
+      "size": 52,
+      "scope": "static"
+    },
+    "sub_6C2F820": {
+      "address": 113440800,
+      "size": 214,
+      "scope": "static"
+    },
+    "sub_6C2F900": {
+      "address": 113441024,
+      "size": 283,
+      "scope": "static"
+    },
+    "sub_6C2FA20": {
+      "address": 113441312,
+      "size": 151,
+      "scope": "static"
+    },
+    "sub_6C2FAC0": {
+      "address": 113441472,
+      "size": 125,
+      "scope": "static"
+    },
+    "sub_6C2FB40": {
+      "address": 113441600,
+      "size": 5,
+      "scope": "static"
+    },
+    "nullsub_2": {
+      "address": 113441616,
+      "size": 3,
+      "scope": "static"
+    },
+    "sub_6C2FB60": {
+      "address": 113441632,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_6C2FBB0": {
+      "address": 113441712,
+      "size": 520,
+      "scope": "static"
+    },
+    "sub_6C2FDC0": {
+      "address": 113442240,
+      "size": 48,
+      "scope": "static"
+    },
+    "sub_6C2FDF0": {
+      "address": 113442288,
+      "size": 27,
+      "scope": "static"
+    },
+    "sub_6C2FE10": {
+      "address": 113442320,
+      "size": 996,
+      "scope": "static"
+    },
+    "sub_6C30200": {
+      "address": 113443328,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_6C30250": {
+      "address": 113443408,
+      "size": 581,
+      "scope": "static"
+    },
+    "sub_6C304A0": {
+      "address": 113444000,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_6C304F0": {
+      "address": 113444080,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6C305A0": {
+      "address": 113444256,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C305B0": {
+      "address": 113444272,
+      "size": 60,
+      "scope": "static"
+    },
+    "sub_6C305F0": {
+      "address": 113444336,
+      "size": 178,
+      "scope": "static"
+    },
+    "sub_6C306B0": {
+      "address": 113444528,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C306C0": {
+      "address": 113444544,
+      "size": 252,
+      "scope": "static"
+    },
+    "sub_6C307C0": {
+      "address": 113444800,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6C307D0": {
+      "address": 113444816,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C307E0": {
+      "address": 113444832,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C307F0": {
+      "address": 113444848,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C30820": {
+      "address": 113444896,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_6C30850": {
+      "address": 113444944,
+      "size": 110,
+      "scope": "static"
+    },
+    "sub_6C308C0": {
+      "address": 113445056,
+      "size": 56,
+      "scope": "static"
+    },
+    "sub_6C30900": {
+      "address": 113445120,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6C30910": {
+      "address": 113445136,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6C30920": {
+      "address": 113445152,
+      "size": 81,
+      "scope": "static"
+    },
+    "sub_6C30980": {
+      "address": 113445248,
+      "size": 128,
+      "scope": "static"
+    },
+    "sub_6C30A00": {
+      "address": 113445376,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6C30A20": {
+      "address": 113445408,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_6C30A50": {
+      "address": 113445456,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30A80": {
+      "address": 113445504,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30AB0": {
+      "address": 113445552,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30AE0": {
+      "address": 113445600,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C30B10": {
+      "address": 113445648,
+      "size": 67,
+      "scope": "static"
+    },
+    "sub_6C30B60": {
+      "address": 113445728,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30B90": {
+      "address": 113445776,
+      "size": 62,
+      "scope": "static"
+    },
+    "sub_6C30BD0": {
+      "address": 113445840,
+      "size": 62,
+      "scope": "static"
+    },
+    "sub_6C30C10": {
+      "address": 113445904,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6C30C40": {
+      "address": 113445952,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6C30C60": {
+      "address": 113445984,
+      "size": 120,
+      "scope": "static"
+    },
+    "sub_6C30CE0": {
+      "address": 113446112,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30D10": {
+      "address": 113446160,
+      "size": 65,
+      "scope": "static"
+    },
+    "sub_6C30D60": {
+      "address": 113446240,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30D90": {
+      "address": 113446288,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_6C30DF0": {
+      "address": 113446384,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30E20": {
+      "address": 113446432,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30E50": {
+      "address": 113446480,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C30E80": {
+      "address": 113446528,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6C30EA0": {
+      "address": 113446560,
+      "size": 98,
+      "scope": "static"
+    },
+    "sub_6C30F10": {
+      "address": 113446672,
+      "size": 75,
+      "scope": "static"
+    },
+    "?seekoff@streambuf@@UAEJJW4seek_dir@ios@@H@Z_0": {
+      "address": 113446747,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6C30F70": {
+      "address": 113446768,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6C30F90": {
+      "address": 113446800,
+      "size": 216,
+      "scope": "static"
+    },
+    "sub_6C31070": {
+      "address": 113447024,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6C310A0": {
+      "address": 113447072,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_6C310C0": {
+      "address": 113447104,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_6C310F0": {
+      "address": 113447152,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6C31110": {
+      "address": 113447184,
+      "size": 64,
+      "scope": "static"
+    },
+    "sub_6C31150": {
+      "address": 113447248,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C31160": {
+      "address": 113447264,
+      "size": 286,
+      "scope": "static"
+    },
+    "sub_6C31280": {
+      "address": 113447552,
+      "size": 631,
+      "scope": "static"
+    },
+    "sub_6C31500": {
+      "address": 113448192,
+      "size": 541,
+      "scope": "static"
+    },
+    "sub_6C31730": {
+      "address": 113448752,
+      "size": 122,
+      "scope": "static"
+    },
+    "sub_6C317B0": {
+      "address": 113448880,
+      "size": 405,
+      "scope": "static"
+    },
+    "sub_6C31950": {
+      "address": 113449296,
+      "size": 142,
+      "scope": "static"
+    },
+    "sub_6C319E0": {
+      "address": 113449440,
+      "size": 805,
+      "scope": "static"
+    },
+    "sub_6C31D10": {
+      "address": 113450256,
+      "size": 234,
+      "scope": "static"
+    },
+    "sub_6C31E00": {
+      "address": 113450496,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C31E10": {
+      "address": 113450512,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C31E20": {
+      "address": 113450528,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C31E30": {
+      "address": 113450544,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C31E40": {
+      "address": 113450560,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C31E50": {
+      "address": 113450576,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C31E60": {
+      "address": 113450592,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6C31E80": {
+      "address": 113450624,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6C31E90": {
+      "address": 113450640,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_6C31EB0": {
+      "address": 113450672,
+      "size": 118,
+      "scope": "static"
+    },
+    "sub_6C31F30": {
+      "address": 113450800,
+      "size": 178,
+      "scope": "static"
+    },
+    "sub_6C31FF0": {
+      "address": 113450992,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6C32000": {
+      "address": 113451008,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6C32020": {
+      "address": 113451040,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6C32040": {
+      "address": 113451072,
+      "size": 72,
+      "scope": "static"
+    },
+    "sub_6C32090": {
+      "address": 113451152,
+      "size": 159,
+      "scope": "static"
+    },
+    "sub_6C32130": {
+      "address": 113451312,
+      "size": 543,
+      "scope": "static"
+    },
+    "sub_6C32350": {
+      "address": 113451856,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6C32380": {
+      "address": 113451904,
+      "size": 360,
+      "scope": "static"
+    },
+    "sub_6C324F0": {
+      "address": 113452272,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6C32520": {
+      "address": 113452320,
+      "size": 367,
+      "scope": "static"
+    },
+    "sub_6C32690": {
+      "address": 113452688,
+      "size": 261,
+      "scope": "static"
+    },
+    "sub_6C327A0": {
+      "address": 113452960,
+      "size": 146,
+      "scope": "static"
+    },
+    "sub_6C32840": {
+      "address": 113453120,
+      "size": 135,
+      "scope": "static"
+    },
+    "sub_6C328D0": {
+      "address": 113453264,
+      "size": 178,
+      "scope": "static"
+    },
+    "sub_6C32990": {
+      "address": 113453456,
+      "size": 162,
+      "scope": "static"
+    },
+    "sub_6C32A40": {
+      "address": 113453632,
+      "size": 56,
+      "scope": "static"
+    },
+    "sub_6C32A80": {
+      "address": 113453696,
+      "size": 1540,
+      "scope": "static"
+    },
+    "sub_6C33090": {
+      "address": 113455248,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_6C330B0": {
+      "address": 113455280,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_6C33100": {
+      "address": 113455360,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_6C33150": {
+      "address": 113455440,
+      "size": 186,
+      "scope": "static"
+    },
+    "sub_6C33210": {
+      "address": 113455632,
+      "size": 157,
+      "scope": "static"
+    },
+    "sub_6C332B0": {
+      "address": 113455792,
+      "size": 157,
+      "scope": "static"
+    },
+    "sub_6C33350": {
+      "address": 113455952,
+      "size": 121,
+      "scope": "static"
+    },
+    "sub_6C333D0": {
+      "address": 113456080,
+      "size": 121,
+      "scope": "static"
+    },
+    "sub_6C33450": {
+      "address": 113456208,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6C33460": {
+      "address": 113456224,
+      "size": 68,
+      "scope": "static"
+    },
+    "sub_6C334B0": {
+      "address": 113456304,
+      "size": 68,
+      "scope": "static"
+    },
+    "sub_6C33500": {
+      "address": 113456384,
+      "size": 164,
+      "scope": "static"
+    },
+    "sub_6C335B0": {
+      "address": 113456560,
+      "size": 94,
+      "scope": "static"
+    },
+    "sub_6C33610": {
+      "address": 113456656,
+      "size": 94,
+      "scope": "static"
+    },
+    "sub_6C33670": {
+      "address": 113456752,
+      "size": 97,
+      "scope": "static"
+    },
+    "sub_6C336E0": {
+      "address": 113456864,
+      "size": 78,
+      "scope": "static"
+    },
+    "sub_6C33730": {
+      "address": 113456944,
+      "size": 78,
+      "scope": "static"
+    },
+    "sub_6C33780": {
+      "address": 113457024,
+      "size": 119,
+      "scope": "static"
+    },
+    "sub_6C33800": {
+      "address": 113457152,
+      "size": 130,
+      "scope": "static"
+    },
+    "sub_6C33890": {
+      "address": 113457296,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_6C33900": {
+      "address": 113457408,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_6C33950": {
+      "address": 113457488,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_6C339C0": {
+      "address": 113457600,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_6C33A10": {
+      "address": 113457680,
+      "size": 472,
+      "scope": "static"
+    },
+    "sub_6C33BF0": {
+      "address": 113458160,
+      "size": 89,
+      "scope": "static"
+    },
+    "sub_6C33C50": {
+      "address": 113458256,
+      "size": 900,
+      "scope": "static"
+    },
+    "sub_6C33FE0": {
+      "address": 113459168,
+      "size": 147,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 113459328,
+      "size": 124,
+      "scope": "static"
+    },
+    "sub_6C34100": {
+      "address": 113459456,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6C34160": {
+      "address": 113459552,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6C34170": {
+      "address": 113459568,
+      "size": 520,
+      "scope": "static"
+    },
+    "sub_6C34380": {
+      "address": 113460096,
+      "size": 984,
+      "scope": "static"
+    },
+    "sub_6C34760": {
+      "address": 113461088,
+      "size": 63,
+      "scope": "static"
+    },
+    "sub_6C347A0": {
+      "address": 113461152,
+      "size": 581,
+      "scope": "static"
+    },
+    "sub_6C349F0": {
+      "address": 113461744,
+      "size": 79,
+      "scope": "static"
+    },
+    "sub_6C34A40": {
+      "address": 113461824,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_6C34A60": {
+      "address": 113461856,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_6C34AB0": {
+      "address": 113461936,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6C34AE0": {
+      "address": 113461984,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6C34B00": {
+      "address": 113462016,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_6C34B60": {
+      "address": 113462112,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6C34B90": {
+      "address": 113462160,
+      "size": 274,
+      "scope": "static"
+    },
+    "sub_6C34CB0": {
+      "address": 113462448,
+      "size": 178,
+      "scope": "static"
+    },
+    "sub_6C34D70": {
+      "address": 113462640,
+      "size": 60,
+      "scope": "static"
+    },
+    "sub_6C34DB0": {
+      "address": 113462704,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6C34DC0": {
+      "address": 113462720,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C34DD0": {
+      "address": 113462736,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6C34DE0": {
+      "address": 113462752,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_6C34E00": {
+      "address": 113462784,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_6C34E30": {
+      "address": 113462832,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C34E40": {
+      "address": 113462848,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C34E50": {
+      "address": 113462864,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6C34E60": {
+      "address": 113462880,
+      "size": 57,
+      "scope": "static"
+    },
+    "sub_6C34EA0": {
+      "address": 113462944,
+      "size": 11,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 113462956,
+      "size": 6,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 113462976,
+      "size": 47,
+      "scope": "static"
+    },
+    "free": {
+      "address": 113463024,
+      "size": 6,
+      "scope": "static"
+    },
+    "_purecall": {
+      "address": 113463030,
+      "size": 6,
+      "scope": "static"
+    },
+    "_ftol": {
+      "address": 113463036,
+      "size": 6,
+      "scope": "static"
+    },
+    "_CIacos": {
+      "address": 113463042,
+      "size": 6,
+      "scope": "static"
+    },
+    "__onexit": {
+      "address": 113463048,
+      "size": 44,
+      "scope": "static"
+    },
+    "_atexit": {
+      "address": 113463092,
+      "size": 18,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 113463110,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 113463281,
+      "size": 157,
+      "scope": "global"
+    },
+    "__dllonexit": {
+      "address": 113463438,
+      "size": 6,
+      "scope": "static"
+    },
+    "_initterm": {
+      "address": 113463444,
+      "size": 6,
+      "scope": "static"
+    }
+  }
+}

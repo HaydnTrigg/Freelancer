@@ -1,0 +1,189 @@
+{
+  "ximage.dll.obj": {
+    "sub_6F81000": {
+      "address": 116920320,
+      "size": 371,
+      "scope": "static"
+    },
+    "sub_6F81180": {
+      "address": 116920704,
+      "size": 2177,
+      "scope": "static"
+    },
+    "sub_6F81A10": {
+      "address": 116922896,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_6F81A40": {
+      "address": 116922944,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6F81A70": {
+      "address": 116922992,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6F81A80": {
+      "address": 116923008,
+      "size": 850,
+      "scope": "static"
+    },
+    "sub_6F81DE0": {
+      "address": 116923872,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6F81DF0": {
+      "address": 116923888,
+      "size": 618,
+      "scope": "static"
+    },
+    "sub_6F82060": {
+      "address": 116924512,
+      "size": 615,
+      "scope": "static"
+    },
+    "sub_6F822D0": {
+      "address": 116925136,
+      "size": 67,
+      "scope": "static"
+    },
+    "Register_BigImageFactory": {
+      "address": 116925216,
+      "size": 76,
+      "scope": "static"
+    },
+    "sub_6F82370": {
+      "address": 116925296,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_6F823B0": {
+      "address": 116925360,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6F823C0": {
+      "address": 116925376,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6F823F0": {
+      "address": 116925424,
+      "size": 580,
+      "scope": "static"
+    },
+    "nullsub_1": {
+      "address": 116926016,
+      "size": 3,
+      "scope": "static"
+    },
+    "sub_6F82650": {
+      "address": 116926032,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6F82670": {
+      "address": 116926064,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6F82690": {
+      "address": 116926096,
+      "size": 87,
+      "scope": "static"
+    },
+    "sub_6F826F0": {
+      "address": 116926192,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6F82700": {
+      "address": 116926208,
+      "size": 63,
+      "scope": "static"
+    },
+    "sub_6F82740": {
+      "address": 116926272,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6F82760": {
+      "address": 116926304,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6F82810": {
+      "address": 116926480,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6F82820": {
+      "address": 116926496,
+      "size": 172,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 116926672,
+      "size": 20,
+      "scope": "static"
+    },
+    "sub_6F828F0": {
+      "address": 116926704,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6F82900": {
+      "address": 116926720,
+      "size": 27,
+      "scope": "static"
+    },
+    "sub_6F82920": {
+      "address": 116926752,
+      "size": 29,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 116926784,
+      "size": 6,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 116926800,
+      "size": 47,
+      "scope": "static"
+    },
+    "??3@YAXPAX@Z": {
+      "address": 116926848,
+      "size": 6,
+      "scope": "static"
+    },
+    "_purecall": {
+      "address": 116926854,
+      "size": 6,
+      "scope": "static"
+    },
+    "_ftol": {
+      "address": 116926860,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 116926866,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 116927037,
+      "size": 157,
+      "scope": "global"
+    },
+    "_initterm": {
+      "address": 116927194,
+      "size": 6,
+      "scope": "static"
+    }
+  }
+}

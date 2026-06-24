@@ -1,0 +1,1104 @@
+{
+  "DALib.dll.obj": {
+    "sub_65C1000": {
+      "address": 106696704,
+      "size": 80,
+      "scope": "static"
+    },
+    "sub_65C1050": {
+      "address": 106696784,
+      "size": 49,
+      "scope": "static"
+    },
+    "sub_65C1090": {
+      "address": 106696848,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_65C10B0": {
+      "address": 106696880,
+      "size": 82,
+      "scope": "static"
+    },
+    "sub_65C1110": {
+      "address": 106696976,
+      "size": 71,
+      "scope": "static"
+    },
+    "?Startup@DALib@@YA_NPAUHWND__@@PBD@Z": {
+      "address": 106697056,
+      "size": 1121,
+      "scope": "global"
+    },
+    "sub_65C15D0": {
+      "address": 106698192,
+      "size": 55,
+      "scope": "static"
+    },
+    "?OpenData@DALib@@YAXPBD@Z": {
+      "address": 106698256,
+      "size": 115,
+      "scope": "global"
+    },
+    "?CloseData@DALib@@YAXXZ": {
+      "address": 106698384,
+      "size": 31,
+      "scope": "global"
+    },
+    "?Shutdown@DALib@@YAXPAUHWND__@@@Z": {
+      "address": 106698416,
+      "size": 772,
+      "scope": "global"
+    },
+    "sub_65C19C0": {
+      "address": 106699200,
+      "size": 12,
+      "scope": "static"
+    },
+    "?HandleClientMsg@CDPClient@@KGJPAXK0@Z": {
+      "address": 106699216,
+      "size": 903,
+      "scope": "global"
+    },
+    "?DispatchMsgs@CDPClient@@QAEXK@Z": {
+      "address": 106700176,
+      "size": 729,
+      "scope": "global"
+    },
+    "unknown_libname_1": {
+      "address": 106700928,
+      "size": 10,
+      "scope": "static"
+    },
+    "??0CDPClient@@QAE@XZ": {
+      "address": 106700944,
+      "size": 296,
+      "scope": "global"
+    },
+    "??1CDPClient@@UAE@XZ": {
+      "address": 106701248,
+      "size": 275,
+      "scope": "global"
+    },
+    "?GetClient@CDPClient@@QAEPAUIDirectPlay8Client@@XZ": {
+      "address": 106701536,
+      "size": 4,
+      "scope": "global"
+    },
+    "?Cleanup@CDPClient@@QAEXXZ": {
+      "address": 106701552,
+      "size": 75,
+      "scope": "global"
+    },
+    "?AddConnectAttempt@CDPClient@@QAE_NPBGPAG@Z": {
+      "address": 106701632,
+      "size": 441,
+      "scope": "global"
+    },
+    "sub_65C2500": {
+      "address": 106702080,
+      "size": 113,
+      "scope": "static"
+    },
+    "?ProcessConnectAttempt@CDPClient@@QAE_NXZ": {
+      "address": 106702208,
+      "size": 135,
+      "scope": "global"
+    },
+    "?ConnectToServer@CDPClient@@IAE_NPBG0@Z": {
+      "address": 106702352,
+      "size": 382,
+      "scope": "global"
+    },
+    "?Close@CDPClient@@QAEXXZ": {
+      "address": 106702736,
+      "size": 36,
+      "scope": "global"
+    },
+    "?CancelEnums@CDPClient@@QAEXXZ": {
+      "address": 106702784,
+      "size": 18,
+      "scope": "global"
+    },
+    "?Send@CDPClient@@QAE_NPAEK@Z": {
+      "address": 106702816,
+      "size": 99,
+      "scope": "global"
+    },
+    "?SetGUID@CDPClient@@QAEXAAU_GUID@@@Z": {
+      "address": 106702928,
+      "size": 32,
+      "scope": "global"
+    },
+    "?EnumerateHosts@CDPClient@@QAE_NXZ": {
+      "address": 106702960,
+      "size": 352,
+      "scope": "global"
+    },
+    "?EnumerateHost@CDPClient@@QAE_NPBGKKKK@Z": {
+      "address": 106703312,
+      "size": 482,
+      "scope": "global"
+    },
+    "?GetLastMsgTimestamp@CDPClient@@SAKXZ": {
+      "address": 106703808,
+      "size": 6,
+      "scope": "global"
+    },
+    "?GetPingDelay@CDPClient@@SAKXZ": {
+      "address": 106703824,
+      "size": 60,
+      "scope": "global"
+    },
+    "?GetSendQueueSize@CDPClient@@SAKXZ": {
+      "address": 106703888,
+      "size": 45,
+      "scope": "global"
+    },
+    "?IsPingOutstanding@CDPClient@@SA_NXZ": {
+      "address": 106703936,
+      "size": 16,
+      "scope": "global"
+    },
+    "?SetSourcePort@CDPClient@@SAXK@Z": {
+      "address": 106703952,
+      "size": 10,
+      "scope": "global"
+    },
+    "?GetLinkQuality@CDPClient@@SAKXZ": {
+      "address": 106703968,
+      "size": 6,
+      "scope": "global"
+    },
+    "??0CDPMsgList@@QAE@ABV0@@Z": {
+      "address": 106703984,
+      "size": 164,
+      "scope": "global"
+    },
+    "??4CDPMsgList@@QAEAAV0@ABV0@@Z": {
+      "address": 106704160,
+      "size": 233,
+      "scope": "global"
+    },
+    "sub_65C2E10": {
+      "address": 106704400,
+      "size": 84,
+      "scope": "static"
+    },
+    "?OnDisconnect@IDPMsgHandler@@UAEXXZ": {
+      "address": 106704496,
+      "size": 1,
+      "scope": "global"
+    },
+    "??0IDPMsgHandler@@QAE@XZ": {
+      "address": 106704512,
+      "size": 9,
+      "scope": "global"
+    },
+    "??0IDPMsgHandler@@QAE@ABV0@@Z": {
+      "address": 106704528,
+      "size": 11,
+      "scope": "global"
+    },
+    "??4IDPMsgHandler@@QAEAAV0@ABV0@@Z": {
+      "address": 106704544,
+      "size": 5,
+      "scope": "global"
+    },
+    "?GetConnectResult@CDPClient@@QAEJXZ": {
+      "address": 106704560,
+      "size": 4,
+      "scope": "global"
+    },
+    "??0CDPClient@@QAE@ABV0@@Z": {
+      "address": 106704576,
+      "size": 359,
+      "scope": "global"
+    },
+    "??4CDPClient@@QAEAAV0@ABV0@@Z": {
+      "address": 106704944,
+      "size": 431,
+      "scope": "global"
+    },
+    "sub_65C31E0": {
+      "address": 106705376,
+      "size": 87,
+      "scope": "static"
+    },
+    "?GetData@CDPMessage@@QAEQAEXZ": {
+      "address": 106705472,
+      "size": 4,
+      "scope": "global"
+    },
+    "?GetSize@CDPMessage@@QAE?BKXZ": {
+      "address": 106705488,
+      "size": 4,
+      "scope": "global"
+    },
+    "??0CDPMessage@@QAE@ABV0@@Z": {
+      "address": 106705504,
+      "size": 57,
+      "scope": "global"
+    },
+    "??4CDPMessage@@QAEAAV0@ABV0@@Z": {
+      "address": 106705568,
+      "size": 51,
+      "scope": "global"
+    },
+    "sub_65C32E0": {
+      "address": 106705632,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_65C3340": {
+      "address": 106705728,
+      "size": 88,
+      "scope": "static"
+    },
+    "sub_65C33A0": {
+      "address": 106705824,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_65C3400": {
+      "address": 106705920,
+      "size": 68,
+      "scope": "static"
+    },
+    "sub_65C3450": {
+      "address": 106706000,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_65C34C0": {
+      "address": 106706112,
+      "size": 78,
+      "scope": "static"
+    },
+    "sub_65C3510": {
+      "address": 106706192,
+      "size": 330,
+      "scope": "static"
+    },
+    "sub_65C3660": {
+      "address": 106706528,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_65C3690": {
+      "address": 106706576,
+      "size": 30,
+      "scope": "static"
+    },
+    "??0CDPClientProxy@@QAE@XZ": {
+      "address": 106706608,
+      "size": 82,
+      "scope": "global"
+    },
+    "??1CDPClientProxy@@UAE@XZ": {
+      "address": 106706704,
+      "size": 22,
+      "scope": "global"
+    },
+    "?SendMsgs@CDPClientProxy@@QAE_NXZ": {
+      "address": 106706736,
+      "size": 702,
+      "scope": "global"
+    },
+    "unknown_libname_2": {
+      "address": 106707440,
+      "size": 10,
+      "scope": "static"
+    },
+    "?Send@CDPClientProxy@@QAE_NPAXK@Z": {
+      "address": 106707456,
+      "size": 191,
+      "scope": "global"
+    },
+    "?Disconnect@CDPClientProxy@@QAE_NXZ": {
+      "address": 106707648,
+      "size": 15,
+      "scope": "global"
+    },
+    "?GetConnectionStats@CDPClientProxy@@QAE_NPAU_DPN_CONNECTION_INFO@@@Z": {
+      "address": 106707664,
+      "size": 28,
+      "scope": "global"
+    },
+    "?OnMsgSent@CDPClientProxy@@QAEXK@Z": {
+      "address": 106707696,
+      "size": 3,
+      "scope": "global"
+    },
+    "?GetLinkSaturation@CDPClientProxy@@QAENXZ": {
+      "address": 106707712,
+      "size": 4,
+      "scope": "global"
+    },
+    "?UpdateQueueHistory@CDPClientProxy@@QAEXXZ": {
+      "address": 106707728,
+      "size": 111,
+      "scope": "global"
+    },
+    "?GetSendQSize@CDPClientProxy@@QAEIXZ": {
+      "address": 106707840,
+      "size": 17,
+      "scope": "global"
+    },
+    "?GetSendQBytes@CDPClientProxy@@QAEIXZ": {
+      "address": 106707872,
+      "size": 17,
+      "scope": "global"
+    },
+    "??0CDPServer@@QAE@ABV0@@Z": {
+      "address": 106707904,
+      "size": 341,
+      "scope": "global"
+    },
+    "??4CDPServer@@QAEAAV0@ABV0@@Z": {
+      "address": 106708256,
+      "size": 432,
+      "scope": "global"
+    },
+    "sub_65C3ED0": {
+      "address": 106708688,
+      "size": 87,
+      "scope": "static"
+    },
+    "??0CDPClientProxy@@QAE@ABV0@@Z": {
+      "address": 106708784,
+      "size": 250,
+      "scope": "global"
+    },
+    "??4CDPClientProxy@@QAEAAV0@ABV0@@Z": {
+      "address": 106709040,
+      "size": 301,
+      "scope": "global"
+    },
+    "sub_65C4160": {
+      "address": 106709344,
+      "size": 84,
+      "scope": "static"
+    },
+    "??0CDPMessage@@QAE@XZ": {
+      "address": 106709440,
+      "size": 29,
+      "scope": "global"
+    },
+    "??1CDPMessage@@UAE@XZ": {
+      "address": 106709472,
+      "size": 7,
+      "scope": "global"
+    },
+    "??0CDPMsgList@@QAE@XZ": {
+      "address": 106709488,
+      "size": 74,
+      "scope": "global"
+    },
+    "??1CDPMsgList@@UAE@XZ": {
+      "address": 106709568,
+      "size": 190,
+      "scope": "global"
+    },
+    "?Lock@CDPMsgList@@QAEXXZ": {
+      "address": 106709760,
+      "size": 11,
+      "scope": "global"
+    },
+    "?Unlock@CDPMsgList@@QAEXXZ": {
+      "address": 106709776,
+      "size": 11,
+      "scope": "global"
+    },
+    "?Add@CDPMsgList@@QAEXPAVCDPMessage@@@Z": {
+      "address": 106709792,
+      "size": 102,
+      "scope": "global"
+    },
+    "?GetNextMsg@CDPMsgList@@QAEPAVCDPMessage@@XZ": {
+      "address": 106709904,
+      "size": 96,
+      "scope": "global"
+    },
+    "?PeekNextMsg@CDPMsgList@@QAEPAVCDPMessage@@XZ": {
+      "address": 106710000,
+      "size": 45,
+      "scope": "global"
+    },
+    "?ExtractMsgs@CDPMsgList@@QAEXKAAV1@@Z": {
+      "address": 106710048,
+      "size": 189,
+      "scope": "global"
+    },
+    "?CopyList@CDPMsgList@@QAEXAAV1@@Z": {
+      "address": 106710240,
+      "size": 186,
+      "scope": "global"
+    },
+    "?WaitForMsg@CDPMsgList@@QAEXK@Z": {
+      "address": 106710432,
+      "size": 18,
+      "scope": "global"
+    },
+    "?SetEmptyEvent@CDPMsgList@@QAEXXZ": {
+      "address": 106710464,
+      "size": 11,
+      "scope": "global"
+    },
+    "sub_65C45D0": {
+      "address": 106710480,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_65C45E0": {
+      "address": 106710496,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_65C4630": {
+      "address": 106710576,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_65C4640": {
+      "address": 106710592,
+      "size": 22,
+      "scope": "static"
+    },
+    "unknown_libname_3": {
+      "address": 106710624,
+      "size": 10,
+      "scope": "static"
+    },
+    "?HandleDPServerMsg@CDPServer@@KGJPAXK0@Z": {
+      "address": 106710640,
+      "size": 660,
+      "scope": "global"
+    },
+    "?DispatchMsgs@CDPServer@@QAEXXZ": {
+      "address": 106711360,
+      "size": 670,
+      "scope": "global"
+    },
+    "??0CDPServer@@QAE@XZ": {
+      "address": 106712048,
+      "size": 379,
+      "scope": "global"
+    },
+    "??1CDPServer@@UAE@XZ": {
+      "address": 106712432,
+      "size": 187,
+      "scope": "global"
+    },
+    "?UpdateDescription@CDPServer@@IAEXXZ": {
+      "address": 106712624,
+      "size": 20,
+      "scope": "global"
+    },
+    "?SetGUID@CDPServer@@QAEXAAU_GUID@@@Z": {
+      "address": 106712656,
+      "size": 32,
+      "scope": "global"
+    },
+    "?SetSessionName@CDPServer@@QAEXPBG@Z": {
+      "address": 106712688,
+      "size": 44,
+      "scope": "global"
+    },
+    "?SetMaxPlayers@CDPServer@@QAEXH@Z": {
+      "address": 106712736,
+      "size": 30,
+      "scope": "global"
+    },
+    "?SetPassword@CDPServer@@QAEXPBG@Z": {
+      "address": 106712768,
+      "size": 86,
+      "scope": "global"
+    },
+    "?GetHostAddresses@CDPServer@@IAEXXZ": {
+      "address": 106712864,
+      "size": 176,
+      "scope": "global"
+    },
+    "?ReleaseHostAddresses@CDPServer@@IAEXXZ": {
+      "address": 106713040,
+      "size": 65,
+      "scope": "global"
+    },
+    "?CreateClientProxy@CDPServer@@UAEPAVCDPClientProxy@@XZ": {
+      "address": 106713120,
+      "size": 87,
+      "scope": "global"
+    },
+    "?BeginHosting@CDPServer@@QAE_NI@Z": {
+      "address": 106713216,
+      "size": 185,
+      "scope": "global"
+    },
+    "?StopHosting@CDPServer@@QAEXXZ": {
+      "address": 106713408,
+      "size": 16,
+      "scope": "global"
+    },
+    "?GetPort@CDPServer@@QAEXAAV?$vector@KV?$allocator@K@std@@@std@@@Z": {
+      "address": 106713424,
+      "size": 525,
+      "scope": "global"
+    },
+    "?SendTo@CDPServer@@QAE_NPAVCDPClientProxy@@PAXK@Z": {
+      "address": 106713952,
+      "size": 101,
+      "scope": "global"
+    },
+    "?DisconnectClient@CDPServer@@QAEXK@Z": {
+      "address": 106714064,
+      "size": 27,
+      "scope": "global"
+    },
+    "?GetConnectionStats@CDPServer@@QAE_NPAVCDPClientProxy@@PAU_DPN_CONNECTION_INFO@@@Z": {
+      "address": 106714096,
+      "size": 65,
+      "scope": "global"
+    },
+    "?GetConnectionStats@CDPServer@@QAE_NPAU_DPN_CONNECTION_INFO@@@Z": {
+      "address": 106714176,
+      "size": 59,
+      "scope": "global"
+    },
+    "?GetSendQSize@CDPServer@@QAEIPAVCDPClientProxy@@@Z": {
+      "address": 106714240,
+      "size": 64,
+      "scope": "global"
+    },
+    "?GetSendQBytes@CDPServer@@QAEIPAVCDPClientProxy@@@Z": {
+      "address": 106714304,
+      "size": 64,
+      "scope": "global"
+    },
+    "?SetEnumResponse@CDPServer@@QAE_NPAXK@Z": {
+      "address": 106714368,
+      "size": 82,
+      "scope": "global"
+    },
+    "?GetLastMsgTimestamp@CDPServer@@SAKXZ": {
+      "address": 106714464,
+      "size": 6,
+      "scope": "global"
+    },
+    "?CrashCleanup@CDPServer@@SAXXZ": {
+      "address": 106714480,
+      "size": 25,
+      "scope": "global"
+    },
+    "sub_65C5590": {
+      "address": 106714512,
+      "size": 52,
+      "scope": "static"
+    },
+    "?OnReceive@IDPMsgHandler@@UAEXPAEK@Z": {
+      "address": 106714576,
+      "size": 3,
+      "scope": "global"
+    },
+    "sub_65C55E0": {
+      "address": 106714592,
+      "size": 39,
+      "scope": "static"
+    },
+    "sub_65C5610": {
+      "address": 106714640,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_65C5640": {
+      "address": 106714688,
+      "size": 57,
+      "scope": "static"
+    },
+    "sub_65C5680": {
+      "address": 106714752,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_65C56E0": {
+      "address": 106714848,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65C5700": {
+      "address": 106714880,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_65C5720": {
+      "address": 106714912,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_65C5740": {
+      "address": 106714944,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_65C57A0": {
+      "address": 106715040,
+      "size": 40,
+      "scope": "static"
+    },
+    "?Shutdown@CGunWrapper@@SAXXZ": {
+      "address": 106715088,
+      "size": 112,
+      "scope": "global"
+    },
+    "??0CGunWrapper@@QAE@PBDAAU_GUID@@0KPAG@Z": {
+      "address": 106715200,
+      "size": 211,
+      "scope": "global"
+    },
+    "??1CGunWrapper@@UAE@XZ": {
+      "address": 106715424,
+      "size": 354,
+      "scope": "global"
+    },
+    "StartAddress": {
+      "address": 106715792,
+      "size": 158,
+      "scope": "static"
+    },
+    "?Read@CGunWrapper@@UAGJPAUGUNQueueMessage@Gun2@@@Z": {
+      "address": 106715952,
+      "size": 5,
+      "scope": "global"
+    },
+    "?GetStatus@CGunWrapper@@QAE?AW4ConnectStatus@IGunConnection@@XZ": {
+      "address": 106715968,
+      "size": 4,
+      "scope": "global"
+    },
+    "?Update@CGunWrapper@@QAEXXZ": {
+      "address": 106715984,
+      "size": 203,
+      "scope": "global"
+    },
+    "?GetHost@CGunWrapper@@QAEPAUIGunHost@@XZ": {
+      "address": 106716192,
+      "size": 4,
+      "scope": "global"
+    },
+    "?GetBrowser@CGunWrapper@@QAEPAUIGunBrowser@@XZ": {
+      "address": 106716208,
+      "size": 4,
+      "scope": "global"
+    },
+    "?DispatchQueue@CGunWrapper@@QAEXXZ": {
+      "address": 106716224,
+      "size": 15,
+      "scope": "global"
+    },
+    "??0CGunWrapper@@QAE@ABV0@@Z": {
+      "address": 106716240,
+      "size": 75,
+      "scope": "global"
+    },
+    "??4CGunWrapper@@QAEAAV0@ABV0@@Z": {
+      "address": 106716320,
+      "size": 63,
+      "scope": "global"
+    },
+    "sub_65C5CE0": {
+      "address": 106716384,
+      "size": 84,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 106716480,
+      "size": 31,
+      "scope": "static"
+    },
+    "??0MD5Hash@@QAE@XZ": {
+      "address": 106716512,
+      "size": 48,
+      "scope": "global"
+    },
+    "??1MD5Hash@@UAE@XZ": {
+      "address": 106716560,
+      "size": 7,
+      "scope": "global"
+    },
+    "?Transform@MD5Hash@@IAEXPAE@Z": {
+      "address": 106716576,
+      "size": 2285,
+      "scope": "global"
+    },
+    "?GetStatePtr@MD5Hash@@QAEPAEXZ": {
+      "address": 106718864,
+      "size": 4,
+      "scope": "global"
+    },
+    "??0MD5Hash@@QAE@ABV0@@Z": {
+      "address": 106718880,
+      "size": 85,
+      "scope": "global"
+    },
+    "??4MD5Hash@@QAEAAV0@ABV0@@Z": {
+      "address": 106718976,
+      "size": 110,
+      "scope": "global"
+    },
+    "sub_65C6770": {
+      "address": 106719088,
+      "size": 86,
+      "scope": "static"
+    },
+    "?Encode@MD5Hash@@IAEXPAEPAKK@Z": {
+      "address": 106719184,
+      "size": 72,
+      "scope": "global"
+    },
+    "?Decode@MD5Hash@@IAEXPAKPAEK@Z": {
+      "address": 106719264,
+      "size": 80,
+      "scope": "global"
+    },
+    "?AddData@MD5Hash@@QAE_NQAXK@Z": {
+      "address": 106719344,
+      "size": 185,
+      "scope": "global"
+    },
+    "?CalcValue@MD5Hash@@QAE_NXZ": {
+      "address": 106719536,
+      "size": 114,
+      "scope": "global"
+    },
+    "?AsString@MD5Hash@@QAEPBDXZ": {
+      "address": 106719664,
+      "size": 39,
+      "scope": "global"
+    },
+    "?FromString@MD5Hash@@QAEXPBD@Z": {
+      "address": 106719712,
+      "size": 38,
+      "scope": "global"
+    },
+    "?Compare@MD5Hash@@QAE_NAAV1@@Z": {
+      "address": 106719760,
+      "size": 31,
+      "scope": "global"
+    },
+    "inflateInit_": {
+      "address": 106719792,
+      "size": 6,
+      "scope": "static"
+    },
+    "deflateInit_": {
+      "address": 106719798,
+      "size": 6,
+      "scope": "static"
+    },
+    "inflateEnd": {
+      "address": 106719804,
+      "size": 6,
+      "scope": "static"
+    },
+    "deflateEnd": {
+      "address": 106719810,
+      "size": 6,
+      "scope": "static"
+    },
+    "deflateReset": {
+      "address": 106719816,
+      "size": 6,
+      "scope": "static"
+    },
+    "deflate": {
+      "address": 106719822,
+      "size": 6,
+      "scope": "static"
+    },
+    "inflateReset": {
+      "address": 106719828,
+      "size": 6,
+      "scope": "static"
+    },
+    "inflate": {
+      "address": 106719834,
+      "size": 6,
+      "scope": "static"
+    },
+    "??3@YAXPAX@Z": {
+      "address": 106719840,
+      "size": 6,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 106719846,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CxxFrameHandler": {
+      "address": 106719852,
+      "size": 6,
+      "scope": "static"
+    },
+    "__onexit": {
+      "address": 106719872,
+      "size": 44,
+      "scope": "static"
+    },
+    "_atexit": {
+      "address": 106719916,
+      "size": 18,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 106719936,
+      "size": 47,
+      "scope": "static"
+    },
+    "??_M@YGXPAXIHP6EX0@Z@Z": {
+      "address": 106719983,
+      "size": 128,
+      "scope": "static"
+    },
+    "?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z": {
+      "address": 106720111,
+      "size": 94,
+      "scope": "static"
+    },
+    "unknown_libname_4": {
+      "address": 106720205,
+      "size": 22,
+      "scope": "static"
+    },
+    "_ftol": {
+      "address": 106720228,
+      "size": 6,
+      "scope": "static"
+    },
+    "_purecall": {
+      "address": 106720234,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 106720240,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 106720411,
+      "size": 157,
+      "scope": "global"
+    },
+    "__dllonexit": {
+      "address": 106720568,
+      "size": 6,
+      "scope": "static"
+    },
+    "_except_handler3": {
+      "address": 106720574,
+      "size": 6,
+      "scope": "static"
+    },
+    "?terminate@@YAXXZ": {
+      "address": 106720580,
+      "size": 6,
+      "scope": "static"
+    },
+    "_initterm": {
+      "address": 106720586,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_65C6D50": {
+      "address": 106720592,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6D5B": {
+      "address": 106720603,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6D66": {
+      "address": 106720614,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6D71": {
+      "address": 106720625,
+      "size": 11,
+      "scope": "static"
+    },
+    "?HandleClientMsg@CDPClient@@KGJPAXK0@Z_SEH": {
+      "address": 106720636,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6D90": {
+      "address": 106720656,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6D9B": {
+      "address": 106720667,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6DA6": {
+      "address": 106720678,
+      "size": 14,
+      "scope": "static"
+    },
+    "??0CDPClient@@QAE@XZ_SEH": {
+      "address": 106720692,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6DC0": {
+      "address": 106720704,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6DCB": {
+      "address": 106720715,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6DD6": {
+      "address": 106720726,
+      "size": 14,
+      "scope": "static"
+    },
+    "??1CDPClient@@UAE@XZ_SEH": {
+      "address": 106720740,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6DF0": {
+      "address": 106720752,
+      "size": 9,
+      "scope": "static"
+    },
+    "sub_65C6DF9": {
+      "address": 106720761,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65C6E01": {
+      "address": 106720769,
+      "size": 9,
+      "scope": "static"
+    },
+    "?AddConnectAttempt@CDPClient@@QAE_NPBGPAG@Z_SEH": {
+      "address": 106720778,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6E20": {
+      "address": 106720800,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6E2B": {
+      "address": 106720811,
+      "size": 11,
+      "scope": "static"
+    },
+    "??0CDPClient@@QAE@ABV0@@Z_SEH": {
+      "address": 106720822,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6E40": {
+      "address": 106720832,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_65C6E51": {
+      "address": 106720849,
+      "size": 9,
+      "scope": "static"
+    },
+    "SEH_65C3510": {
+      "address": 106720858,
+      "size": 10,
+      "scope": "static"
+    },
+    "unknown_libname_5": {
+      "address": 106720880,
+      "size": 11,
+      "scope": "static"
+    },
+    "?Send@CDPClientProxy@@QAE_NPAXK@Z_SEH": {
+      "address": 106720891,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6E90": {
+      "address": 106720912,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6E9B": {
+      "address": 106720923,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6EA6": {
+      "address": 106720934,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65C6EB1": {
+      "address": 106720945,
+      "size": 11,
+      "scope": "static"
+    },
+    "?HandleDPServerMsg@CDPServer@@KGJPAXK0@Z_SEH": {
+      "address": 106720956,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6ED0": {
+      "address": 106720976,
+      "size": 8,
+      "scope": "static"
+    },
+    "?DispatchMsgs@CDPServer@@QAEXXZ_SEH": {
+      "address": 106720984,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6EF0": {
+      "address": 106721008,
+      "size": 14,
+      "scope": "static"
+    },
+    "??0CDPServer@@QAE@XZ_SEH": {
+      "address": 106721022,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65C6F10": {
+      "address": 106721040,
+      "size": 14,
+      "scope": "static"
+    },
+    "??1CDPServer@@UAE@XZ_SEH": {
+      "address": 106721054,
+      "size": 10,
+      "scope": "static"
+    },
+    "unknown_libname_6": {
+      "address": 106721072,
+      "size": 11,
+      "scope": "static"
+    },
+    "?CreateClientProxy@CDPServer@@UAEPAVCDPClientProxy@@XZ_SEH": {
+      "address": 106721083,
+      "size": 10,
+      "scope": "static"
+    }
+  }
+}

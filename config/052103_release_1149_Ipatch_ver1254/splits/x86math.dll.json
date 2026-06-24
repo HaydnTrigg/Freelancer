@@ -1,0 +1,339 @@
+{
+  "x86math.dll.obj": {
+    "sub_6F71000": {
+      "address": 116854784,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6F71010": {
+      "address": 116854800,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_6F71060": {
+      "address": 116854880,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6F71070": {
+      "address": 116854896,
+      "size": 21,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 116854928,
+      "size": 189,
+      "scope": "static"
+    },
+    "x86MathEngine::QueryInterface": {
+      "address": 116855120,
+      "size": 16,
+      "scope": "static"
+    },
+    "x86MathEngine::AddRef_Release": {
+      "address": 116855136,
+      "size": 8,
+      "scope": "static"
+    },
+    "x86MathEngine::IComponentFactory::CreateInstance": {
+      "address": 116855152,
+      "size": 121,
+      "scope": "static"
+    },
+    "sub_6F711F0": {
+      "address": 116855280,
+      "size": 398,
+      "scope": "static"
+    },
+    "sub_6F71380": {
+      "address": 116855680,
+      "size": 550,
+      "scope": "static"
+    },
+    "sub_6F715B0": {
+      "address": 116856240,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_6F71620": {
+      "address": 116856352,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_6F71670": {
+      "address": 116856432,
+      "size": 116,
+      "scope": "static"
+    },
+    "sub_6F716F0": {
+      "address": 116856560,
+      "size": 318,
+      "scope": "static"
+    },
+    "sub_6F71830": {
+      "address": 116856880,
+      "size": 87,
+      "scope": "static"
+    },
+    "sub_6F71890": {
+      "address": 116856976,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6F718F0": {
+      "address": 116857072,
+      "size": 87,
+      "scope": "static"
+    },
+    "sub_6F71950": {
+      "address": 116857168,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6F719B0": {
+      "address": 116857264,
+      "size": 311,
+      "scope": "static"
+    },
+    "sub_6F71AF0": {
+      "address": 116857584,
+      "size": 610,
+      "scope": "static"
+    },
+    "sub_6F71D60": {
+      "address": 116858208,
+      "size": 9,
+      "scope": "static"
+    },
+    "sub_6F71D70": {
+      "address": 116858224,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6F71D80": {
+      "address": 116858240,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6F71D90": {
+      "address": 116858256,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6F71DA0": {
+      "address": 116858272,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6F71DB0": {
+      "address": 116858288,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6F71DC0": {
+      "address": 116858304,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6F71DD0": {
+      "address": 116858320,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6F71DE0": {
+      "address": 116858336,
+      "size": 21,
+      "scope": "static"
+    },
+    "sub_6F71E00": {
+      "address": 116858368,
+      "size": 9,
+      "scope": "static"
+    },
+    "sub_6F71E10": {
+      "address": 116858384,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6F71E20": {
+      "address": 116858400,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6F71E30": {
+      "address": 116858416,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6F71E40": {
+      "address": 116858432,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6F71E50": {
+      "address": 116858448,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6F71E70": {
+      "address": 116858480,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6F71E80": {
+      "address": 116858496,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_6F71EA0": {
+      "address": 116858528,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6F71EC0": {
+      "address": 116858560,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_6F71ED0": {
+      "address": 116858576,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6F71EE0": {
+      "address": 116858592,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6F71F00": {
+      "address": 116858624,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6F71F10": {
+      "address": 116858640,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_6F71F30": {
+      "address": 116858672,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6F71F50": {
+      "address": 116858704,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6F71F70": {
+      "address": 116858736,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6F71F90": {
+      "address": 116858768,
+      "size": 27,
+      "scope": "static"
+    },
+    "sub_6F71FB0": {
+      "address": 116858800,
+      "size": 413,
+      "scope": "static"
+    },
+    "sub_6F72150": {
+      "address": 116859216,
+      "size": 105,
+      "scope": "static"
+    },
+    "sub_6F721C0": {
+      "address": 116859328,
+      "size": 206,
+      "scope": "static"
+    },
+    "sub_6F72290": {
+      "address": 116859536,
+      "size": 292,
+      "scope": "static"
+    },
+    "sub_6F723C0": {
+      "address": 116859840,
+      "size": 263,
+      "scope": "static"
+    },
+    "sub_6F724D0": {
+      "address": 116860112,
+      "size": 254,
+      "scope": "static"
+    },
+    "sub_6F725D0": {
+      "address": 116860368,
+      "size": 332,
+      "scope": "static"
+    },
+    "sub_6F72720": {
+      "address": 116860704,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6F72740": {
+      "address": 116860736,
+      "size": 240,
+      "scope": "static"
+    },
+    "sub_6F72830": {
+      "address": 116860976,
+      "size": 125,
+      "scope": "static"
+    },
+    "sub_6F728B0": {
+      "address": 116861104,
+      "size": 129,
+      "scope": "static"
+    },
+    "x86MathEngine::IComponentFactory::QueryInterface": {
+      "address": 116861248,
+      "size": 10,
+      "scope": "static"
+    },
+    "x86MathEngine::IComponentFactory::AddRef_Release": {
+      "address": 116861264,
+      "size": 10,
+      "scope": "static"
+    },
+    "__onexit": {
+      "address": 116861280,
+      "size": 44,
+      "scope": "static"
+    },
+    "_atexit": {
+      "address": 116861324,
+      "size": 18,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 116861342,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 116861348,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 116861519,
+      "size": 157,
+      "scope": "global"
+    },
+    "__dllonexit": {
+      "address": 116861676,
+      "size": 6,
+      "scope": "static"
+    },
+    "_initterm": {
+      "address": 116861682,
+      "size": 6,
+      "scope": "static"
+    }
+  }
+}

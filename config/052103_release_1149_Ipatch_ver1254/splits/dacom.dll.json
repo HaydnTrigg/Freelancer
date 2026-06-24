@@ -1,0 +1,804 @@
+{
+  "dacom.dll.obj": {
+    "sub_65B1000": {
+      "address": 106631168,
+      "size": 125,
+      "scope": "static"
+    },
+    "sub_65B1080": {
+      "address": 106631296,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_65B10B0": {
+      "address": 106631344,
+      "size": 95,
+      "scope": "static"
+    },
+    "sub_65B1110": {
+      "address": 106631440,
+      "size": 172,
+      "scope": "static"
+    },
+    "sub_65B11C0": {
+      "address": 106631616,
+      "size": 103,
+      "scope": "static"
+    },
+    "sub_65B1230": {
+      "address": 106631728,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_65B12A0": {
+      "address": 106631840,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_65B1300": {
+      "address": 106631936,
+      "size": 114,
+      "scope": "static"
+    },
+    "sub_65B1380": {
+      "address": 106632064,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_65B13E0": {
+      "address": 106632160,
+      "size": 49,
+      "scope": "static"
+    },
+    "sub_65B1480": {
+      "address": 106632320,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_65B14B0": {
+      "address": 106632368,
+      "size": 51,
+      "scope": "static"
+    },
+    "sub_65B14F0": {
+      "address": 106632432,
+      "size": 81,
+      "scope": "static"
+    },
+    "sub_65B1550": {
+      "address": 106632528,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_65B1560": {
+      "address": 106632544,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_65B1570": {
+      "address": 106632560,
+      "size": 67,
+      "scope": "static"
+    },
+    "sub_65B15C0": {
+      "address": 106632640,
+      "size": 142,
+      "scope": "static"
+    },
+    "sub_65B1650": {
+      "address": 106632784,
+      "size": 157,
+      "scope": "static"
+    },
+    "sub_65B16F0": {
+      "address": 106632944,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_65B1760": {
+      "address": 106633056,
+      "size": 110,
+      "scope": "static"
+    },
+    "sub_65B17D0": {
+      "address": 106633168,
+      "size": 746,
+      "scope": "static"
+    },
+    "sub_65B1B40": {
+      "address": 106634048,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_65B1B60": {
+      "address": 106634080,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_65B1B80": {
+      "address": 106634112,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65B1C30": {
+      "address": 106634288,
+      "size": 81,
+      "scope": "static"
+    },
+    "sub_65B1C90": {
+      "address": 106634384,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_65B1CA0": {
+      "address": 106634400,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_65B1CC0": {
+      "address": 106634432,
+      "size": 549,
+      "scope": "static"
+    },
+    "sub_65B1F70": {
+      "address": 106635120,
+      "size": 16,
+      "scope": "static"
+    },
+    "DACOManager::DACOManager": {
+      "address": 106635136,
+      "size": 262,
+      "scope": "static"
+    },
+    "DACOManager::QueryInterface": {
+      "address": 106635408,
+      "size": 90,
+      "scope": "static"
+    },
+    "DACOManager::AddRefOrRelease": {
+      "address": 106635504,
+      "size": 8,
+      "scope": "static"
+    },
+    "DACOManager::CreateInstance": {
+      "address": 106635520,
+      "size": 216,
+      "scope": "static"
+    },
+    "DACOManager::RegisterComponent": {
+      "address": 106635744,
+      "size": 436,
+      "scope": "static"
+    },
+    "DACOManager::UnregisterComponent": {
+      "address": 106636192,
+      "size": 238,
+      "scope": "static"
+    },
+    "sub_65B2490": {
+      "address": 106636432,
+      "size": 65,
+      "scope": "static"
+    },
+    "DACOManager::EnumerateComponents": {
+      "address": 106636512,
+      "size": 200,
+      "scope": "static"
+    },
+    "DACOManager::AddLibrary": {
+      "address": 106636720,
+      "size": 559,
+      "scope": "static"
+    },
+    "TempStr::set": {
+      "address": 106637280,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_65B2810": {
+      "address": 106637328,
+      "size": 94,
+      "scope": "static"
+    },
+    "DACOManager::RemoveLibrary": {
+      "address": 106637424,
+      "size": 202,
+      "scope": "static"
+    },
+    "DACOManager::ShutDown": {
+      "address": 106637632,
+      "size": 236,
+      "scope": "static"
+    },
+    "DACOManager::SetINIConfig": {
+      "address": 106637872,
+      "size": 236,
+      "scope": "static"
+    },
+    "DACOManager::initialize": {
+      "address": 106638112,
+      "size": 903,
+      "scope": "static"
+    },
+    "sub_65B2EB0": {
+      "address": 106639024,
+      "size": 320,
+      "scope": "static"
+    },
+    "sub_65B2FF0": {
+      "address": 106639344,
+      "size": 239,
+      "scope": "static"
+    },
+    "sub_65B30E0": {
+      "address": 106639584,
+      "size": 189,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 106639776,
+      "size": 41,
+      "scope": "static"
+    },
+    "DACOM_Acquire": {
+      "address": 106639824,
+      "size": 51,
+      "scope": "global"
+    },
+    "sub_65B3210": {
+      "address": 106639888,
+      "size": 257,
+      "scope": "static"
+    },
+    "DACOM_GetDllVersion": {
+      "address": 106640160,
+      "size": 310,
+      "scope": "global"
+    },
+    "DACOM_GetVersion": {
+      "address": 106640480,
+      "size": 178,
+      "scope": "global"
+    },
+    "sub_65B3520": {
+      "address": 106640672,
+      "size": 70,
+      "scope": "static"
+    },
+    "sub_65B3570": {
+      "address": 106640752,
+      "size": 189,
+      "scope": "static"
+    },
+    "sub_65B3630": {
+      "address": 106640944,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_65B3640": {
+      "address": 106640960,
+      "size": 1119,
+      "scope": "static"
+    },
+    "sub_65B3AA0": {
+      "address": 106642080,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_65B3AB0": {
+      "address": 106642096,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_65B3B20": {
+      "address": 106642208,
+      "size": 179,
+      "scope": "static"
+    },
+    "sub_65B3BE0": {
+      "address": 106642400,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_65B3C30": {
+      "address": 106642480,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_65B3C80": {
+      "address": 106642560,
+      "size": 88,
+      "scope": "static"
+    },
+    "sub_65B3CE0": {
+      "address": 106642656,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_65B3D10": {
+      "address": 106642704,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_65B3D20": {
+      "address": 106642720,
+      "size": 147,
+      "scope": "static"
+    },
+    "sub_65B3DC0": {
+      "address": 106642880,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_65B3E30": {
+      "address": 106642992,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_65B3E40": {
+      "address": 106643008,
+      "size": 70,
+      "scope": "static"
+    },
+    "sub_65B3E90": {
+      "address": 106643088,
+      "size": 585,
+      "scope": "static"
+    },
+    "sub_65B40E0": {
+      "address": 106643680,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_65B4100": {
+      "address": 106643712,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_65B4160": {
+      "address": 106643808,
+      "size": 173,
+      "scope": "static"
+    },
+    "sub_65B4210": {
+      "address": 106643984,
+      "size": 67,
+      "scope": "static"
+    },
+    "sub_65B4260": {
+      "address": 106644064,
+      "size": 182,
+      "scope": "static"
+    },
+    "sub_65B4320": {
+      "address": 106644256,
+      "size": 86,
+      "scope": "static"
+    },
+    "?GetCRC32@DACOM_CRC@@YAKPBD@Z": {
+      "address": 106644352,
+      "size": 5,
+      "scope": "global"
+    },
+    "?GetCRC32@DACOM_CRC@@YAKPBD0@Z": {
+      "address": 106644368,
+      "size": 5,
+      "scope": "global"
+    },
+    "?GetContinuedCRC32@DACOM_CRC@@YAKKPBD@Z": {
+      "address": 106644384,
+      "size": 5,
+      "scope": "global"
+    },
+    "?GetContinuedCRC32@DACOM_CRC@@YAKKD@Z": {
+      "address": 106644400,
+      "size": 13,
+      "scope": "global"
+    },
+    "?CompareStringsI@DACOM_CRC@@YAHPBD0@Z": {
+      "address": 106644416,
+      "size": 6,
+      "scope": "global"
+    },
+    "?Startup@LogStream@@YA_NPBD@Z": {
+      "address": 106644432,
+      "size": 3,
+      "scope": "global"
+    },
+    "?Update@LogStream@@YAXM@Z": {
+      "address": 106644448,
+      "size": 1,
+      "scope": "global"
+    },
+    "sub_65B43F0": {
+      "address": 106644464,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_65B4400": {
+      "address": 106644480,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_65B4420": {
+      "address": 106644512,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_65B4430": {
+      "address": 106644528,
+      "size": 40,
+      "scope": "static"
+    },
+    "sub_65B4460": {
+      "address": 106644576,
+      "size": 72,
+      "scope": "static"
+    },
+    "sub_65B44B0": {
+      "address": 106644656,
+      "size": 32,
+      "scope": "static"
+    },
+    "sub_65B44D0": {
+      "address": 106644688,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65B44E0": {
+      "address": 106644704,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_65B4540": {
+      "address": 106644800,
+      "size": 94,
+      "scope": "static"
+    },
+    "sub_65B45A0": {
+      "address": 106644896,
+      "size": 32,
+      "scope": "static"
+    },
+    "sub_65B45C0": {
+      "address": 106644928,
+      "size": 94,
+      "scope": "static"
+    },
+    "sub_65B4620": {
+      "address": 106645024,
+      "size": 115,
+      "scope": "static"
+    },
+    "CreateProfileParserFactory2": {
+      "address": 106645152,
+      "size": 38,
+      "scope": "static"
+    },
+    "CreateProfileParserFactory": {
+      "address": 106645200,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_65B4700": {
+      "address": 106645248,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_65B4740": {
+      "address": 106645312,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65B4750": {
+      "address": 106645328,
+      "size": 270,
+      "scope": "static"
+    },
+    "sub_65B4860": {
+      "address": 106645600,
+      "size": 177,
+      "scope": "static"
+    },
+    "sub_65B4920": {
+      "address": 106645792,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_65B4960": {
+      "address": 106645856,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_65B4970": {
+      "address": 106645872,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65B4980": {
+      "address": 106645888,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65B4990": {
+      "address": 106645904,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B49A0": {
+      "address": 106645920,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B49B0": {
+      "address": 106645936,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B49C0": {
+      "address": 106645952,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B49D0": {
+      "address": 106645968,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B49E0": {
+      "address": 106645984,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B49F0": {
+      "address": 106646000,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B4A00": {
+      "address": 106646016,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65B4A10": {
+      "address": 106646032,
+      "size": 335,
+      "scope": "static"
+    },
+    "sub_65B4B60": {
+      "address": 106646368,
+      "size": 285,
+      "scope": "static"
+    },
+    "sub_65B4C80": {
+      "address": 106646656,
+      "size": 149,
+      "scope": "static"
+    },
+    "sub_65B4D20": {
+      "address": 106646816,
+      "size": 365,
+      "scope": "static"
+    },
+    "sub_65B4E90": {
+      "address": 106647184,
+      "size": 784,
+      "scope": "static"
+    },
+    "sub_65B5340": {
+      "address": 106648384,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_65B5380": {
+      "address": 106648448,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_65B53B0": {
+      "address": 106648496,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_65B5400": {
+      "address": 106648576,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_65B5460": {
+      "address": 106648672,
+      "size": 33,
+      "scope": "static"
+    },
+    "sub_65B5490": {
+      "address": 106648720,
+      "size": 234,
+      "scope": "static"
+    },
+    "sub_65B5580": {
+      "address": 106648960,
+      "size": 103,
+      "scope": "static"
+    },
+    "sub_65B55F0": {
+      "address": 106649072,
+      "size": 694,
+      "scope": "static"
+    },
+    "sub_65B5910": {
+      "address": 106649872,
+      "size": 209,
+      "scope": "static"
+    },
+    "sub_65B5A00": {
+      "address": 106650112,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_65B5A30": {
+      "address": 106650160,
+      "size": 20,
+      "scope": "static"
+    },
+    "sub_65B5A50": {
+      "address": 106650192,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_65B5A80": {
+      "address": 106650240,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_65B5AA0": {
+      "address": 106650272,
+      "size": 28,
+      "scope": "static"
+    },
+    "sub_65B5AC0": {
+      "address": 106650304,
+      "size": 58,
+      "scope": "static"
+    },
+    "sub_65B5B00": {
+      "address": 106650368,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_65B5B30": {
+      "address": 106650416,
+      "size": 166,
+      "scope": "static"
+    },
+    "sub_65B5BE0": {
+      "address": 106650592,
+      "size": 40,
+      "scope": "static"
+    },
+    "sub_65B5C10": {
+      "address": 106650640,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65B5C40": {
+      "address": 106650688,
+      "size": 67,
+      "scope": "static"
+    },
+    "sub_65B5C90": {
+      "address": 106650768,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_65B5CC0": {
+      "address": 106650816,
+      "size": 159,
+      "scope": "static"
+    },
+    "sub_65B5D60": {
+      "address": 106650976,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65B5E10": {
+      "address": 106651152,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65B5E20": {
+      "address": 106651168,
+      "size": 52,
+      "scope": "static"
+    },
+    "stricmp": {
+      "address": 106651232,
+      "size": 75,
+      "scope": "global"
+    },
+    "VerQueryValueA": {
+      "address": 106651312,
+      "size": 6,
+      "scope": "static"
+    },
+    "GetFileVersionInfoA": {
+      "address": 106651318,
+      "size": 6,
+      "scope": "static"
+    },
+    "GetFileVersionInfoSizeA": {
+      "address": 106651324,
+      "size": 6,
+      "scope": "static"
+    },
+    "_free": {
+      "address": 106651330,
+      "size": 11,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 106651342,
+      "size": 6,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 106651360,
+      "size": 47,
+      "scope": "static"
+    },
+    "__onexit": {
+      "address": 106651407,
+      "size": 44,
+      "scope": "static"
+    },
+    "_atexit": {
+      "address": 106651451,
+      "size": 18,
+      "scope": "static"
+    },
+    "_purecall": {
+      "address": 106651470,
+      "size": 6,
+      "scope": "static"
+    },
+    "free": {
+      "address": 106651476,
+      "size": 6,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 106651482,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 106651653,
+      "size": 157,
+      "scope": "global"
+    },
+    "__dllonexit": {
+      "address": 106651810,
+      "size": 6,
+      "scope": "static"
+    },
+    "_initterm": {
+      "address": 106651816,
+      "size": 6,
+      "scope": "static"
+    },
+    "?GetCRC32@DACOM_CRC@@YAKPBD0@Z_0": {
+      "address": 106651824,
+      "size": 56,
+      "scope": "static"
+    },
+    "?GetCRC32@DACOM_CRC@@YAKPBD@Z_0": {
+      "address": 106651888,
+      "size": 66,
+      "scope": "static"
+    },
+    "?GetContinuedCRC32@DACOM_CRC@@YAKKPBD@Z_0": {
+      "address": 106651968,
+      "size": 66,
+      "scope": "static"
+    }
+  }
+}

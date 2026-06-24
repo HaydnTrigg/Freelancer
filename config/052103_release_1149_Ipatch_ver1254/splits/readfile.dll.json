@@ -1,0 +1,1019 @@
+{
+  "readfile.dll.obj": {
+    "sub_6B71000": {
+      "address": 112660480,
+      "size": 391,
+      "scope": "static"
+    },
+    "sub_6B71190": {
+      "address": 112660880,
+      "size": 605,
+      "scope": "static"
+    },
+    "sub_6B713F0": {
+      "address": 112661488,
+      "size": 46,
+      "scope": "static"
+    },
+    "sub_6B71420": {
+      "address": 112661536,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6B71440": {
+      "address": 112661568,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_6B71490": {
+      "address": 112661648,
+      "size": 40,
+      "scope": "static"
+    },
+    "sub_6B714C0": {
+      "address": 112661696,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6B714D0": {
+      "address": 112661712,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6B714E0": {
+      "address": 112661728,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6B714F0": {
+      "address": 112661744,
+      "size": 221,
+      "scope": "static"
+    },
+    "sub_6B715D0": {
+      "address": 112661968,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_6B71640": {
+      "address": 112662080,
+      "size": 230,
+      "scope": "static"
+    },
+    "sub_6B71730": {
+      "address": 112662320,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_6B71790": {
+      "address": 112662416,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B717A0": {
+      "address": 112662432,
+      "size": 51,
+      "scope": "static"
+    },
+    "sub_6B717E0": {
+      "address": 112662496,
+      "size": 404,
+      "scope": "static"
+    },
+    "sub_6B71980": {
+      "address": 112662912,
+      "size": 39,
+      "scope": "static"
+    },
+    "sub_6B719B0": {
+      "address": 112662960,
+      "size": 27,
+      "scope": "static"
+    },
+    "sub_6B719D0": {
+      "address": 112662992,
+      "size": 659,
+      "scope": "static"
+    },
+    "sub_6B71C70": {
+      "address": 112663664,
+      "size": 348,
+      "scope": "static"
+    },
+    "sub_6B71DD0": {
+      "address": 112664016,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_6B71E30": {
+      "address": 112664112,
+      "size": 108,
+      "scope": "static"
+    },
+    "sub_6B71EA0": {
+      "address": 112664224,
+      "size": 157,
+      "scope": "static"
+    },
+    "sub_6B71F40": {
+      "address": 112664384,
+      "size": 4,
+      "scope": "static"
+    },
+    "sub_6B71F50": {
+      "address": 112664400,
+      "size": 290,
+      "scope": "static"
+    },
+    "sub_6B72080": {
+      "address": 112664704,
+      "size": 106,
+      "scope": "static"
+    },
+    "sub_6B720F0": {
+      "address": 112664816,
+      "size": 243,
+      "scope": "static"
+    },
+    "sub_6B721F0": {
+      "address": 112665072,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_6B72260": {
+      "address": 112665184,
+      "size": 400,
+      "scope": "static"
+    },
+    "sub_6B723F0": {
+      "address": 112665584,
+      "size": 768,
+      "scope": "static"
+    },
+    "sub_6B726F0": {
+      "address": 112666352,
+      "size": 402,
+      "scope": "static"
+    },
+    "sub_6B72890": {
+      "address": 112666768,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_6B728F0": {
+      "address": 112666864,
+      "size": 157,
+      "scope": "static"
+    },
+    "CreateInstance_sub_6B72990": {
+      "address": 112667024,
+      "size": 1068,
+      "scope": "static"
+    },
+    "sub_6B72DC0": {
+      "address": 112668096,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B72DD0": {
+      "address": 112668112,
+      "size": 53,
+      "scope": "static"
+    },
+    "sub_6B72E10": {
+      "address": 112668176,
+      "size": 116,
+      "scope": "static"
+    },
+    "sub_6B72E90": {
+      "address": 112668304,
+      "size": 96,
+      "scope": "static"
+    },
+    "sub_6B72EF0": {
+      "address": 112668400,
+      "size": 150,
+      "scope": "static"
+    },
+    "BaseUTF::ReadFile": {
+      "address": 112668560,
+      "size": 403,
+      "scope": "static"
+    },
+    "sub_6B73130": {
+      "address": 112668976,
+      "size": 325,
+      "scope": "static"
+    },
+    "sub_6B73280": {
+      "address": 112669312,
+      "size": 207,
+      "scope": "static"
+    },
+    "sub_6B73350": {
+      "address": 112669520,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_6B733B0": {
+      "address": 112669616,
+      "size": 85,
+      "scope": "static"
+    },
+    "sub_6B73410": {
+      "address": 112669712,
+      "size": 81,
+      "scope": "static"
+    },
+    "sub_6B73470": {
+      "address": 112669808,
+      "size": 131,
+      "scope": "static"
+    },
+    "sub_6B73500": {
+      "address": 112669952,
+      "size": 326,
+      "scope": "static"
+    },
+    "BaseUTF::CloseHandle": {
+      "address": 112670288,
+      "size": 330,
+      "scope": "static"
+    },
+    "sub_6B737A0": {
+      "address": 112670624,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6B737D0": {
+      "address": 112670672,
+      "size": 203,
+      "scope": "static"
+    },
+    "sub_6B738A0": {
+      "address": 112670880,
+      "size": 309,
+      "scope": "static"
+    },
+    "sub_6B739E0": {
+      "address": 112671200,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_6B73A10": {
+      "address": 112671248,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6B73A30": {
+      "address": 112671280,
+      "size": 141,
+      "scope": "static"
+    },
+    "sub_6B73AC0": {
+      "address": 112671424,
+      "size": 172,
+      "scope": "static"
+    },
+    "sub_6B73B70": {
+      "address": 112671600,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6B73B80": {
+      "address": 112671616,
+      "size": 237,
+      "scope": "static"
+    },
+    "sub_6B73C70": {
+      "address": 112671856,
+      "size": 76,
+      "scope": "static"
+    },
+    "sub_6B73CC0": {
+      "address": 112671936,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6B73CF0": {
+      "address": 112671984,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6B73D10": {
+      "address": 112672016,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B73D20": {
+      "address": 112672032,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B73D30": {
+      "address": 112672048,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B73D40": {
+      "address": 112672064,
+      "size": 16,
+      "scope": "static"
+    },
+    "BaseUTF::WriteFile": {
+      "address": 112672080,
+      "size": 16,
+      "scope": "static"
+    },
+    "CreateBaseUTF": {
+      "address": 112672096,
+      "size": 152,
+      "scope": "static"
+    },
+    "nullsub_1": {
+      "address": 112672256,
+      "size": 1,
+      "scope": "static"
+    },
+    "sub_6B73E10": {
+      "address": 112672272,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6B73E30": {
+      "address": 112672304,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6B73E40": {
+      "address": 112672320,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6B73E50": {
+      "address": 112672336,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_6B73E60": {
+      "address": 112672352,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6B73E70": {
+      "address": 112672368,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6B73E80": {
+      "address": 112672384,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_6B73E90": {
+      "address": 112672400,
+      "size": 9,
+      "scope": "static"
+    },
+    "sub_6B73EA0": {
+      "address": 112672416,
+      "size": 47,
+      "scope": "static"
+    },
+    "sub_6B73ED0": {
+      "address": 112672464,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_6B73F00": {
+      "address": 112672512,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6B73F20": {
+      "address": 112672544,
+      "size": 42,
+      "scope": "static"
+    },
+    "unknown_libname_1": {
+      "address": 112672592,
+      "size": 9,
+      "scope": "static"
+    },
+    "sub_6B73F60": {
+      "address": 112672608,
+      "size": 91,
+      "scope": "static"
+    },
+    "sub_6B73FC0": {
+      "address": 112672704,
+      "size": 52,
+      "scope": "static"
+    },
+    "sub_6B74000": {
+      "address": 112672768,
+      "size": 91,
+      "scope": "static"
+    },
+    "QueryInterface_sub_6B74060": {
+      "address": 112672864,
+      "size": 176,
+      "scope": "static"
+    },
+    "AddRef_sub_6B74110": {
+      "address": 112673040,
+      "size": 22,
+      "scope": "static"
+    },
+    "Release_sub_6B74130": {
+      "address": 112673072,
+      "size": 56,
+      "scope": "static"
+    },
+    "sub_6B74170": {
+      "address": 112673136,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_6B74190": {
+      "address": 112673168,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6B741B0": {
+      "address": 112673200,
+      "size": 410,
+      "scope": "static"
+    },
+    "sub_6B74350": {
+      "address": 112673616,
+      "size": 283,
+      "scope": "static"
+    },
+    "FileSystemFactory::CreateInstance": {
+      "address": 112673904,
+      "size": 1425,
+      "scope": "static"
+    },
+    "sub_6B74A10": {
+      "address": 112675344,
+      "size": 260,
+      "scope": "static"
+    },
+    "DOSFileSystem::DOSFileSystem": {
+      "address": 112675616,
+      "size": 203,
+      "scope": "static"
+    },
+    "DOSFileSystem::CloseHandle": {
+      "address": 112675824,
+      "size": 364,
+      "scope": "static"
+    },
+    "DOSFileSystem::ReadFile": {
+      "address": 112676192,
+      "size": 326,
+      "scope": "static"
+    },
+    "sub_6B74EB0": {
+      "address": 112676528,
+      "size": 312,
+      "scope": "static"
+    },
+    "sub_6B74FF0": {
+      "address": 112676848,
+      "size": 125,
+      "scope": "static"
+    },
+    "sub_6B75070": {
+      "address": 112676976,
+      "size": 144,
+      "scope": "static"
+    },
+    "DOSFileSystem::CreateFileMapping": {
+      "address": 112677120,
+      "size": 294,
+      "scope": "static"
+    },
+    "DOSFileSystem::MapViewOfFile": {
+      "address": 112677424,
+      "size": 287,
+      "scope": "static"
+    },
+    "DOSFileSystem::UnmapViewOfFile": {
+      "address": 112677712,
+      "size": 8,
+      "scope": "static"
+    },
+    "DOSFileSystem::FindFirstFile": {
+      "address": 112677728,
+      "size": 190,
+      "scope": "static"
+    },
+    "sub_6B75420": {
+      "address": 112677920,
+      "size": 320,
+      "scope": "static"
+    },
+    "DOSFileSystem::FindNextFile": {
+      "address": 112678240,
+      "size": 76,
+      "scope": "static"
+    },
+    "DOSFileSystem::FindClose": {
+      "address": 112678320,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_6B75600": {
+      "address": 112678400,
+      "size": 175,
+      "scope": "static"
+    },
+    "sub_6B756B0": {
+      "address": 112678576,
+      "size": 493,
+      "scope": "static"
+    },
+    "sub_6B758A0": {
+      "address": 112679072,
+      "size": 442,
+      "scope": "static"
+    },
+    "sub_6B75A60": {
+      "address": 112679520,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6B75A70": {
+      "address": 112679536,
+      "size": 650,
+      "scope": "static"
+    },
+    "sub_6B75D00": {
+      "address": 112680192,
+      "size": 147,
+      "scope": "static"
+    },
+    "sub_6B75DA0": {
+      "address": 112680352,
+      "size": 111,
+      "scope": "static"
+    },
+    "sub_6B75E10": {
+      "address": 112680464,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_6B75E20": {
+      "address": 112680480,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_6B75E50": {
+      "address": 112680528,
+      "size": 19,
+      "scope": "static"
+    },
+    "DOSFileSystem::WriteFile": {
+      "address": 112680560,
+      "size": 19,
+      "scope": "static"
+    },
+    "DOSFileSystem::GetOverlappedResult": {
+      "address": 112680592,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6B75EB0": {
+      "address": 112680624,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6B75ED0": {
+      "address": 112680656,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6B75EF0": {
+      "address": 112680688,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_6B75F10": {
+      "address": 112680720,
+      "size": 71,
+      "scope": "static"
+    },
+    "DOSFileSystem::GetAbsolutePath_sub_6B75F60": {
+      "address": 112680800,
+      "size": 346,
+      "scope": "static"
+    },
+    "sub_6B760C0": {
+      "address": 112681152,
+      "size": 210,
+      "scope": "static"
+    },
+    "sub_6B761A0": {
+      "address": 112681376,
+      "size": 115,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 112681504,
+      "size": 491,
+      "scope": "static"
+    },
+    "sub_6B76410": {
+      "address": 112682000,
+      "size": 57,
+      "scope": "static"
+    },
+    "sub_6B76450": {
+      "address": 112682064,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6B76470": {
+      "address": 112682096,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_6B764E0": {
+      "address": 112682208,
+      "size": 517,
+      "scope": "static"
+    },
+    "sub_6B766F0": {
+      "address": 112682736,
+      "size": 1029,
+      "scope": "static"
+    },
+    "sub_6B76B00": {
+      "address": 112683776,
+      "size": 174,
+      "scope": "static"
+    },
+    "sub_6B76BB0": {
+      "address": 112683952,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6B76BD0": {
+      "address": 112683984,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_6B76BE0": {
+      "address": 112684000,
+      "size": 68,
+      "scope": "static"
+    },
+    "sub_6B76C30": {
+      "address": 112684080,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_6B76C40": {
+      "address": 112684096,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_6B76CB0": {
+      "address": 112684208,
+      "size": 585,
+      "scope": "static"
+    },
+    "sub_6B76F00": {
+      "address": 112684800,
+      "size": 79,
+      "scope": "static"
+    },
+    "sub_6B76F50": {
+      "address": 112684880,
+      "size": 25,
+      "scope": "static"
+    },
+    "sub_6B76F70": {
+      "address": 112684912,
+      "size": 83,
+      "scope": "static"
+    },
+    "sub_6B76FD0": {
+      "address": 112685008,
+      "size": 70,
+      "scope": "static"
+    },
+    "sub_6B77020": {
+      "address": 112685088,
+      "size": 31,
+      "scope": "static"
+    },
+    "sub_6B77040": {
+      "address": 112685120,
+      "size": 84,
+      "scope": "static"
+    },
+    "FileSystemFactory::QueryInterface": {
+      "address": 112685216,
+      "size": 176,
+      "scope": "static"
+    },
+    "FileSystemFactory::AddRef": {
+      "address": 112685392,
+      "size": 22,
+      "scope": "static"
+    },
+    "FileSystemFactory::Release": {
+      "address": 112685424,
+      "size": 65,
+      "scope": "static"
+    },
+    "sub_6B771C0": {
+      "address": 112685504,
+      "size": 20,
+      "scope": "static"
+    },
+    "sub_6B771E0": {
+      "address": 112685536,
+      "size": 24,
+      "scope": "static"
+    },
+    "sub_6B77200": {
+      "address": 112685568,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_6B77250": {
+      "address": 112685648,
+      "size": 62,
+      "scope": "static"
+    },
+    "sub_6B77290": {
+      "address": 112685712,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B772A0": {
+      "address": 112685728,
+      "size": 27,
+      "scope": "static"
+    },
+    "sub_6B772C0": {
+      "address": 112685760,
+      "size": 109,
+      "scope": "static"
+    },
+    "sub_6B77330": {
+      "address": 112685872,
+      "size": 282,
+      "scope": "static"
+    },
+    "sub_6B77450": {
+      "address": 112686160,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B77460": {
+      "address": 112686176,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_6B774B0": {
+      "address": 112686256,
+      "size": 154,
+      "scope": "static"
+    },
+    "sub_6B77550": {
+      "address": 112686416,
+      "size": 35,
+      "scope": "static"
+    },
+    "sub_6B77580": {
+      "address": 112686464,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_6B77590": {
+      "address": 112686480,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B775A0": {
+      "address": 112686496,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B775B0": {
+      "address": 112686512,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B775C0": {
+      "address": 112686528,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B775D0": {
+      "address": 112686544,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B775E0": {
+      "address": 112686560,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_6B775F0": {
+      "address": 112686576,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6B77600": {
+      "address": 112686592,
+      "size": 35,
+      "scope": "static"
+    },
+    "sub_6B77630": {
+      "address": 112686640,
+      "size": 72,
+      "scope": "static"
+    },
+    "sub_6B77680": {
+      "address": 112686720,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6B77690": {
+      "address": 112686736,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B776A0": {
+      "address": 112686752,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6B776B0": {
+      "address": 112686768,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_6B776C0": {
+      "address": 112686784,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_6B776E0": {
+      "address": 112686816,
+      "size": 267,
+      "scope": "static"
+    },
+    "sub_6B777F0": {
+      "address": 112687088,
+      "size": 269,
+      "scope": "static"
+    },
+    "CreateMemFileFactory": {
+      "address": 112687360,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_6B77930": {
+      "address": 112687408,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_6B77970": {
+      "address": 112687472,
+      "size": 221,
+      "scope": "static"
+    },
+    "QueryInterface_sub_6B77A50": {
+      "address": 112687696,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6B77B00": {
+      "address": 112687872,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6B77B20": {
+      "address": 112687904,
+      "size": 65,
+      "scope": "static"
+    },
+    "sub_6B77B70": {
+      "address": 112687984,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6B77B80": {
+      "address": 112688000,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6B77B90": {
+      "address": 112688016,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_6B77BA0": {
+      "address": 112688032,
+      "size": 82,
+      "scope": "static"
+    },
+    "sub_6B77C00": {
+      "address": 112688128,
+      "size": 193,
+      "scope": "static"
+    },
+    "sub_6B77CD0": {
+      "address": 112688336,
+      "size": 244,
+      "scope": "static"
+    },
+    "sub_6B77DD0": {
+      "address": 112688592,
+      "size": 488,
+      "scope": "static"
+    },
+    "sub_6B77FC0": {
+      "address": 112689088,
+      "size": 85,
+      "scope": "static"
+    },
+    "CreateSearchPathFactory": {
+      "address": 112689184,
+      "size": 38,
+      "scope": "static"
+    },
+    "sub_6B78050": {
+      "address": 112689232,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_6B78060": {
+      "address": 112689248,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_6B78090": {
+      "address": 112689296,
+      "size": 161,
+      "scope": "static"
+    },
+    "sub_6B78140": {
+      "address": 112689472,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_6B781F0": {
+      "address": 112689648,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_6B78210": {
+      "address": 112689680,
+      "size": 137,
+      "scope": "static"
+    },
+    "sub_6B782A0": {
+      "address": 112689824,
+      "size": 11,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 112689836,
+      "size": 6,
+      "scope": "static"
+    },
+    "free": {
+      "address": 112689842,
+      "size": 6,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 112689856,
+      "size": 47,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 112689903,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 112690074,
+      "size": 157,
+      "scope": "global"
+    },
+    "_initterm": {
+      "address": 112690232,
+      "size": 6,
+      "scope": "static"
+    }
+  }
+}

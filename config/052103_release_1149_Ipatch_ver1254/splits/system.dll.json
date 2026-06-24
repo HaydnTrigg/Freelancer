@@ -1,0 +1,154 @@
+{
+  "system.dll.obj": {
+    "DAComponentInner_SystemContainer::QueryInterface": {
+      "address": 116461568,
+      "size": 214,
+      "scope": "static"
+    },
+    "SystemContainer::init": {
+      "address": 116461792,
+      "size": 72,
+      "scope": "static"
+    },
+    "SystemContainer::_destructor": {
+      "address": 116461872,
+      "size": 33,
+      "scope": "static"
+    },
+    "SystemContainer::QueryInterface": {
+      "address": 116461920,
+      "size": 15,
+      "scope": "static"
+    },
+    "SystemContainer::AddRef": {
+      "address": 116461936,
+      "size": 16,
+      "scope": "static"
+    },
+    "SystemContainer::Release": {
+      "address": 116461952,
+      "size": 16,
+      "scope": "static"
+    },
+    "SystemContainer::Shutdown": {
+      "address": 116461968,
+      "size": 75,
+      "scope": "static"
+    },
+    "SystemContainer::LoadSystemComponents": {
+      "address": 116462048,
+      "size": 657,
+      "scope": "static"
+    },
+    "TempStr::set": {
+      "address": 116462720,
+      "size": 34,
+      "scope": "static"
+    },
+    "SystemContainer::AddComponent": {
+      "address": 116462768,
+      "size": 292,
+      "scope": "static"
+    },
+    "SystemContainer::Update": {
+      "address": 116463072,
+      "size": 39,
+      "scope": "static"
+    },
+    "SystemContainer::Initialize": {
+      "address": 116463120,
+      "size": 121,
+      "scope": "static"
+    },
+    "SystemContainer::FindConnectionPoint": {
+      "address": 116463248,
+      "size": 127,
+      "scope": "static"
+    },
+    "SystemContainer::EnumerateConnectionPoints": {
+      "address": 116463376,
+      "size": 136,
+      "scope": "static"
+    },
+    "Register_SystemContainer": {
+      "address": 116463520,
+      "size": 66,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 116463600,
+      "size": 57,
+      "scope": "static"
+    },
+    "SystemContainerFactory::QueryInterface": {
+      "address": 116463664,
+      "size": 59,
+      "scope": "static"
+    },
+    "SystemContainerFactory::Release": {
+      "address": 116463728,
+      "size": 43,
+      "scope": "static"
+    },
+    "SystemContainerFactory::CreateInstance": {
+      "address": 116463776,
+      "size": 233,
+      "scope": "static"
+    },
+    "IDAComponent::AddRef": {
+      "address": 116464016,
+      "size": 16,
+      "scope": "static"
+    },
+    "SysConInner::Release": {
+      "address": 116464032,
+      "size": 60,
+      "scope": "static"
+    },
+    "SystemContainer::IDAConnectionPointContainer::QueryInterface": {
+      "address": 116464096,
+      "size": 10,
+      "scope": "static"
+    },
+    "SystemContainer::IDAConnectionPointContainer::AddRef": {
+      "address": 116464112,
+      "size": 10,
+      "scope": "static"
+    },
+    "SystemContainer::IDAConnectionPointContainer::Release": {
+      "address": 116464128,
+      "size": 10,
+      "scope": "static"
+    },
+    "??3@YAXPAX@Z": {
+      "address": 116464138,
+      "size": 6,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 116464144,
+      "size": 6,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 116464160,
+      "size": 47,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 116464207,
+      "size": 171,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 116464378,
+      "size": 157,
+      "scope": "global"
+    },
+    "_initterm": {
+      "address": 116464536,
+      "size": 6,
+      "scope": "static"
+    }
+  }
+}

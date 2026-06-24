@@ -1,0 +1,294 @@
+{
+    "progress_categories": {
+        "Alchemy.dll": "Alchemy.dll",
+        "Common.dll": "Common.dll",
+        "Content.dll": "Content.dll",
+        "DALib.dll": "DALib.dll",
+        "Freelancer.exe": "Freelancer.exe",
+        "RemoteClient.dll": "RemoteClient.dll",
+        "Server.dll": "Server.dll",
+        "dacom.dll": "dacom.dll",
+        "debuglib.dll": "debuglib.dll",
+        "deformable2.dll": "deformable2.dll",
+        "engbase.dll": "engbase.dll",
+        "flmaterials.dll": "flmaterials.dll",
+        "flserver.exe": "flserver.exe",
+        "imeui.dll": "imeui.dll",
+        "luaprofile.dll": "luaprofile.dll",
+        "movie.dll": "movie.dll",
+        "readfile.dll": "readfile.dll",
+        "remoteserver.dll": "remoteserver.dll",
+        "rendcomp.dll": "rendcomp.dll",
+        "rp8.dll": "rp8.dll",
+        "rpclocal.dll": "rpclocal.dll",
+        "shading.dll": "shading.dll",
+        "soundmanager.dll": "soundmanager.dll",
+        "soundstreamer.dll": "soundstreamer.dll",
+        "system.dll": "system.dll",
+        "thorn.dll": "thorn.dll",
+        "x86math.dll": "x86math.dll",
+        "ximage.dll": "ximage.dll",
+        "zlib.dll": "zlib.dll"
+    },
+    "compiler": "build/msvc6.0/BIN/CL.EXE",
+    "compiler_c": "build/msvc6.0/BIN/CL.EXE",
+    "compiler_root": "build/msvc6.0",
+    "sdk_root": "build/msvc6.0",
+    "asflags": [],
+    "ldflags": [],
+    "cflags": {
+        "decomp": {
+            "flags": [
+                "/DDECOMP",
+                //"/Z7",
+                "/nologo",
+                "\"/I$(SOURCE_ROOT)/src\"",
+                "\"/I$(COMPILER_ROOT)/INCLUDE\""
+            ]
+        },
+        "Alchemy.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Common.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Content.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "DALib.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Freelancer.exe": {
+            "base": "decomp",
+            "flags": []
+        },
+        "RemoteClient.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Server.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "dacom.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "debuglib.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "deformable2.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "engbase.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "flmaterials.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "flserver.exe": {
+            "base": "decomp",
+            "flags": []
+        },
+        "imeui.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "luaprofile.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "movie.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "readfile.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "remoteserver.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "rendcomp.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "rp8.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "rpclocal.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "shading.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "soundmanager.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "soundstreamer.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "system.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "thorn.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "x86math.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "ximage.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "zlib.dll": {
+            "base": "decomp",
+            "flags": []
+        }
+    },
+    "cxxflags": {
+        "decomp": {
+            "flags": [
+                "/O2",
+                "/DDECOMP",
+                //"/Z7",
+                "/nologo",
+                "\"/I$(SOURCE_ROOT)/src\"",
+                "\"/I$(COMPILER_ROOT)/INCLUDE\""
+            ]
+        },
+        "Alchemy.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Common.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Content.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "DALib.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Freelancer.exe": {
+            "base": "decomp",
+            "flags": []
+        },
+        "RemoteClient.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "Server.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "dacom.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "debuglib.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "deformable2.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "engbase.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "flmaterials.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "flserver.exe": {
+            "base": "decomp",
+            "flags": []
+        },
+        "imeui.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "luaprofile.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "movie.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "readfile.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "remoteserver.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "rendcomp.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "rp8.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "rpclocal.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "shading.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "soundmanager.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "soundstreamer.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "system.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "thorn.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "x86math.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "ximage.dll": {
+            "base": "decomp",
+            "flags": []
+        },
+        "zlib.dll": {
+            "base": "decomp",
+            "flags": []
+        }
+    }
+}

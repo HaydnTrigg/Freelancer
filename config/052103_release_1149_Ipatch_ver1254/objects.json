@@ -1,0 +1,292 @@
+{
+    "Alchemy.dll": {
+        "progress_category": "Alchemy.dll",
+        "cflags": "Alchemy.dll",
+        "idb": "idb/Alchemy.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/Alchemy.dll.json",
+        "delink": "Alchemy.dll",
+        "objects": {
+            "src/Alchemy.dll.cpp": "Alchemy.dll.obj"
+        }
+    },
+    "Common.dll": {
+        "progress_category": "Common.dll",
+        "cflags": "Common.dll",
+        "idb": "idb/Common.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/Common.dll.json",
+        "delink": "Common.dll",
+        "objects": {
+            "src/Common.dll.cpp": "Common.dll.obj"
+        }
+    },
+    "Content.dll": {
+        "progress_category": "Content.dll",
+        "cflags": "Content.dll",
+        "idb": "idb/Content.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/Content.dll.json",
+        "delink": "Content.dll",
+        "objects": {
+            "src/Content.dll.cpp": "Content.dll.obj"
+        }
+    },
+    "DALib.dll": {
+        "progress_category": "DALib.dll",
+        "cflags": "DALib.dll",
+        "idb": "idb/DALib.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/DALib.dll.json",
+        "delink": "DALib.dll",
+        "objects": {
+            "src/DALib.dll.cpp": "DALib.dll.obj"
+        }
+    },
+    "Freelancer.exe": {
+        "progress_category": "Freelancer.exe",
+        "cflags": "Freelancer.exe",
+        "idb": "idb/Freelancer.exe.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/Freelancer.exe.json",
+        "delink": "Freelancer.exe",
+        "objects": {
+            "src/Freelancer.exe.cpp": "Freelancer.exe.obj"
+        }
+    },
+    "RemoteClient.dll": {
+        "progress_category": "RemoteClient.dll",
+        "cflags": "RemoteClient.dll",
+        "idb": "idb/RemoteClient.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/RemoteClient.dll.json",
+        "delink": "RemoteClient.dll",
+        "objects": {
+            "src/RemoteClient.dll.cpp": "RemoteClient.dll.obj"
+        }
+    },
+    "Server.dll": {
+        "progress_category": "Server.dll",
+        "cflags": "Server.dll",
+        "idb": "idb/Server.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/Server.dll.json",
+        "delink": "Server.dll",
+        "objects": {
+            "src/Server.dll.cpp": "Server.dll.obj"
+        }
+    },
+    "dacom.dll": {
+        "progress_category": "dacom.dll",
+        "cflags": "dacom.dll",
+        "idb": "idb/dacom.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/dacom.dll.json",
+        "delink": "dacom.dll",
+        "objects": {
+            "src/dacom.dll.cpp": "dacom.dll.obj"
+        }
+    },
+    "debuglib.dll": {
+        "progress_category": "debuglib.dll",
+        "cflags": "debuglib.dll",
+        "idb": "idb/debuglib.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/debuglib.dll.json",
+        "delink": "debuglib.dll",
+        "objects": {
+            "src/debuglib.dll.cpp": "debuglib.dll.obj"
+        }
+    },
+    "deformable2.dll": {
+        "progress_category": "deformable2.dll",
+        "cflags": "deformable2.dll",
+        "idb": "idb/deformable2.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/deformable2.dll.json",
+        "delink": "deformable2.dll",
+        "objects": {
+            "src/deformable2.dll.cpp": "deformable2.dll.obj"
+        }
+    },
+    "engbase.dll": {
+        "progress_category": "engbase.dll",
+        "cflags": "engbase.dll",
+        "idb": "idb/engbase.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/engbase.dll.json",
+        "delink": "engbase.dll",
+        "objects": {
+            "src/engbase.dll.cpp": "engbase.dll.obj"
+        }
+    },
+    "flmaterials.dll": {
+        "progress_category": "flmaterials.dll",
+        "cflags": "flmaterials.dll",
+        "idb": "idb/flmaterials.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/flmaterials.dll.json",
+        "delink": "flmaterials.dll",
+        "objects": {
+            "src/flmaterials.dll.cpp": "flmaterials.dll.obj"
+        }
+    },
+    "flserver.exe": {
+        "progress_category": "flserver.exe",
+        "cflags": "flserver.exe",
+        "idb": "idb/flserver.exe.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/flserver.exe.json",
+        "delink": "flserver.exe",
+        "objects": {
+            "src/flserver.exe.cpp": "flserver.exe.obj"
+        }
+    },
+    "imeui.dll": {
+        "progress_category": "imeui.dll",
+        "cflags": "imeui.dll",
+        "idb": "idb/imeui.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/imeui.dll.json",
+        "delink": "imeui.dll",
+        "objects": {
+            "src/imeui.dll.cpp": "imeui.dll.obj"
+        }
+    },
+    "luaprofile.dll": {
+        "progress_category": "luaprofile.dll",
+        "cflags": "luaprofile.dll",
+        "idb": "idb/luaprofile.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/luaprofile.dll.json",
+        "delink": "luaprofile.dll",
+        "objects": {
+            "src/luaprofile.dll.cpp": "luaprofile.dll.obj"
+        }
+    },
+    "movie.dll": {
+        "progress_category": "movie.dll",
+        "cflags": "movie.dll",
+        "idb": "idb/movie.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/movie.dll.json",
+        "delink": "movie.dll",
+        "objects": {
+            "src/movie.dll.cpp": "movie.dll.obj"
+        }
+    },
+    "readfile.dll": {
+        "progress_category": "readfile.dll",
+        "cflags": "readfile.dll",
+        "idb": "idb/readfile.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/readfile.dll.json",
+        "delink": "readfile.dll",
+        "objects": {
+            "src/readfile.dll.cpp": "readfile.dll.obj"
+        }
+    },
+    "remoteserver.dll": {
+        "progress_category": "remoteserver.dll",
+        "cflags": "remoteserver.dll",
+        "idb": "idb/remoteserver.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/remoteserver.dll.json",
+        "delink": "remoteserver.dll",
+        "objects": {
+            "src/remoteserver.dll.cpp": "remoteserver.dll.obj"
+        }
+    },
+    "rendcomp.dll": {
+        "progress_category": "rendcomp.dll",
+        "cflags": "rendcomp.dll",
+        "idb": "idb/rendcomp.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/rendcomp.dll.json",
+        "delink": "rendcomp.dll",
+        "objects": {
+            "src/rendcomp.dll.cpp": "rendcomp.dll.obj"
+        }
+    },
+    "rp8.dll": {
+        "progress_category": "rp8.dll",
+        "cflags": "rp8.dll",
+        "idb": "idb/rp8.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/rp8.dll.json",
+        "delink": "rp8.dll",
+        "objects": {
+            "src/rp8.dll.cpp": "rp8.dll.obj"
+        }
+    },
+    "rpclocal.dll": {
+        "progress_category": "rpclocal.dll",
+        "cflags": "rpclocal.dll",
+        "idb": "idb/rpclocal.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/rpclocal.dll.json",
+        "delink": "rpclocal.dll",
+        "objects": {
+            "src/rpclocal.dll.cpp": "rpclocal.dll.obj"
+        }
+    },
+    "shading.dll": {
+        "progress_category": "shading.dll",
+        "cflags": "shading.dll",
+        "idb": "idb/shading.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/shading.dll.json",
+        "delink": "shading.dll",
+        "objects": {
+            "src/shading.dll.cpp": "shading.dll.obj"
+        }
+    },
+    "soundmanager.dll": {
+        "progress_category": "soundmanager.dll",
+        "cflags": "soundmanager.dll",
+        "idb": "idb/soundmanager.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/soundmanager.dll.json",
+        "delink": "soundmanager.dll",
+        "objects": {
+            "src/soundmanager.dll.cpp": "soundmanager.dll.obj"
+        }
+    },
+    "soundstreamer.dll": {
+        "progress_category": "soundstreamer.dll",
+        "cflags": "soundstreamer.dll",
+        "idb": "idb/soundstreamer.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/soundstreamer.dll.json",
+        "delink": "soundstreamer.dll",
+        "objects": {
+            "src/soundstreamer.dll.cpp": "soundstreamer.dll.obj"
+        }
+    },
+    "system.dll": {
+        "progress_category": "system.dll",
+        "cflags": "system.dll",
+        "idb": "idb/system.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/system.dll.json",
+        "delink": "system.dll",
+        "objects": {
+            "src/system.dll.cpp": "system.dll.obj"
+        }
+    },
+    "thorn.dll": {
+        "progress_category": "thorn.dll",
+        "cflags": "thorn.dll",
+        "idb": "idb/thorn.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/thorn.dll.json",
+        "delink": "thorn.dll",
+        "objects": {
+            "src/thorn.dll.cpp": "thorn.dll.obj"
+        }
+    },
+    "x86math.dll": {
+        "progress_category": "x86math.dll",
+        "cflags": "x86math.dll",
+        "idb": "idb/x86math.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/x86math.dll.json",
+        "delink": "x86math.dll",
+        "objects": {
+            "src/x86math.dll.cpp": "x86math.dll.obj"
+        }
+    },
+    "ximage.dll": {
+        "progress_category": "ximage.dll",
+        "cflags": "ximage.dll",
+        "idb": "idb/ximage.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/ximage.dll.json",
+        "delink": "ximage.dll",
+        "objects": {
+            "src/ximage.dll.cpp": "ximage.dll.obj"
+        }
+    },
+    "zlib.dll": {
+        "progress_category": "zlib.dll",
+        "cflags": "zlib.dll",
+        "idb": "idb/zlib.dll.i64",
+        "idapro": "config/052103_release_1149_Ipatch_ver1254/splits/zlib.dll.json",
+        "delink": "zlib.dll",
+        "objects": {
+            "src/zlib.dll.cpp": "zlib.dll.obj"
+        }
+    }
+}

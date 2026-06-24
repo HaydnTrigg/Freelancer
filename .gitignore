@@ -1,0 +1,14 @@
+*.cod
+/.ninja_lock
+/.ninja_log
+/build
+/build.ninja
+/compiler/*
+/objdiff.json
+/orig/*
+/.vscode
+compile_commands.json
+idb/**.id*
+idb/**.nam
+idb/**.til
+__pycache__

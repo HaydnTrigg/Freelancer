@@ -1,0 +1,1594 @@
+{
+  "delink_ida_version": 1,
+  "meta": {
+    "arch": "x86",
+    "procname": "metapc",
+    "bits": 32,
+    "endian": "little",
+    "image_base": 116457472,
+    "min_ea": 116461568,
+    "max_ea": 116473856,
+    "filetype": "PE",
+    "input_file": "E:\\Liberty\\EXE\\original\\system.dll"
+  },
+  "segments": [
+    {
+      "name": ".text",
+      "start": 116461568,
+      "end": 116465664,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": true,
+      "class": "CODE",
+      "bitness": 32
+    },
+    {
+      "name": ".idata",
+      "start": 116465664,
+      "end": 116465724,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": false,
+      "class": "XTRN",
+      "bitness": 32
+    },
+    {
+      "name": ".rdata",
+      "start": 116465724,
+      "end": 116469760,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": false,
+      "class": "CONST",
+      "bitness": 32
+    },
+    {
+      "name": ".data",
+      "start": 116469760,
+      "end": 116473856,
+      "perm_r": true,
+      "perm_w": true,
+      "perm_x": false,
+      "class": "DATA",
+      "bitness": 32
+    }
+  ],
+  "functions": [
+    {
+      "start": 116461568,
+      "end": 116461782,
+      "name": "DAComponentInner_SystemContainer::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116461792,
+      "end": 116461864,
+      "name": "SystemContainer::init",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116461872,
+      "end": 116461905,
+      "name": "SystemContainer::_destructor",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116461920,
+      "end": 116461935,
+      "name": "SystemContainer::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116461936,
+      "end": 116461952,
+      "name": "SystemContainer::AddRef",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116461952,
+      "end": 116461968,
+      "name": "SystemContainer::Release",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116461968,
+      "end": 116462043,
+      "name": "SystemContainer::Shutdown",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116462048,
+      "end": 116462705,
+      "name": "SystemContainer::LoadSystemComponents",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116462720,
+      "end": 116462754,
+      "name": "TempStr::set",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116462768,
+      "end": 116463060,
+      "name": "SystemContainer::AddComponent",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463072,
+      "end": 116463111,
+      "name": "SystemContainer::Update",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463120,
+      "end": 116463241,
+      "name": "SystemContainer::Initialize",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463248,
+      "end": 116463375,
+      "name": "SystemContainer::FindConnectionPoint",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463376,
+      "end": 116463512,
+      "name": "SystemContainer::EnumerateConnectionPoints",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463520,
+      "end": 116463586,
+      "name": "Register_SystemContainer",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463600,
+      "end": 116463657,
+      "name": "_DllMain@12",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463664,
+      "end": 116463723,
+      "name": "SystemContainerFactory::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463728,
+      "end": 116463771,
+      "name": "SystemContainerFactory::Release",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116463776,
+      "end": 116464009,
+      "name": "SystemContainerFactory::CreateInstance",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464016,
+      "end": 116464032,
+      "name": "IDAComponent::AddRef",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464032,
+      "end": 116464092,
+      "name": "SysConInner::Release",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464096,
+      "end": 116464106,
+      "name": "SystemContainer::IDAConnectionPointContainer::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464112,
+      "end": 116464122,
+      "name": "SystemContainer::IDAConnectionPointContainer::AddRef",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464128,
+      "end": 116464138,
+      "name": "SystemContainer::IDAConnectionPointContainer::Release",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464138,
+      "end": 116464144,
+      "name": "??3@YAXPAX@Z",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464144,
+      "end": 116464150,
+      "name": "??2@YAPAXI@Z",
+      "thunk": true,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464160,
+      "end": 116464207,
+      "name": "__alloca_probe",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464207,
+      "end": 116464378,
+      "name": "__CRT_INIT@12",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116464378,
+      "end": 116464535,
+      "name": "DllEntryPoint",
+      "thunk": false,
+      "lib": true,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 116464536,
+      "end": 116464542,
+      "name": "_initterm",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    }
+  ],
+  "names": [
+    {
+      "addr": 116461568,
+      "name": "DAComponentInner_SystemContainer::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116461792,
+      "name": "SystemContainer::init",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116461872,
+      "name": "SystemContainer::_destructor",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116461920,
+      "name": "SystemContainer::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116461936,
+      "name": "SystemContainer::AddRef",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116461952,
+      "name": "SystemContainer::Release",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116461968,
+      "name": "SystemContainer::Shutdown",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116462048,
+      "name": "SystemContainer::LoadSystemComponents",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116462720,
+      "name": "TempStr::set",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116462768,
+      "name": "SystemContainer::AddComponent",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463072,
+      "name": "SystemContainer::Update",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463120,
+      "name": "SystemContainer::Initialize",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463248,
+      "name": "SystemContainer::FindConnectionPoint",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463376,
+      "name": "SystemContainer::EnumerateConnectionPoints",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463520,
+      "name": "Register_SystemContainer",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463600,
+      "name": "_DllMain@12",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463664,
+      "name": "SystemContainerFactory::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463728,
+      "name": "SystemContainerFactory::Release",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116463776,
+      "name": "SystemContainerFactory::CreateInstance",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464016,
+      "name": "IDAComponent::AddRef",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464032,
+      "name": "SysConInner::Release",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464096,
+      "name": "SystemContainer::IDAConnectionPointContainer::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464112,
+      "name": "SystemContainer::IDAConnectionPointContainer::AddRef",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464128,
+      "name": "SystemContainer::IDAConnectionPointContainer::Release",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464138,
+      "name": "??3@YAXPAX@Z",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464144,
+      "name": "??2@YAPAXI@Z",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464160,
+      "name": "__alloca_probe",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464172,
+      "name": "probepages",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116464192,
+      "name": "lastpage",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116464207,
+      "name": "__CRT_INIT@12",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464378,
+      "name": "DllEntryPoint",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116464536,
+      "name": "_initterm",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116465664,
+      "name": "DACOM_Acquire",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465668,
+      "name": "FDUMP",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465676,
+      "name": "DisableThreadLibraryCalls",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465684,
+      "name": "__imp_??2@YAPAXI@Z",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465688,
+      "name": "strchr",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465692,
+      "name": "__imp_??3@YAXPAX@Z",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465696,
+      "name": "_vsnprintf",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465700,
+      "name": "free",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465704,
+      "name": "calloc",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465708,
+      "name": "__imp__initterm",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465712,
+      "name": "malloc",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465716,
+      "name": "_adjust_fdiv",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465756,
+      "name": "_entries",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465796,
+      "name": "SystemContainer::IDAConnectionPointContainer::vftable",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465816,
+      "name": "SystemContainer::vftable",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465848,
+      "name": "__SystemContainer_vftable",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465864,
+      "name": "SysConInner::vftable",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465876,
+      "name": "__IMPORT_DESCRIPTOR_DACOM",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465896,
+      "name": "__IMPORT_DESCRIPTOR_KERNEL32",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116465916,
+      "name": "__IMPORT_DESCRIPTOR_MSVCRT",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116466040,
+      "name": "aDacomDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116466078,
+      "name": "aKernel32Dll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116466166,
+      "name": "aMsvcrtDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116466216,
+      "name": "aNb10",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469760,
+      "name": "First",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469764,
+      "name": "Last",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469776,
+      "name": "IID_IDAConnectionPointContainer",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469812,
+      "name": "IID_ISystemComponent",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469836,
+      "name": "IID_IAggregateComponent",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469864,
+      "name": "IID_ISystemContainer",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469888,
+      "name": "IID_SystemContainer",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469904,
+      "name": "aSDNoticeGenera",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116469936,
+      "name": "aCWorkBuildsDal",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470008,
+      "name": "Format",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470080,
+      "name": "aOk",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470088,
+      "name": "aFailed",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470100,
+      "name": "aSystem",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470108,
+      "name": "IID_IProfileParser",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470128,
+      "name": "IID_IComponentFactory",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470164,
+      "name": "DACOM",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470168,
+      "name": "g_hInstance",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116470184,
+      "name": "Block",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    }
+  ],
+  "relocations": [
+    {
+      "addr": 116461569,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465756
+    },
+    {
+      "addr": 116461641,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465764
+    },
+    {
+      "addr": 116461665,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465760
+    },
+    {
+      "addr": 116461811,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469888
+    },
+    {
+      "addr": 116461880,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465816
+    },
+    {
+      "addr": 116461887,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465796
+    },
+    {
+      "addr": 116462082,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470164
+    },
+    {
+      "addr": 116462092,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470108
+    },
+    {
+      "addr": 116462122,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470100
+    },
+    {
+      "addr": 116462244,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465688
+    },
+    {
+      "addr": 116462384,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470164
+    },
+    {
+      "addr": 116462410,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470088
+    },
+    {
+      "addr": 116462458,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470080
+    },
+    {
+      "addr": 116462483,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469812
+    },
+    {
+      "addr": 116462513,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469836
+    },
+    {
+      "addr": 116462541,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470160
+    },
+    {
+      "addr": 116462560,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470008
+    },
+    {
+      "addr": 116462572,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465668
+    },
+    {
+      "addr": 116462583,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469936
+    },
+    {
+      "addr": 116462593,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469904
+    },
+    {
+      "addr": 116462743,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465696
+    },
+    {
+      "addr": 116462872,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470164
+    },
+    {
+      "addr": 116462946,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469812
+    },
+    {
+      "addr": 116462976,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469836
+    },
+    {
+      "addr": 116463316,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469776
+    },
+    {
+      "addr": 116463453,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469776
+    },
+    {
+      "addr": 116463547,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469888
+    },
+    {
+      "addr": 116463562,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469888
+    },
+    {
+      "addr": 116463568,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465848
+    },
+    {
+      "addr": 116463614,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470168
+    },
+    {
+      "addr": 116463620,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465676
+    },
+    {
+      "addr": 116463626,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465664
+    },
+    {
+      "addr": 116463633,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470164
+    },
+    {
+      "addr": 116463675,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470128
+    },
+    {
+      "addr": 116463864,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465704
+    },
+    {
+      "addr": 116463892,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465864
+    },
+    {
+      "addr": 116463901,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465816
+    },
+    {
+      "addr": 116463908,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465796
+    },
+    {
+      "addr": 116463936,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465700
+    },
+    {
+      "addr": 116464079,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465700
+    },
+    {
+      "addr": 116464140,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465692
+    },
+    {
+      "addr": 116464146,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465684
+    },
+    {
+      "addr": 116464217,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470172
+    },
+    {
+      "addr": 116464225,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470172
+    },
+    {
+      "addr": 116464231,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465716
+    },
+    {
+      "addr": 116464242,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470176
+    },
+    {
+      "addr": 116464255,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465712
+    },
+    {
+      "addr": 116464263,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470184
+    },
+    {
+      "addr": 116464277,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470184
+    },
+    {
+      "addr": 116464282,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469764
+    },
+    {
+      "addr": 116464287,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469760
+    },
+    {
+      "addr": 116464292,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470180
+    },
+    {
+      "addr": 116464303,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470172
+    },
+    {
+      "addr": 116464316,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470184
+    },
+    {
+      "addr": 116464326,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470180
+    },
+    {
+      "addr": 116464347,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470184
+    },
+    {
+      "addr": 116464359,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465700
+    },
+    {
+      "addr": 116464365,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470184
+    },
+    {
+      "addr": 116464399,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470172
+    },
+    {
+      "addr": 116464417,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470188
+    },
+    {
+      "addr": 116464509,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116470188
+    },
+    {
+      "addr": 116464538,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116465708
+    },
+    {
+      "addr": 116465664,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465668,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465676,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465684,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465688,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465692,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465696,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465700,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465704,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465708,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465712,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465716,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116465756,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469864
+    },
+    {
+      "addr": 116465764,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469836
+    },
+    {
+      "addr": 116465772,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469812
+    },
+    {
+      "addr": 116465780,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116469776
+    },
+    {
+      "addr": 116465796,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116464096
+    },
+    {
+      "addr": 116465800,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116464112
+    },
+    {
+      "addr": 116465804,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116464128
+    },
+    {
+      "addr": 116465808,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463248
+    },
+    {
+      "addr": 116465812,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463376
+    },
+    {
+      "addr": 116465816,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116461920
+    },
+    {
+      "addr": 116465820,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116461936
+    },
+    {
+      "addr": 116465824,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116461952
+    },
+    {
+      "addr": 116465828,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463120
+    },
+    {
+      "addr": 116465832,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463072
+    },
+    {
+      "addr": 116465836,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116462048
+    },
+    {
+      "addr": 116465840,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116461968
+    },
+    {
+      "addr": 116465844,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116462768
+    },
+    {
+      "addr": 116465848,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463664
+    },
+    {
+      "addr": 116465852,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116464016
+    },
+    {
+      "addr": 116465856,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463728
+    },
+    {
+      "addr": 116465860,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116463776
+    },
+    {
+      "addr": 116465864,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116461568
+    },
+    {
+      "addr": 116465868,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116464016
+    },
+    {
+      "addr": 116465872,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116464032
+    },
+    {
+      "addr": 116465876,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8484
+    },
+    {
+      "addr": 116465888,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8568
+    },
+    {
+      "addr": 116465892,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8192
+    },
+    {
+      "addr": 116465896,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8496
+    },
+    {
+      "addr": 116465908,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8606
+    },
+    {
+      "addr": 116465912,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8204
+    },
+    {
+      "addr": 116465916,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8504
+    },
+    {
+      "addr": 116465928,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8694
+    },
+    {
+      "addr": 116465932,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8212
+    },
+    {
+      "addr": 116465956,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8552
+    },
+    {
+      "addr": 116465960,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8544
+    },
+    {
+      "addr": 116465968,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8578
+    },
+    {
+      "addr": 116465976,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8636
+    },
+    {
+      "addr": 116465980,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8652
+    },
+    {
+      "addr": 116465984,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8620
+    },
+    {
+      "addr": 116465988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8662
+    },
+    {
+      "addr": 116465992,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8676
+    },
+    {
+      "addr": 116465996,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8684
+    },
+    {
+      "addr": 116466000,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8706
+    },
+    {
+      "addr": 116466004,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8718
+    },
+    {
+      "addr": 116466008,
+      "type": "OFF32",
+      "size": 4,
+      "target": 8728
+    }
+  ]
+}

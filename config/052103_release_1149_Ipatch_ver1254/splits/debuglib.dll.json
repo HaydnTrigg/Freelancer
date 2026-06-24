@@ -1,0 +1,2449 @@
+{
+  "debuglib.dll.obj": {
+    "sub_65D1000": {
+      "address": 106762240,
+      "size": 156,
+      "scope": "static"
+    },
+    "sub_65D10A0": {
+      "address": 106762400,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D10C0": {
+      "address": 106762432,
+      "size": 230,
+      "scope": "static"
+    },
+    "sub_65D11B0": {
+      "address": 106762672,
+      "size": 89,
+      "scope": "static"
+    },
+    "sub_65D1210": {
+      "address": 106762768,
+      "size": 279,
+      "scope": "static"
+    },
+    "sub_65D1330": {
+      "address": 106763056,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_65D1340": {
+      "address": 106763072,
+      "size": 56,
+      "scope": "static"
+    },
+    "sub_65D13E0": {
+      "address": 106763232,
+      "size": 129,
+      "scope": "static"
+    },
+    "sub_65D1470": {
+      "address": 106763376,
+      "size": 670,
+      "scope": "static"
+    },
+    "sub_65D1710": {
+      "address": 106764048,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D1730": {
+      "address": 106764080,
+      "size": 60,
+      "scope": "static"
+    },
+    "sub_65D1770": {
+      "address": 106764144,
+      "size": 73,
+      "scope": "static"
+    },
+    "sub_65D17C0": {
+      "address": 106764224,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_65D1820": {
+      "address": 106764320,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_65D1840": {
+      "address": 106764352,
+      "size": 113,
+      "scope": "static"
+    },
+    "sub_65D18C0": {
+      "address": 106764480,
+      "size": 64,
+      "scope": "static"
+    },
+    "??0DNameNode@@IAE@XZ": {
+      "address": 106764544,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D1910": {
+      "address": 106764560,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D1930": {
+      "address": 106764592,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_65D1940": {
+      "address": 106764608,
+      "size": 300,
+      "scope": "static"
+    },
+    "sub_65D1A70": {
+      "address": 106764912,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_65D1AA0": {
+      "address": 106764960,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_65D1AF0": {
+      "address": 106765040,
+      "size": 78,
+      "scope": "static"
+    },
+    "sub_65D1B40": {
+      "address": 106765120,
+      "size": 37,
+      "scope": "static"
+    },
+    "sub_65D1B70": {
+      "address": 106765168,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D1C20": {
+      "address": 106765344,
+      "size": 228,
+      "scope": "static"
+    },
+    "sub_65D1D10": {
+      "address": 106765584,
+      "size": 392,
+      "scope": "static"
+    },
+    "sub_65D1EA0": {
+      "address": 106765984,
+      "size": 706,
+      "scope": "static"
+    },
+    "sub_65D2170": {
+      "address": 106766704,
+      "size": 98,
+      "scope": "static"
+    },
+    "sub_65D21E0": {
+      "address": 106766816,
+      "size": 364,
+      "scope": "static"
+    },
+    "_DllMain@12": {
+      "address": 106767184,
+      "size": 369,
+      "scope": "static"
+    },
+    "sub_65D24D0": {
+      "address": 106767568,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_65D2540": {
+      "address": 106767680,
+      "size": 77,
+      "scope": "static"
+    },
+    "sub_65D2590": {
+      "address": 106767760,
+      "size": 88,
+      "scope": "static"
+    },
+    "sub_65D25F0": {
+      "address": 106767856,
+      "size": 62,
+      "scope": "static"
+    },
+    "sub_65D2630": {
+      "address": 106767920,
+      "size": 23,
+      "scope": "static"
+    },
+    "sub_65D2650": {
+      "address": 106767952,
+      "size": 77,
+      "scope": "static"
+    },
+    "sub_65D26A0": {
+      "address": 106768032,
+      "size": 228,
+      "scope": "static"
+    },
+    "sub_65D2790": {
+      "address": 106768272,
+      "size": 150,
+      "scope": "static"
+    },
+    "sub_65D2830": {
+      "address": 106768432,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_65D2860": {
+      "address": 106768480,
+      "size": 153,
+      "scope": "static"
+    },
+    "sub_65D2900": {
+      "address": 106768640,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65D2910": {
+      "address": 106768656,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_65D2930": {
+      "address": 106768688,
+      "size": 62,
+      "scope": "static"
+    },
+    "sub_65D2970": {
+      "address": 106768752,
+      "size": 98,
+      "scope": "static"
+    },
+    "sub_65D29E0": {
+      "address": 106768864,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D2A90": {
+      "address": 106769040,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D2AA0": {
+      "address": 106769056,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65D2AD0": {
+      "address": 106769104,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D2B80": {
+      "address": 106769280,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D2B90": {
+      "address": 106769296,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65D2BC0": {
+      "address": 106769344,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D2C70": {
+      "address": 106769520,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D2C80": {
+      "address": 106769536,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65D2CB0": {
+      "address": 106769584,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_65D2D00": {
+      "address": 106769664,
+      "size": 85,
+      "scope": "static"
+    },
+    "sub_65D2D60": {
+      "address": 106769760,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D2D80": {
+      "address": 106769792,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D2DA0": {
+      "address": 106769824,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D2DC0": {
+      "address": 106769856,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_65D2DD0": {
+      "address": 106769872,
+      "size": 5,
+      "scope": "static"
+    },
+    "sub_65D2DE0": {
+      "address": 106769888,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65D2E10": {
+      "address": 106769936,
+      "size": 62,
+      "scope": "static"
+    },
+    "sub_65D2E50": {
+      "address": 106770000,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65D2E60": {
+      "address": 106770016,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65D2E70": {
+      "address": 106770032,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65D2E80": {
+      "address": 106770048,
+      "size": 141,
+      "scope": "static"
+    },
+    "sub_65D2F10": {
+      "address": 106770192,
+      "size": 344,
+      "scope": "static"
+    },
+    "sub_65D3070": {
+      "address": 106770544,
+      "size": 171,
+      "scope": "static"
+    },
+    "sub_65D3120": {
+      "address": 106770720,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65D3130": {
+      "address": 106770736,
+      "size": 580,
+      "scope": "static"
+    },
+    "sub_65D3380": {
+      "address": 106771328,
+      "size": 675,
+      "scope": "static"
+    },
+    "sub_65D3630": {
+      "address": 106772016,
+      "size": 118,
+      "scope": "static"
+    },
+    "sub_65D36B0": {
+      "address": 106772144,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_65D3700": {
+      "address": 106772224,
+      "size": 196,
+      "scope": "static"
+    },
+    "sub_65D37D0": {
+      "address": 106772432,
+      "size": 284,
+      "scope": "static"
+    },
+    "sub_65D38F0": {
+      "address": 106772720,
+      "size": 61,
+      "scope": "static"
+    },
+    "sub_65D3930": {
+      "address": 106772784,
+      "size": 107,
+      "scope": "static"
+    },
+    "sub_65D39A0": {
+      "address": 106772896,
+      "size": 222,
+      "scope": "static"
+    },
+    "sub_65D3A80": {
+      "address": 106773120,
+      "size": 183,
+      "scope": "static"
+    },
+    "sub_65D3B40": {
+      "address": 106773312,
+      "size": 71,
+      "scope": "static"
+    },
+    "sub_65D3B90": {
+      "address": 106773392,
+      "size": 239,
+      "scope": "static"
+    },
+    "sub_65D3C80": {
+      "address": 106773632,
+      "size": 110,
+      "scope": "static"
+    },
+    "sub_65D3CF0": {
+      "address": 106773744,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_65D3D00": {
+      "address": 106773760,
+      "size": 70,
+      "scope": "static"
+    },
+    "sub_65D3D50": {
+      "address": 106773840,
+      "size": 157,
+      "scope": "static"
+    },
+    "sub_65D3DF0": {
+      "address": 106774000,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_65D3E10": {
+      "address": 106774032,
+      "size": 280,
+      "scope": "static"
+    },
+    "sub_65D3F30": {
+      "address": 106774320,
+      "size": 987,
+      "scope": "static"
+    },
+    "sub_65D4310": {
+      "address": 106775312,
+      "size": 63,
+      "scope": "static"
+    },
+    "sub_65D4350": {
+      "address": 106775376,
+      "size": 263,
+      "scope": "static"
+    },
+    "sub_65D4460": {
+      "address": 106775648,
+      "size": 213,
+      "scope": "static"
+    },
+    "sub_65D4540": {
+      "address": 106775872,
+      "size": 590,
+      "scope": "static"
+    },
+    "sub_65D4790": {
+      "address": 106776464,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_65D47F0": {
+      "address": 106776560,
+      "size": 171,
+      "scope": "static"
+    },
+    "sub_65D48A0": {
+      "address": 106776736,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D4950": {
+      "address": 106776912,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_65D4980": {
+      "address": 106776960,
+      "size": 18,
+      "scope": "static"
+    },
+    "sub_65D49A0": {
+      "address": 106776992,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D4A50": {
+      "address": 106777168,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D4A60": {
+      "address": 106777184,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65D4A90": {
+      "address": 106777232,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D4B40": {
+      "address": 106777408,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D4B50": {
+      "address": 106777424,
+      "size": 41,
+      "scope": "static"
+    },
+    "sub_65D4B80": {
+      "address": 106777472,
+      "size": 323,
+      "scope": "static"
+    },
+    "sub_65D4CD0": {
+      "address": 106777808,
+      "size": 510,
+      "scope": "static"
+    },
+    "sub_65D4ED0": {
+      "address": 106778320,
+      "size": 282,
+      "scope": "static"
+    },
+    "?max_size@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEIXZ": {
+      "address": 106778608,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_65D5000": {
+      "address": 106778624,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D5020": {
+      "address": 106778656,
+      "size": 80,
+      "scope": "static"
+    },
+    "sub_65D5070": {
+      "address": 106778736,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D5090": {
+      "address": 106778768,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D50B0": {
+      "address": 106778800,
+      "size": 328,
+      "scope": "static"
+    },
+    "sub_65D5200": {
+      "address": 106779136,
+      "size": 30,
+      "scope": "static"
+    },
+    "sub_65D5220": {
+      "address": 106779168,
+      "size": 314,
+      "scope": "static"
+    },
+    "sub_65D5360": {
+      "address": 106779488,
+      "size": 174,
+      "scope": "static"
+    },
+    "sub_65D5410": {
+      "address": 106779664,
+      "size": 74,
+      "scope": "static"
+    },
+    "sub_65D5460": {
+      "address": 106779744,
+      "size": 15,
+      "scope": "static"
+    },
+    "sub_65D5470": {
+      "address": 106779760,
+      "size": 67,
+      "scope": "static"
+    },
+    "unknown_libname_1": {
+      "address": 106779840,
+      "size": 44,
+      "scope": "static"
+    },
+    "nullsub_1": {
+      "address": 106779888,
+      "size": 1,
+      "scope": "static"
+    },
+    "sub_65D5500": {
+      "address": 106779904,
+      "size": 19,
+      "scope": "static"
+    },
+    "sub_65D5520": {
+      "address": 106779936,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_65D5540": {
+      "address": 106779968,
+      "size": 34,
+      "scope": "static"
+    },
+    "sub_65D5570": {
+      "address": 106780016,
+      "size": 259,
+      "scope": "static"
+    },
+    "sub_65D5680": {
+      "address": 106780288,
+      "size": 125,
+      "scope": "static"
+    },
+    "sub_65D5700": {
+      "address": 106780416,
+      "size": 110,
+      "scope": "static"
+    },
+    "sub_65D5770": {
+      "address": 106780528,
+      "size": 228,
+      "scope": "static"
+    },
+    "sub_65D5860": {
+      "address": 106780768,
+      "size": 175,
+      "scope": "static"
+    },
+    "sub_65D5910": {
+      "address": 106780944,
+      "size": 243,
+      "scope": "static"
+    },
+    "sub_65D5A10": {
+      "address": 106781200,
+      "size": 101,
+      "scope": "static"
+    },
+    "sub_65D5A80": {
+      "address": 106781312,
+      "size": 141,
+      "scope": "static"
+    },
+    "sub_65D5B10": {
+      "address": 106781456,
+      "size": 59,
+      "scope": "static"
+    },
+    "sub_65D5B50": {
+      "address": 106781520,
+      "size": 305,
+      "scope": "static"
+    },
+    "sub_65D5C90": {
+      "address": 106781840,
+      "size": 183,
+      "scope": "static"
+    },
+    "sub_65D5D50": {
+      "address": 106782032,
+      "size": 1086,
+      "scope": "static"
+    },
+    "sub_65D6190": {
+      "address": 106783120,
+      "size": 121,
+      "scope": "static"
+    },
+    "sub_65D6210": {
+      "address": 106783248,
+      "size": 292,
+      "scope": "static"
+    },
+    "sub_65D6340": {
+      "address": 106783552,
+      "size": 99,
+      "scope": "static"
+    },
+    "sub_65D63B0": {
+      "address": 106783664,
+      "size": 84,
+      "scope": "static"
+    },
+    "sub_65D6410": {
+      "address": 106783760,
+      "size": 72,
+      "scope": "static"
+    },
+    "sub_65D6460": {
+      "address": 106783840,
+      "size": 81,
+      "scope": "static"
+    },
+    "sub_65D64C0": {
+      "address": 106783936,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_65D64F0": {
+      "address": 106783984,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_65D6520": {
+      "address": 106784032,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D65D0": {
+      "address": 106784208,
+      "size": 22,
+      "scope": "static"
+    },
+    "sub_65D65F0": {
+      "address": 106784240,
+      "size": 64,
+      "scope": "static"
+    },
+    "sub_65D6630": {
+      "address": 106784304,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D6640": {
+      "address": 106784320,
+      "size": 145,
+      "scope": "static"
+    },
+    "sub_65D66E0": {
+      "address": 106784480,
+      "size": 165,
+      "scope": "static"
+    },
+    "sub_65D6790": {
+      "address": 106784656,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D6840": {
+      "address": 106784832,
+      "size": 16,
+      "scope": "static"
+    },
+    "sub_65D6850": {
+      "address": 106784848,
+      "size": 52,
+      "scope": "static"
+    },
+    "sub_65D6890": {
+      "address": 106784912,
+      "size": 176,
+      "scope": "static"
+    },
+    "sub_65D6940": {
+      "address": 106785088,
+      "size": 75,
+      "scope": "static"
+    },
+    "sub_65D6990": {
+      "address": 106785168,
+      "size": 157,
+      "scope": "static"
+    },
+    "sub_65D6A30": {
+      "address": 106785328,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_65D6A60": {
+      "address": 106785376,
+      "size": 20,
+      "scope": "static"
+    },
+    "sub_65D6A80": {
+      "address": 106785408,
+      "size": 283,
+      "scope": "static"
+    },
+    "sub_65D6BA0": {
+      "address": 106785696,
+      "size": 88,
+      "scope": "static"
+    },
+    "sub_65D6C00": {
+      "address": 106785792,
+      "size": 62,
+      "scope": "static"
+    },
+    "stricmp": {
+      "address": 106785856,
+      "size": 6,
+      "scope": "static"
+    },
+    "listen": {
+      "address": 106785862,
+      "size": 6,
+      "scope": "static"
+    },
+    "closesocket": {
+      "address": 106785868,
+      "size": 6,
+      "scope": "static"
+    },
+    "bind": {
+      "address": 106785874,
+      "size": 6,
+      "scope": "static"
+    },
+    "htons": {
+      "address": 106785880,
+      "size": 6,
+      "scope": "static"
+    },
+    "setsockopt": {
+      "address": 106785886,
+      "size": 6,
+      "scope": "static"
+    },
+    "socket": {
+      "address": 106785892,
+      "size": 6,
+      "scope": "static"
+    },
+    "WSAGetLastError": {
+      "address": 106785898,
+      "size": 6,
+      "scope": "static"
+    },
+    "inet_ntoa": {
+      "address": 106785904,
+      "size": 6,
+      "scope": "static"
+    },
+    "accept": {
+      "address": 106785910,
+      "size": 6,
+      "scope": "static"
+    },
+    "select": {
+      "address": 106785916,
+      "size": 6,
+      "scope": "static"
+    },
+    "connect": {
+      "address": 106785922,
+      "size": 6,
+      "scope": "static"
+    },
+    "gethostbyname": {
+      "address": 106785928,
+      "size": 6,
+      "scope": "static"
+    },
+    "inet_addr": {
+      "address": 106785934,
+      "size": 6,
+      "scope": "static"
+    },
+    "ioctlsocket": {
+      "address": 106785940,
+      "size": 6,
+      "scope": "static"
+    },
+    "recv": {
+      "address": 106785946,
+      "size": 6,
+      "scope": "static"
+    },
+    "send": {
+      "address": 106785952,
+      "size": 6,
+      "scope": "static"
+    },
+    "WSACleanup": {
+      "address": 106785958,
+      "size": 6,
+      "scope": "static"
+    },
+    "WSAStartup": {
+      "address": 106785964,
+      "size": 6,
+      "scope": "static"
+    },
+    "__WSAFDIsSet": {
+      "address": 106785970,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_65D6CB8": {
+      "address": 106785976,
+      "size": 11,
+      "scope": "static"
+    },
+    "?_Xlen@std@@YAXXZ": {
+      "address": 106785987,
+      "size": 90,
+      "scope": "static"
+    },
+    "sub_65D6D1D": {
+      "address": 106786077,
+      "size": 100,
+      "scope": "static"
+    },
+    "sub_65D6D81": {
+      "address": 106786177,
+      "size": 13,
+      "scope": "static"
+    },
+    "sub_65D6D8E": {
+      "address": 106786190,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_65D6DAB": {
+      "address": 106786219,
+      "size": 93,
+      "scope": "static"
+    },
+    "unknown_libname_2": {
+      "address": 106786312,
+      "size": 61,
+      "scope": "static"
+    },
+    "sub_65D6E45": {
+      "address": 106786373,
+      "size": 29,
+      "scope": "static"
+    },
+    "sub_65D6E62": {
+      "address": 106786402,
+      "size": 24,
+      "scope": "static"
+    },
+    "?_Xran@std@@YAXXZ": {
+      "address": 106786426,
+      "size": 147,
+      "scope": "static"
+    },
+    "sub_65D6F0D": {
+      "address": 106786573,
+      "size": 24,
+      "scope": "static"
+    },
+    "unknown_libname_3": {
+      "address": 106786597,
+      "size": 42,
+      "scope": "static"
+    },
+    "sub_65D6F4F": {
+      "address": 106786639,
+      "size": 12,
+      "scope": "static"
+    },
+    "sub_65D6F5B": {
+      "address": 106786651,
+      "size": 12,
+      "scope": "static"
+    },
+    "nullsub_2": {
+      "address": 106786663,
+      "size": 1,
+      "scope": "static"
+    },
+    "__purecall": {
+      "address": 106786664,
+      "size": 7,
+      "scope": "static"
+    },
+    "??2@YAPAXI@Z": {
+      "address": 106786673,
+      "size": 14,
+      "scope": "static"
+    },
+    "?_JumpToContinuation@@YGXPAXPAUEHRegistrationNode@@@Z": {
+      "address": 106786687,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_65D6FAC": {
+      "address": 106786732,
+      "size": 7,
+      "scope": "static"
+    },
+    "sub_65D6FB3": {
+      "address": 106786739,
+      "size": 7,
+      "scope": "static"
+    },
+    "?_UnwindNestedFrames@@YGXPAUEHRegistrationNode@@PAUEHExceptionRecord@@@Z": {
+      "address": 106786746,
+      "size": 79,
+      "scope": "static"
+    },
+    "___CxxFrameHandler": {
+      "address": 106786825,
+      "size": 54,
+      "scope": "static"
+    },
+    "?_CallCatchBlock2@@YAPAXPAUEHRegistrationNode@@PBU_s_FuncInfo@@PAXHK@Z": {
+      "address": 106786879,
+      "size": 84,
+      "scope": "static"
+    },
+    "?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z": {
+      "address": 106786963,
+      "size": 37,
+      "scope": "static"
+    },
+    "?_CallSETranslator@@YAHPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAX2PBU_s_FuncInfo@@H1@Z": {
+      "address": 106787000,
+      "size": 182,
+      "scope": "static"
+    },
+    "?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z": {
+      "address": 106787182,
+      "size": 117,
+      "scope": "static"
+    },
+    "?_GetRangeOfTrysToCheck@@YAPBU_s_TryBlockMapEntry@@PBU_s_FuncInfo@@HHPAI1@Z": {
+      "address": 106787299,
+      "size": 123,
+      "scope": "static"
+    },
+    "__global_unwind2": {
+      "address": 106787424,
+      "size": 32,
+      "scope": "static"
+    },
+    "__unwind_handler": {
+      "address": 106787456,
+      "size": 34,
+      "scope": "static"
+    },
+    "__local_unwind2": {
+      "address": 106787490,
+      "size": 104,
+      "scope": "static"
+    },
+    "__abnormal_termination": {
+      "address": 106787594,
+      "size": 35,
+      "scope": "static"
+    },
+    "__NLG_Notify1": {
+      "address": 106787629,
+      "size": 9,
+      "scope": "static"
+    },
+    "__NLG_Notify": {
+      "address": 106787638,
+      "size": 24,
+      "scope": "static"
+    },
+    "_sprintf": {
+      "address": 106787662,
+      "size": 82,
+      "scope": "static"
+    },
+    "___memcpy": {
+      "address": 106787744,
+      "size": 821,
+      "scope": "static"
+    },
+    "__onexit": {
+      "address": 106788565,
+      "size": 126,
+      "scope": "static"
+    },
+    "_atexit": {
+      "address": 106788691,
+      "size": 18,
+      "scope": "static"
+    },
+    "___onexitinit": {
+      "address": 106788709,
+      "size": 47,
+      "scope": "static"
+    },
+    "_memchr": {
+      "address": 106788768,
+      "size": 165,
+      "scope": "static"
+    },
+    "_sscanf": {
+      "address": 106788933,
+      "size": 52,
+      "scope": "static"
+    },
+    "_strncpy": {
+      "address": 106788992,
+      "size": 254,
+      "scope": "static"
+    },
+    "found_bx": {
+      "address": 106789248,
+      "size": 5,
+      "scope": "static"
+    },
+    "_strchr": {
+      "address": 106789264,
+      "size": 188,
+      "scope": "static"
+    },
+    "_asctime": {
+      "address": 106789452,
+      "size": 202,
+      "scope": "static"
+    },
+    "_store_dt": {
+      "address": 106789654,
+      "size": 40,
+      "scope": "static"
+    },
+    "_localtime": {
+      "address": 106789694,
+      "size": 352,
+      "scope": "static"
+    },
+    "_time": {
+      "address": 106790046,
+      "size": 220,
+      "scope": "static"
+    },
+    "__CRT_INIT@12": {
+      "address": 106790266,
+      "size": 217,
+      "scope": "static"
+    },
+    "DllEntryPoint": {
+      "address": 106790483,
+      "size": 157,
+      "scope": "global"
+    },
+    "__amsg_exit": {
+      "address": 106790640,
+      "size": 48,
+      "scope": "static"
+    },
+    "sub_65D7F23": {
+      "address": 106790691,
+      "size": 233,
+      "scope": "static"
+    },
+    "sub_65D800C": {
+      "address": 106790924,
+      "size": 28,
+      "scope": "static"
+    },
+    "??0exception@@QAE@ABQBD@Z": {
+      "address": 106790952,
+      "size": 61,
+      "scope": "static"
+    },
+    "??0exception@@QAE@ABV0@@Z": {
+      "address": 106791013,
+      "size": 74,
+      "scope": "static"
+    },
+    "sub_65D80AF": {
+      "address": 106791087,
+      "size": 22,
+      "scope": "static"
+    },
+    "?what@exception@@UBEPBDXZ": {
+      "address": 106791109,
+      "size": 13,
+      "scope": "static"
+    },
+    "??1type_info@@UAE@XZ": {
+      "address": 106791122,
+      "size": 41,
+      "scope": "static"
+    },
+    "??_Gtype_info@@UAEPAXI@Z": {
+      "address": 106791163,
+      "size": 28,
+      "scope": "static"
+    },
+    "_strlen": {
+      "address": 106791200,
+      "size": 123,
+      "scope": "static"
+    },
+    "__EH_prolog": {
+      "address": 106791324,
+      "size": 31,
+      "scope": "static"
+    },
+    "__CxxThrowException@8": {
+      "address": 106791355,
+      "size": 58,
+      "scope": "static"
+    },
+    "___memcpy_0": {
+      "address": 106791424,
+      "size": 821,
+      "scope": "static"
+    },
+    "_malloc": {
+      "address": 106792245,
+      "size": 18,
+      "scope": "static"
+    },
+    "__nh_malloc": {
+      "address": 106792263,
+      "size": 44,
+      "scope": "static"
+    },
+    "sub_65D8573": {
+      "address": 106792307,
+      "size": 252,
+      "scope": "static"
+    },
+    "___InternalCxxFrameHandler": {
+      "address": 106792559,
+      "size": 155,
+      "scope": "static"
+    },
+    "?FindHandler@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@EH1@Z": {
+      "address": 106792714,
+      "size": 435,
+      "scope": "static"
+    },
+    "?FindHandlerForForeignException@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@HH1@Z": {
+      "address": 106793149,
+      "size": 170,
+      "scope": "static"
+    },
+    "?TypeMatch@@YAHPBU_s_HandlerType@@PBU_s_CatchableType@@PBU_s_ThrowInfo@@@Z": {
+      "address": 106793319,
+      "size": 93,
+      "scope": "static"
+    },
+    "___FrameUnwindToState": {
+      "address": 106793412,
+      "size": 158,
+      "scope": "static"
+    },
+    "unknown_libname_4": {
+      "address": 106793570,
+      "size": 22,
+      "scope": "static"
+    },
+    "?CatchIt@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@PBU_s_HandlerType@@PBU_s_CatchableType@@PBU_s_TryBlockMapEntry@@H1E@Z": {
+      "address": 106793592,
+      "size": 123,
+      "scope": "static"
+    },
+    "?CallCatchBlock@@YAPAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PBU_s_FuncInfo@@PAXHK@Z": {
+      "address": 106793715,
+      "size": 283,
+      "scope": "static"
+    },
+    "?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z": {
+      "address": 106793998,
+      "size": 42,
+      "scope": "static"
+    },
+    "?BuildCatchObject@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PBU_s_HandlerType@@PBU_s_CatchableType@@@Z": {
+      "address": 106794040,
+      "size": 452,
+      "scope": "static"
+    },
+    "unknown_libname_5": {
+      "address": 106794492,
+      "size": 103,
+      "scope": "static"
+    },
+    "?AdjustPointer@@YAPAXPAXABUPMD@@@Z": {
+      "address": 106794595,
+      "size": 35,
+      "scope": "static"
+    },
+    "__CallSettingFrame@12": {
+      "address": 106794640,
+      "size": 76,
+      "scope": "static"
+    },
+    "__mtinit": {
+      "address": 106794716,
+      "size": 84,
+      "scope": "static"
+    },
+    "__mtterm": {
+      "address": 106794800,
+      "size": 30,
+      "scope": "static"
+    },
+    "__initptd": {
+      "address": 106794830,
+      "size": 19,
+      "scope": "static"
+    },
+    "__getptd": {
+      "address": 106794849,
+      "size": 103,
+      "scope": "static"
+    },
+    "__freeptd": {
+      "address": 106794952,
+      "size": 160,
+      "scope": "static"
+    },
+    "?terminate@@YAXXZ": {
+      "address": 106795112,
+      "size": 97,
+      "scope": "static"
+    },
+    "sub_65D90C9": {
+      "address": 106795209,
+      "size": 86,
+      "scope": "static"
+    },
+    "__flsbuf": {
+      "address": 106795295,
+      "size": 280,
+      "scope": "static"
+    },
+    "__output": {
+      "address": 106795575,
+      "size": 1825,
+      "scope": "static"
+    },
+    "_write_char": {
+      "address": 106797432,
+      "size": 53,
+      "scope": "static"
+    },
+    "_write_multi_char": {
+      "address": 106797485,
+      "size": 49,
+      "scope": "static"
+    },
+    "_write_string": {
+      "address": 106797534,
+      "size": 56,
+      "scope": "static"
+    },
+    "_get_int_arg": {
+      "address": 106797590,
+      "size": 13,
+      "scope": "static"
+    },
+    "_get_int64_arg": {
+      "address": 106797603,
+      "size": 16,
+      "scope": "static"
+    },
+    "_get_short_arg": {
+      "address": 106797619,
+      "size": 14,
+      "scope": "static"
+    },
+    "__cinit": {
+      "address": 106797633,
+      "size": 45,
+      "scope": "static"
+    },
+    "__exit": {
+      "address": 106797678,
+      "size": 17,
+      "scope": "static"
+    },
+    "__cexit": {
+      "address": 106797695,
+      "size": 15,
+      "scope": "static"
+    },
+    "_doexit": {
+      "address": 106797710,
+      "size": 163,
+      "scope": "static"
+    },
+    "sub_65D9B31": {
+      "address": 106797873,
+      "size": 2,
+      "scope": "static"
+    },
+    "__lockexit": {
+      "address": 106797875,
+      "size": 9,
+      "scope": "static"
+    },
+    "__unlockexit": {
+      "address": 106797884,
+      "size": 9,
+      "scope": "static"
+    },
+    "__initterm": {
+      "address": 106797893,
+      "size": 26,
+      "scope": "static"
+    },
+    "sub_65D9B5F": {
+      "address": 106797919,
+      "size": 808,
+      "scope": "static"
+    },
+    "sub_65D9E87": {
+      "address": 106798727,
+      "size": 238,
+      "scope": "static"
+    },
+    "__input": {
+      "address": 106798965,
+      "size": 2597,
+      "scope": "static"
+    },
+    "__hextodec": {
+      "address": 106801562,
+      "size": 55,
+      "scope": "static"
+    },
+    "_fgetc": {
+      "address": 106801617,
+      "size": 26,
+      "scope": "static"
+    },
+    "__un_inc": {
+      "address": 106801643,
+      "size": 23,
+      "scope": "static"
+    },
+    "__whiteout": {
+      "address": 106801666,
+      "size": 36,
+      "scope": "static"
+    },
+    "___tzset": {
+      "address": 106801702,
+      "size": 46,
+      "scope": "static"
+    },
+    "__tzset_lk": {
+      "address": 106801748,
+      "size": 647,
+      "scope": "static"
+    },
+    "__isindst": {
+      "address": 106802395,
+      "size": 33,
+      "scope": "static"
+    },
+    "__isindst_0": {
+      "address": 106802428,
+      "size": 428,
+      "scope": "static"
+    },
+    "_cvtdate": {
+      "address": 106802856,
+      "size": 320,
+      "scope": "static"
+    },
+    "_gmtime": {
+      "address": 106803176,
+      "size": 266,
+      "scope": "static"
+    },
+    "___loctotime_t": {
+      "address": 106803442,
+      "size": 194,
+      "scope": "static"
+    },
+    "__ioinit": {
+      "address": 106803636,
+      "size": 444,
+      "scope": "static"
+    },
+    "__ioterm": {
+      "address": 106804080,
+      "size": 84,
+      "scope": "static"
+    },
+    "__setenvp": {
+      "address": 106804164,
+      "size": 185,
+      "scope": "static"
+    },
+    "__setargv": {
+      "address": 106804349,
+      "size": 153,
+      "scope": "static"
+    },
+    "_parse_cmdline": {
+      "address": 106804502,
+      "size": 436,
+      "scope": "static"
+    },
+    "___crtGetEnvironmentStringsA": {
+      "address": 106804938,
+      "size": 306,
+      "scope": "static"
+    },
+    "sub_65DB7FC": {
+      "address": 106805244,
+      "size": 45,
+      "scope": "static"
+    },
+    "sub_65DB829": {
+      "address": 106805289,
+      "size": 328,
+      "scope": "static"
+    },
+    "sub_65DB971": {
+      "address": 106805617,
+      "size": 93,
+      "scope": "static"
+    },
+    "sub_65DB9CE": {
+      "address": 106805710,
+      "size": 168,
+      "scope": "static"
+    },
+    "__FF_MSGBANNER": {
+      "address": 106805878,
+      "size": 57,
+      "scope": "static"
+    },
+    "__NMSG_WRITE": {
+      "address": 106805935,
+      "size": 339,
+      "scope": "static"
+    },
+    "___sbh_heap_init": {
+      "address": 106806274,
+      "size": 72,
+      "scope": "static"
+    },
+    "___sbh_find_block": {
+      "address": 106806346,
+      "size": 43,
+      "scope": "static"
+    },
+    "sub_65DBC75": {
+      "address": 106806389,
+      "size": 809,
+      "scope": "static"
+    },
+    "___sbh_alloc_block": {
+      "address": 106807198,
+      "size": 777,
+      "scope": "static"
+    },
+    "___sbh_alloc_new_region": {
+      "address": 106807975,
+      "size": 177,
+      "scope": "static"
+    },
+    "___sbh_alloc_new_group": {
+      "address": 106808152,
+      "size": 251,
+      "scope": "static"
+    },
+    "___sbh_resize_block": {
+      "address": 106808403,
+      "size": 758,
+      "scope": "static"
+    },
+    "sub_65DC749": {
+      "address": 106809161,
+      "size": 324,
+      "scope": "static"
+    },
+    "sub_65DC88D": {
+      "address": 106809485,
+      "size": 86,
+      "scope": "static"
+    },
+    "sub_65DC8E3": {
+      "address": 106809571,
+      "size": 194,
+      "scope": "static"
+    },
+    "sub_65DC9A5": {
+      "address": 106809765,
+      "size": 87,
+      "scope": "static"
+    },
+    "sub_65DC9FC": {
+      "address": 106809852,
+      "size": 69,
+      "scope": "static"
+    },
+    "sub_65DCA41": {
+      "address": 106809921,
+      "size": 520,
+      "scope": "static"
+    },
+    "sub_65DCC49": {
+      "address": 106810441,
+      "size": 292,
+      "scope": "static"
+    },
+    "sub_65DCD6D": {
+      "address": 106810733,
+      "size": 169,
+      "scope": "static"
+    },
+    "__mtinitlocks": {
+      "address": 106810902,
+      "size": 41,
+      "scope": "static"
+    },
+    "__mtdeletelocks": {
+      "address": 106810943,
+      "size": 108,
+      "scope": "static"
+    },
+    "__lock": {
+      "address": 106811051,
+      "size": 97,
+      "scope": "static"
+    },
+    "__unlock": {
+      "address": 106811148,
+      "size": 21,
+      "scope": "static"
+    },
+    "sub_65DCF24": {
+      "address": 106811172,
+      "size": 8,
+      "scope": "static"
+    },
+    "__except_handler3": {
+      "address": 106811180,
+      "size": 189,
+      "scope": "static"
+    },
+    "__seh_longjmp_unwind@4": {
+      "address": 106811369,
+      "size": 27,
+      "scope": "static"
+    },
+    "_strcpy": {
+      "address": 106811408,
+      "size": 7,
+      "scope": "static"
+    },
+    "_strcat": {
+      "address": 106811424,
+      "size": 224,
+      "scope": "static"
+    },
+    "_strcmp": {
+      "address": 106811648,
+      "size": 132,
+      "scope": "static"
+    },
+    "?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z": {
+      "address": 106811780,
+      "size": 70,
+      "scope": "static"
+    },
+    "sub_65DD1CA": {
+      "address": 106811850,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_65DD1DB": {
+      "address": 106811867,
+      "size": 13,
+      "scope": "static"
+    },
+    "__callnewh": {
+      "address": 106811880,
+      "size": 27,
+      "scope": "static"
+    },
+    "?_ValidateRead@@YAHPBXI@Z": {
+      "address": 106811907,
+      "size": 28,
+      "scope": "static"
+    },
+    "?_ValidateWrite@@YAHPAXI@Z": {
+      "address": 106811935,
+      "size": 28,
+      "scope": "static"
+    },
+    "?_ValidateExecute@@YAHP6GHXZ@Z": {
+      "address": 106811963,
+      "size": 24,
+      "scope": "static"
+    },
+    "sub_65DD253": {
+      "address": 106811987,
+      "size": 317,
+      "scope": "static"
+    },
+    "__lseek": {
+      "address": 106812327,
+      "size": 101,
+      "scope": "static"
+    },
+    "__lseek_lk": {
+      "address": 106812428,
+      "size": 115,
+      "scope": "static"
+    },
+    "__write": {
+      "address": 106812543,
+      "size": 101,
+      "scope": "static"
+    },
+    "__write_lk": {
+      "address": 106812644,
+      "size": 395,
+      "scope": "static"
+    },
+    "__getbuf": {
+      "address": 106813039,
+      "size": 68,
+      "scope": "static"
+    },
+    "__isatty": {
+      "address": 106813107,
+      "size": 41,
+      "scope": "static"
+    },
+    "___initstdio": {
+      "address": 106813148,
+      "size": 168,
+      "scope": "static"
+    },
+    "___endstdio": {
+      "address": 106813316,
+      "size": 20,
+      "scope": "static"
+    },
+    "__lock_file": {
+      "address": 106813336,
+      "size": 47,
+      "scope": "static"
+    },
+    "__lock_file2": {
+      "address": 106813383,
+      "size": 35,
+      "scope": "static"
+    },
+    "__unlock_file": {
+      "address": 106813418,
+      "size": 47,
+      "scope": "static"
+    },
+    "__unlock_file2": {
+      "address": 106813465,
+      "size": 35,
+      "scope": "static"
+    },
+    "_wctomb": {
+      "address": 106813500,
+      "size": 89,
+      "scope": "static"
+    },
+    "__wctomb_lk": {
+      "address": 106813589,
+      "size": 105,
+      "scope": "static"
+    },
+    "__aulldiv": {
+      "address": 106813696,
+      "size": 104,
+      "scope": "static"
+    },
+    "__aullrem": {
+      "address": 106813808,
+      "size": 117,
+      "scope": "static"
+    },
+    "_mbtowc": {
+      "address": 106813925,
+      "size": 93,
+      "scope": "static"
+    },
+    "__mbtowc_lk": {
+      "address": 106814018,
+      "size": 201,
+      "scope": "static"
+    },
+    "_memset": {
+      "address": 106814224,
+      "size": 88,
+      "scope": "static"
+    },
+    "_isspace": {
+      "address": 106814312,
+      "size": 40,
+      "scope": "static"
+    },
+    "__isctype": {
+      "address": 106814352,
+      "size": 117,
+      "scope": "static"
+    },
+    "__allmul": {
+      "address": 106814480,
+      "size": 52,
+      "scope": "static"
+    },
+    "__allshl": {
+      "address": 106814544,
+      "size": 31,
+      "scope": "static"
+    },
+    "__filbuf": {
+      "address": 106814575,
+      "size": 220,
+      "scope": "static"
+    },
+    "_ungetc": {
+      "address": 106814795,
+      "size": 110,
+      "scope": "static"
+    },
+    "_atol": {
+      "address": 106814905,
+      "size": 139,
+      "scope": "static"
+    },
+    "_getenv": {
+      "address": 106815044,
+      "size": 125,
+      "scope": "static"
+    },
+    "__setmbcp": {
+      "address": 106815169,
+      "size": 429,
+      "scope": "static"
+    },
+    "_getSystemCP": {
+      "address": 106815598,
+      "size": 74,
+      "scope": "static"
+    },
+    "_CPtoLCID": {
+      "address": 106815672,
+      "size": 51,
+      "scope": "static"
+    },
+    "_setSBCS": {
+      "address": 106815723,
+      "size": 41,
+      "scope": "static"
+    },
+    "_setSBUpLow": {
+      "address": 106815764,
+      "size": 389,
+      "scope": "static"
+    },
+    "___initmbctable": {
+      "address": 106816153,
+      "size": 28,
+      "scope": "static"
+    },
+    "_strtol": {
+      "address": 106816181,
+      "size": 23,
+      "scope": "static"
+    },
+    "_strtoxl": {
+      "address": 106816204,
+      "size": 517,
+      "scope": "static"
+    },
+    "_strstr": {
+      "address": 106816736,
+      "size": 128,
+      "scope": "static"
+    },
+    "_strncmp": {
+      "address": 106816864,
+      "size": 56,
+      "scope": "static"
+    },
+    "__alloca_probe": {
+      "address": 106816928,
+      "size": 47,
+      "scope": "static"
+    },
+    "___crtMessageBoxA": {
+      "address": 106816975,
+      "size": 137,
+      "scope": "static"
+    },
+    "_raise": {
+      "address": 106817112,
+      "size": 386,
+      "scope": "static"
+    },
+    "_siglookup": {
+      "address": 106817498,
+      "size": 61,
+      "scope": "static"
+    },
+    "__dosmaperr": {
+      "address": 106817559,
+      "size": 115,
+      "scope": "static"
+    },
+    "__errno": {
+      "address": 106817674,
+      "size": 9,
+      "scope": "static"
+    },
+    "___doserrno": {
+      "address": 106817683,
+      "size": 9,
+      "scope": "static"
+    },
+    "__free_osfhnd": {
+      "address": 106817692,
+      "size": 127,
+      "scope": "static"
+    },
+    "__get_osfhandle": {
+      "address": 106817819,
+      "size": 66,
+      "scope": "static"
+    },
+    "__lock_fhandle": {
+      "address": 106817885,
+      "size": 95,
+      "scope": "static"
+    },
+    "__unlock_fhandle": {
+      "address": 106817980,
+      "size": 34,
+      "scope": "static"
+    },
+    "__fcloseall": {
+      "address": 106818014,
+      "size": 129,
+      "scope": "static"
+    },
+    "__fflush_lk": {
+      "address": 106818143,
+      "size": 46,
+      "scope": "static"
+    },
+    "__flush": {
+      "address": 106818189,
+      "size": 92,
+      "scope": "static"
+    },
+    "sub_65DEAE9": {
+      "address": 106818281,
+      "size": 9,
+      "scope": "static"
+    },
+    "_flsall": {
+      "address": 106818290,
+      "size": 164,
+      "scope": "static"
+    },
+    "__fptrap": {
+      "address": 106818454,
+      "size": 7,
+      "scope": "static"
+    },
+    "___crtGetStringTypeA": {
+      "address": 106818463,
+      "size": 329,
+      "scope": "static"
+    },
+    "__read": {
+      "address": 106818792,
+      "size": 101,
+      "scope": "static"
+    },
+    "__read_lk": {
+      "address": 106818893,
+      "size": 473,
+      "scope": "static"
+    },
+    "__mbsnbicoll": {
+      "address": 106819366,
+      "size": 63,
+      "scope": "static"
+    },
+    "___wtomb_environ": {
+      "address": 106819429,
+      "size": 110,
+      "scope": "static"
+    },
+    "___crtLCMapStringA": {
+      "address": 106819539,
+      "size": 548,
+      "scope": "static"
+    },
+    "_strncnt": {
+      "address": 106820087,
+      "size": 43,
+      "scope": "static"
+    },
+    "_toupper": {
+      "address": 106820130,
+      "size": 111,
+      "scope": "static"
+    },
+    "_toupper_0": {
+      "address": 106820241,
+      "size": 204,
+      "scope": "static"
+    },
+    "_fclose": {
+      "address": 106820445,
+      "size": 49,
+      "scope": "static"
+    },
+    "__fclose_lk": {
+      "address": 106820494,
+      "size": 76,
+      "scope": "static"
+    },
+    "__commit": {
+      "address": 106820570,
+      "size": 147,
+      "scope": "static"
+    },
+    "_strcspn": {
+      "address": 106820720,
+      "size": 62,
+      "scope": "static"
+    },
+    "_strpbrk": {
+      "address": 106820784,
+      "size": 58,
+      "scope": "static"
+    },
+    "___crtCompareStringA": {
+      "address": 106820842,
+      "size": 637,
+      "scope": "static"
+    },
+    "___crtsetenv": {
+      "address": 106821479,
+      "size": 391,
+      "scope": "static"
+    },
+    "_findenv": {
+      "address": 106821870,
+      "size": 88,
+      "scope": "static"
+    },
+    "_copy_environ": {
+      "address": 106821958,
+      "size": 103,
+      "scope": "static"
+    },
+    "__close": {
+      "address": 106822061,
+      "size": 93,
+      "scope": "static"
+    },
+    "__close_lk": {
+      "address": 106822154,
+      "size": 131,
+      "scope": "static"
+    },
+    "__freebuf": {
+      "address": 106822285,
+      "size": 43,
+      "scope": "static"
+    },
+    "__strcmpi": {
+      "address": 106822336,
+      "size": 208,
+      "scope": "static"
+    },
+    "__strnicmp": {
+      "address": 106822544,
+      "size": 257,
+      "scope": "static"
+    },
+    "__mbschr": {
+      "address": 106822801,
+      "size": 151,
+      "scope": "static"
+    },
+    "__strdup": {
+      "address": 106822952,
+      "size": 43,
+      "scope": "static"
+    },
+    "_tolower": {
+      "address": 106822995,
+      "size": 203,
+      "scope": "static"
+    },
+    "RtlUnwind": {
+      "address": 106823198,
+      "size": 6,
+      "scope": "static"
+    },
+    "sub_65DFE30": {
+      "address": 106823216,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D1000": {
+      "address": 106823227,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFE50": {
+      "address": 106823248,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFE5B": {
+      "address": 106823259,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFE66": {
+      "address": 106823270,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D10C0": {
+      "address": 106823281,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFE80": {
+      "address": 106823296,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_65DFE8E": {
+      "address": 106823310,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFE99": {
+      "address": 106823321,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D1470": {
+      "address": 106823332,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFEB0": {
+      "address": 106823344,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D1940": {
+      "address": 106823355,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFED0": {
+      "address": 106823376,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D1B70": {
+      "address": 106823387,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFEF0": {
+      "address": 106823408,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65DFEF8": {
+      "address": 106823416,
+      "size": 8,
+      "scope": "static"
+    },
+    "SEH_65D1D10": {
+      "address": 106823424,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFF10": {
+      "address": 106823440,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D26A0": {
+      "address": 106823451,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFF30": {
+      "address": 106823472,
+      "size": 17,
+      "scope": "static"
+    },
+    "SEH_65D2D00": {
+      "address": 106823489,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFF50": {
+      "address": 106823504,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFF5B": {
+      "address": 106823515,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFF66": {
+      "address": 106823526,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFF71": {
+      "address": 106823537,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65DFF7C": {
+      "address": 106823548,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D2F10": {
+      "address": 106823559,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFFA0": {
+      "address": 106823584,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65DFFA8": {
+      "address": 106823592,
+      "size": 17,
+      "scope": "static"
+    },
+    "SEH_65D3070": {
+      "address": 106823609,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65DFFD0": {
+      "address": 106823632,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65DFFD8": {
+      "address": 106823640,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65DFFE0": {
+      "address": 106823648,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65DFFE8": {
+      "address": 106823656,
+      "size": 8,
+      "scope": "static"
+    },
+    "SEH_65D3380": {
+      "address": 106823664,
+      "size": 10,
+      "scope": "static"
+    },
+    "SEH_65D4350": {
+      "address": 106823680,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0010": {
+      "address": 106823696,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_65E0021": {
+      "address": 106823713,
+      "size": 8,
+      "scope": "static"
+    },
+    "SEH_65D4B80": {
+      "address": 106823721,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0040": {
+      "address": 106823744,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D50B0": {
+      "address": 106823755,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0060": {
+      "address": 106823776,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D5220": {
+      "address": 106823787,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0080": {
+      "address": 106823808,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65E008B": {
+      "address": 106823819,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D5B50": {
+      "address": 106823830,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E00A0": {
+      "address": 106823840,
+      "size": 14,
+      "scope": "static"
+    },
+    "sub_65E00AE": {
+      "address": 106823854,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D5D50": {
+      "address": 106823865,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E00D0": {
+      "address": 106823888,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65E00D8": {
+      "address": 106823896,
+      "size": 8,
+      "scope": "static"
+    },
+    "SEH_65D6210": {
+      "address": 106823904,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E00F0": {
+      "address": 106823920,
+      "size": 8,
+      "scope": "static"
+    },
+    "SEH_65D6340": {
+      "address": 106823928,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0110": {
+      "address": 106823952,
+      "size": 17,
+      "scope": "static"
+    },
+    "SEH_65D6940": {
+      "address": 106823969,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0130": {
+      "address": 106823984,
+      "size": 17,
+      "scope": "static"
+    },
+    "sub_65E0141": {
+      "address": 106824001,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65E0149": {
+      "address": 106824009,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D6990": {
+      "address": 106824020,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0160": {
+      "address": 106824032,
+      "size": 11,
+      "scope": "static"
+    },
+    "sub_65E016B": {
+      "address": 106824043,
+      "size": 11,
+      "scope": "static"
+    },
+    "SEH_65D6A80": {
+      "address": 106824054,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0180": {
+      "address": 106824064,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65E0188": {
+      "address": 106824072,
+      "size": 10,
+      "scope": "static"
+    },
+    "sub_65E0194": {
+      "address": 106824084,
+      "size": 8,
+      "scope": "static"
+    },
+    "sub_65E019C": {
+      "address": 106824092,
+      "size": 10,
+      "scope": "static"
+    }
+  }
+}

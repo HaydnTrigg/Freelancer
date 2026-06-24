@@ -1,0 +1,2031 @@
+{
+  "delink_ida_version": 1,
+  "meta": {
+    "arch": "x86",
+    "procname": "metapc",
+    "bits": 32,
+    "endian": "little",
+    "image_base": 116850688,
+    "min_ea": 116854784,
+    "max_ea": 116871168,
+    "filetype": "PE",
+    "input_file": "E:\\Liberty\\EXE\\original\\x86math.dll"
+  },
+  "segments": [
+    {
+      "name": ".text",
+      "start": 116854784,
+      "end": 116862976,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": true,
+      "class": "CODE",
+      "bitness": 32
+    },
+    {
+      "name": ".idata",
+      "start": 116862976,
+      "end": 116863028,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": false,
+      "class": "XTRN",
+      "bitness": 32
+    },
+    {
+      "name": ".rdata",
+      "start": 116863028,
+      "end": 116867072,
+      "perm_r": true,
+      "perm_w": false,
+      "perm_x": false,
+      "class": "CONST",
+      "bitness": 32
+    },
+    {
+      "name": ".data",
+      "start": 116867072,
+      "end": 116871168,
+      "perm_r": true,
+      "perm_w": true,
+      "perm_x": false,
+      "class": "DATA",
+      "bitness": 32
+    }
+  ],
+  "functions": [
+    {
+      "start": 116854784,
+      "end": 116854794,
+      "name": "sub_6F71000",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116854800,
+      "end": 116854871,
+      "name": "sub_6F71010",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116854880,
+      "end": 116854892,
+      "name": "sub_6F71060",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116854896,
+      "end": 116854917,
+      "name": "sub_6F71070",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116854928,
+      "end": 116855117,
+      "name": "_DllMain@12",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116855120,
+      "end": 116855136,
+      "name": "x86MathEngine::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116855136,
+      "end": 116855144,
+      "name": "x86MathEngine::AddRef_Release",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116855152,
+      "end": 116855273,
+      "name": "x86MathEngine::IComponentFactory::CreateInstance",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116855280,
+      "end": 116855678,
+      "name": "sub_6F711F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116855680,
+      "end": 116856230,
+      "name": "sub_6F71380",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116856240,
+      "end": 116856341,
+      "name": "sub_6F715B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116856352,
+      "end": 116856421,
+      "name": "sub_6F71620",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116856432,
+      "end": 116856548,
+      "name": "sub_6F71670",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116856560,
+      "end": 116856878,
+      "name": "sub_6F716F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116856880,
+      "end": 116856967,
+      "name": "sub_6F71830",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116856976,
+      "end": 116857072,
+      "name": "sub_6F71890",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116857072,
+      "end": 116857159,
+      "name": "sub_6F718F0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116857168,
+      "end": 116857264,
+      "name": "sub_6F71950",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116857264,
+      "end": 116857575,
+      "name": "sub_6F719B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116857584,
+      "end": 116858194,
+      "name": "sub_6F71AF0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858208,
+      "end": 116858217,
+      "name": "sub_6F71D60",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858224,
+      "end": 116858234,
+      "name": "sub_6F71D70",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858240,
+      "end": 116858253,
+      "name": "sub_6F71D80",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858256,
+      "end": 116858266,
+      "name": "sub_6F71D90",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858272,
+      "end": 116858285,
+      "name": "sub_6F71DA0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858288,
+      "end": 116858304,
+      "name": "sub_6F71DB0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858304,
+      "end": 116858317,
+      "name": "sub_6F71DC0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858320,
+      "end": 116858336,
+      "name": "sub_6F71DD0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858336,
+      "end": 116858357,
+      "name": "sub_6F71DE0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858368,
+      "end": 116858377,
+      "name": "sub_6F71E00",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858384,
+      "end": 116858396,
+      "name": "sub_6F71E10",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858400,
+      "end": 116858415,
+      "name": "sub_6F71E20",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858416,
+      "end": 116858428,
+      "name": "sub_6F71E30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858432,
+      "end": 116858447,
+      "name": "sub_6F71E40",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858448,
+      "end": 116858466,
+      "name": "sub_6F71E50",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858480,
+      "end": 116858495,
+      "name": "sub_6F71E70",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858496,
+      "end": 116858514,
+      "name": "sub_6F71E80",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858528,
+      "end": 116858551,
+      "name": "sub_6F71EA0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858560,
+      "end": 116858571,
+      "name": "sub_6F71EC0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858576,
+      "end": 116858590,
+      "name": "sub_6F71ED0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858592,
+      "end": 116858611,
+      "name": "sub_6F71EE0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858624,
+      "end": 116858638,
+      "name": "sub_6F71F00",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858640,
+      "end": 116858657,
+      "name": "sub_6F71F10",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858672,
+      "end": 116858694,
+      "name": "sub_6F71F30",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858704,
+      "end": 116858723,
+      "name": "sub_6F71F50",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858736,
+      "end": 116858758,
+      "name": "sub_6F71F70",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858768,
+      "end": 116858795,
+      "name": "sub_6F71F90",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116858800,
+      "end": 116859213,
+      "name": "sub_6F71FB0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116859216,
+      "end": 116859321,
+      "name": "sub_6F72150",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116859328,
+      "end": 116859534,
+      "name": "sub_6F721C0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116859536,
+      "end": 116859828,
+      "name": "sub_6F72290",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116859840,
+      "end": 116860103,
+      "name": "sub_6F723C0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116860112,
+      "end": 116860366,
+      "name": "sub_6F724D0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116860368,
+      "end": 116860700,
+      "name": "sub_6F725D0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116860704,
+      "end": 116860729,
+      "name": "sub_6F72720",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116860736,
+      "end": 116860976,
+      "name": "sub_6F72740",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116860976,
+      "end": 116861101,
+      "name": "sub_6F72830",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861104,
+      "end": 116861233,
+      "name": "sub_6F728B0",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861248,
+      "end": 116861258,
+      "name": "x86MathEngine::IComponentFactory::QueryInterface",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861264,
+      "end": 116861274,
+      "name": "x86MathEngine::IComponentFactory::AddRef_Release",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861280,
+      "end": 116861324,
+      "name": "__onexit",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861324,
+      "end": 116861342,
+      "name": "_atexit",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861342,
+      "end": 116861348,
+      "name": "??2@YAPAXI@Z",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861348,
+      "end": 116861519,
+      "name": "__CRT_INIT@12",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861519,
+      "end": 116861676,
+      "name": "DllEntryPoint",
+      "thunk": false,
+      "lib": false,
+      "static": false,
+      "public": true,
+      "thunk_target": null
+    },
+    {
+      "start": 116861676,
+      "end": 116861682,
+      "name": "__dllonexit",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    },
+    {
+      "start": 116861682,
+      "end": 116861688,
+      "name": "_initterm",
+      "thunk": true,
+      "lib": false,
+      "static": false,
+      "public": false,
+      "thunk_target": null
+    }
+  ],
+  "names": [
+    {
+      "addr": 116854928,
+      "name": "_DllMain@12",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116855120,
+      "name": "x86MathEngine::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116855136,
+      "name": "x86MathEngine::AddRef_Release",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116855152,
+      "name": "x86MathEngine::IComponentFactory::CreateInstance",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861248,
+      "name": "x86MathEngine::IComponentFactory::QueryInterface",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861264,
+      "name": "x86MathEngine::IComponentFactory::AddRef_Release",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861280,
+      "name": "__onexit",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861324,
+      "name": "_atexit",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861342,
+      "name": "??2@YAPAXI@Z",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861348,
+      "name": "__CRT_INIT@12",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861519,
+      "name": "DllEntryPoint",
+      "public": true,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861676,
+      "name": "__dllonexit",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116861682,
+      "name": "_initterm",
+      "public": false,
+      "weak": false,
+      "is_func": true
+    },
+    {
+      "addr": 116862976,
+      "name": "stricmp",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116862980,
+      "name": "DACOM_Acquire",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116862988,
+      "name": "DisableThreadLibraryCalls",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116862996,
+      "name": "__imp_??2@YAPAXI@Z",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863000,
+      "name": "__imp___dllonexit",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863004,
+      "name": "_onexit",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863008,
+      "name": "free",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863012,
+      "name": "__imp__initterm",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863016,
+      "name": "malloc",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863020,
+      "name": "_adjust_fdiv",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863072,
+      "name": "implementation_name",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863104,
+      "name": "DAComponent_x86MathEngine_IComponentFactory_vtbl",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863120,
+      "name": "DAComponent_x86MathEngine_I3DMathEngine_vtbl",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863244,
+      "name": "__IMPORT_DESCRIPTOR_DACOM",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863264,
+      "name": "__IMPORT_DESCRIPTOR_KERNEL32",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863284,
+      "name": "__IMPORT_DESCRIPTOR_MSVCRT",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863402,
+      "name": "aDacomDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863440,
+      "name": "aKernel32Dll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863494,
+      "name": "aMsvcrtDll",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863552,
+      "name": "aNb10",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116863568,
+      "name": "aCWorkBuildsDal",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116867072,
+      "name": "First",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116867080,
+      "name": "Last",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116867104,
+      "name": "IID_I3DMathEngine",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116868152,
+      "name": "pMathEngine",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    },
+    {
+      "addr": 116868172,
+      "name": "Block",
+      "public": false,
+      "weak": false,
+      "is_func": false
+    }
+  ],
+  "relocations": [
+    {
+      "addr": 116854825,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863096
+    },
+    {
+      "addr": 116854848,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867120
+    },
+    {
+      "addr": 116854862,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867632
+    },
+    {
+      "addr": 116854881,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116854896
+    },
+    {
+      "addr": 116854898,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868144
+    },
+    {
+      "addr": 116854912,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868144
+    },
+    {
+      "addr": 116854946,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116862988
+    },
+    {
+      "addr": 116854966,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863120
+    },
+    {
+      "addr": 116854973,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863104
+    },
+    {
+      "addr": 116854999,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863096
+    },
+    {
+      "addr": 116855022,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867120
+    },
+    {
+      "addr": 116855037,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867632
+    },
+    {
+      "addr": 116855043,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868152
+    },
+    {
+      "addr": 116855049,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116862980
+    },
+    {
+      "addr": 116855059,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868152
+    },
+    {
+      "addr": 116855074,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868152
+    },
+    {
+      "addr": 116855100,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867104
+    },
+    {
+      "addr": 116855186,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867104
+    },
+    {
+      "addr": 116855210,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863072
+    },
+    {
+      "addr": 116855216,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116862976
+    },
+    {
+      "addr": 116855302,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863076
+    },
+    {
+      "addr": 116855325,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116855746,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863076
+    },
+    {
+      "addr": 116855761,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116855773,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116857588,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116857599,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116857619,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116857638,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858208
+    },
+    {
+      "addr": 116857662,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858224
+    },
+    {
+      "addr": 116857677,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858240
+    },
+    {
+      "addr": 116857711,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858256
+    },
+    {
+      "addr": 116857731,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858272
+    },
+    {
+      "addr": 116857746,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858288
+    },
+    {
+      "addr": 116857766,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858304
+    },
+    {
+      "addr": 116857786,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858320
+    },
+    {
+      "addr": 116857801,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858336
+    },
+    {
+      "addr": 116857826,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116857851,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858368
+    },
+    {
+      "addr": 116857871,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858384
+    },
+    {
+      "addr": 116857886,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858400
+    },
+    {
+      "addr": 116857913,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858416
+    },
+    {
+      "addr": 116857933,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858432
+    },
+    {
+      "addr": 116857948,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858448
+    },
+    {
+      "addr": 116857968,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858480
+    },
+    {
+      "addr": 116857988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858496
+    },
+    {
+      "addr": 116858003,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858528
+    },
+    {
+      "addr": 116858030,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858560
+    },
+    {
+      "addr": 116858050,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858576
+    },
+    {
+      "addr": 116858065,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858592
+    },
+    {
+      "addr": 116858092,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858624
+    },
+    {
+      "addr": 116858112,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858640
+    },
+    {
+      "addr": 116858127,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858672
+    },
+    {
+      "addr": 116858147,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858704
+    },
+    {
+      "addr": 116858167,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858736
+    },
+    {
+      "addr": 116858182,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858768
+    },
+    {
+      "addr": 116858210,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116858813,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116858829,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116858845,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116859550,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116859565,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116859577,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116859587,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116859682,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863080
+    },
+    {
+      "addr": 116859692,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863080
+    },
+    {
+      "addr": 116859737,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116859745,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116859757,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116859882,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863236
+    },
+    {
+      "addr": 116860003,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116860042,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116860086,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116860150,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863228
+    },
+    {
+      "addr": 116860329,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863224
+    },
+    {
+      "addr": 116861024,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867120
+    },
+    {
+      "addr": 116861057,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863240
+    },
+    {
+      "addr": 116861067,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116861081,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863240
+    },
+    {
+      "addr": 116861089,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116861152,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867120
+    },
+    {
+      "addr": 116861185,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863240
+    },
+    {
+      "addr": 116861195,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116861209,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863240
+    },
+    {
+      "addr": 116861217,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863232
+    },
+    {
+      "addr": 116861282,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861295,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863004
+    },
+    {
+      "addr": 116861302,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868168
+    },
+    {
+      "addr": 116861307,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861344,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116862996
+    },
+    {
+      "addr": 116861358,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868156
+    },
+    {
+      "addr": 116861366,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868156
+    },
+    {
+      "addr": 116861372,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863020
+    },
+    {
+      "addr": 116861383,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868160
+    },
+    {
+      "addr": 116861396,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863016
+    },
+    {
+      "addr": 116861404,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861418,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861423,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867080
+    },
+    {
+      "addr": 116861428,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116867072
+    },
+    {
+      "addr": 116861433,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868168
+    },
+    {
+      "addr": 116861444,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868156
+    },
+    {
+      "addr": 116861457,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861467,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868168
+    },
+    {
+      "addr": 116861488,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861500,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863008
+    },
+    {
+      "addr": 116861506,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868172
+    },
+    {
+      "addr": 116861540,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868156
+    },
+    {
+      "addr": 116861558,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868164
+    },
+    {
+      "addr": 116861650,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116868164
+    },
+    {
+      "addr": 116861678,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863000
+    },
+    {
+      "addr": 116861684,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116863012
+    },
+    {
+      "addr": 116862976,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116862980,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116862988,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116862996,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863000,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863004,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863008,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863012,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863016,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863020,
+      "type": "OFF32",
+      "size": 4,
+      "target": 4294967295
+    },
+    {
+      "addr": 116863104,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116861248
+    },
+    {
+      "addr": 116863108,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116861264
+    },
+    {
+      "addr": 116863112,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116861264
+    },
+    {
+      "addr": 116863116,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116855152
+    },
+    {
+      "addr": 116863120,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116855120
+    },
+    {
+      "addr": 116863124,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116855136
+    },
+    {
+      "addr": 116863128,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116855136
+    },
+    {
+      "addr": 116863132,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116855280
+    },
+    {
+      "addr": 116863136,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856240
+    },
+    {
+      "addr": 116863140,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856352
+    },
+    {
+      "addr": 116863144,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116860736
+    },
+    {
+      "addr": 116863148,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856560
+    },
+    {
+      "addr": 116863152,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856432
+    },
+    {
+      "addr": 116863156,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116860368
+    },
+    {
+      "addr": 116863160,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856976
+    },
+    {
+      "addr": 116863164,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856880
+    },
+    {
+      "addr": 116863168,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116856880
+    },
+    {
+      "addr": 116863172,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116857072
+    },
+    {
+      "addr": 116863176,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116857072
+    },
+    {
+      "addr": 116863180,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116857168
+    },
+    {
+      "addr": 116863184,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116858800
+    },
+    {
+      "addr": 116863188,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116857264
+    },
+    {
+      "addr": 116863192,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116859216
+    },
+    {
+      "addr": 116863196,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116859328
+    },
+    {
+      "addr": 116863200,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116859536
+    },
+    {
+      "addr": 116863204,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116859840
+    },
+    {
+      "addr": 116863208,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116860112
+    },
+    {
+      "addr": 116863212,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116855680
+    },
+    {
+      "addr": 116863216,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116860976
+    },
+    {
+      "addr": 116863220,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116861104
+    },
+    {
+      "addr": 116863244,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12636
+    },
+    {
+      "addr": 116863256,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12714
+    },
+    {
+      "addr": 116863260,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12288
+    },
+    {
+      "addr": 116863264,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12648
+    },
+    {
+      "addr": 116863276,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12752
+    },
+    {
+      "addr": 116863280,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12300
+    },
+    {
+      "addr": 116863284,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12656
+    },
+    {
+      "addr": 116863296,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12806
+    },
+    {
+      "addr": 116863300,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12308
+    },
+    {
+      "addr": 116863324,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12704
+    },
+    {
+      "addr": 116863328,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12688
+    },
+    {
+      "addr": 116863336,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12724
+    },
+    {
+      "addr": 116863344,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12766
+    },
+    {
+      "addr": 116863348,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12782
+    },
+    {
+      "addr": 116863352,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12796
+    },
+    {
+      "addr": 116863356,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12818
+    },
+    {
+      "addr": 116863360,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12826
+    },
+    {
+      "addr": 116863364,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12838
+    },
+    {
+      "addr": 116863368,
+      "type": "OFF32",
+      "size": 4,
+      "target": 12848
+    },
+    {
+      "addr": 116867076,
+      "type": "OFF32",
+      "size": 4,
+      "target": 116854784
+    }
+  ]
+}
