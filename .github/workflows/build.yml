@@ -1,0 +1,123 @@
+name: Build
+
+on:
+  pull_request:
+    paths-ignore:
+      - "*.md"
+    types: [opened, synchronize, reopened]
+  push:
+    paths-ignore:
+      - "*.md"
+  workflow_dispatch:
+
+jobs:
+  matching:
+    name: Matching
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        version: [052103_release_1149_Ipatch_ver1254]
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+
+      # Run bootstrap.py
+      - name: Bootstrap
+        shell: cmd
+        run: bootstrap.bat --config-id ${{ matrix.version }}
+
+      # Run Ninja
+      - name: Ninja Build
+        run: ninja -k 0
+
+      - name: Objdiff Report
+        run: build/tools/objdiff-cli-windows-x86_64.exe report generate -f json-pretty -o build/${{ matrix.version }}/report.json
+
+      # Upload progress report
+      - name: Upload Report
+        uses: actions/upload-artifact@v7
+        with:
+          name: ${{ matrix.version }}_report
+          path: build/${{ matrix.version }}/report.json
+
+  publish-reports:
+    name: Publish Reports
+    runs-on: windows-latest
+    needs: [matching]
+    if: (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/ci-testing') && github.event_name == 'push'
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+        with:
+          ref: workflow-reports
+          token: ${{ github.token }}
+          path: Freelancer-Reports
+
+      - name: Download 052103_release_1149_Ipatch_ver1254 Report
+        uses: actions/download-artifact@v8
+        with:
+          name: 052103_release_1149_Ipatch_ver1254_report
+          path: 052103_release_1149_Ipatch_ver1254_report
+
+      - name: Publish Report
+        shell: powershell
+        env:
+          COMMIT_TITLE: ${{ github.event.head_commit.message }}
+          COMMIT_SHA: ${{ github.sha }}
+        run: |
+          $sha = $env:COMMIT_SHA
+
+          # $reportDir = "Freelancer-Reports\$sha"
+          $reportDir = "Freelancer-Reports"
+          New-Item -ItemType Directory -Path $reportDir -Force
+
+          $imagesDir = "Freelancer-Reports\images"
+          New-Item -ItemType Directory -Path $imagesDir -Force
+
+          $configs = @("052103_release_1149_Ipatch_ver1254")
+
+          function Get-BadgeColor($pct) {
+            if ($pct -lt 25) { return "red" }
+            elseif ($pct -lt 50) { return "orange" }
+            elseif ($pct -lt 75) { return "yellow" }
+            else { return "brightgreen" }
+          }
+
+          foreach ($config in $configs) {
+            Copy-Item "${config}_report\report.json" "${reportDir}\${config}-report.json"
+
+            $report = Get-Content "${config}_report\report.json" | ConvertFrom-Json
+
+            $measures = $report.measures
+            $percent = if ($measures.PSObject.Properties['matched_functions_percent']) { [math]::Round($measures.matched_functions_percent, 2) } else { 0 }
+            $percentEncoded = [Uri]::EscapeDataString("$percent%")
+            $badgeUrl = "https://img.shields.io/badge/Matching-$percentEncoded-$(Get-BadgeColor $percent)"
+            Invoke-WebRequest -Uri $badgeUrl -OutFile "${imagesDir}\${config}-objdiff-matching.svg"
+
+            foreach ($category in $report.categories) {
+              $catMeasures = $category.measures
+              $catPercent = if ($catMeasures.PSObject.Properties['matched_functions_percent']) { [math]::Round($catMeasures.matched_functions_percent, 2) } else { 0 }
+              $catPercentEncoded = [Uri]::EscapeDataString("$catPercent%")
+              $catLabel = [Uri]::EscapeDataString($category.name)
+              $catBadgeUrl = "https://img.shields.io/badge/$catLabel-$catPercentEncoded-$(Get-BadgeColor $catPercent)"
+              Invoke-WebRequest -Uri $catBadgeUrl -OutFile "${imagesDir}\${config}-objdiff-$($category.id).svg"
+            }
+          }
+
+          Set-Location Freelancer-Reports
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          $sourceUrl = "https://github.com/HaydnTrigg/Freelancer/tree/$sha"
+          "$($env:COMMIT_TITLE)`n`n$sourceUrl" | Set-Content -Path "..\commit_msg.txt" -Encoding utf8
+
+          git add .
+          git commit -F ..\commit_msg.txt
+          # git tag -f workflow-reports-latest
+          git push origin workflow-reports
+          # git push origin refs/tags/workflow-reports-latest --force
