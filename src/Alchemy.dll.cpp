@@ -2,12 +2,16 @@
 typedef int(__cdecl *FDUMP_fn)(int, const char *, const char *, int, const char *);
 FDUMP_fn *FDUMP;
 
+char byte_6255060;
+char byte_6255061;
 int dword_6255064;
 float flt_6257880[12];
 int dword_62578B0;
 
 int dword_62578B4[12];
 
+int (__cdecl *dword_6257910)(int, int);
+void (__cdecl *dword_6257914)(int, int, int);
 int dword_625791C;
 int dword_6257BC0;
 int dword_6257BC4;
@@ -330,3 +334,107 @@ extern "C" int __fastcall sub_6201CC0(int thisptr)
 
 // TODO: sub_6201E00 (0x6201E00, 144 bytes) - scene-graph operation. Blocked: MSVC custom
 // calling convention (args in ebp + esi). Not expressible in C/C++.
+
+// TODO: sub_6201E90 (0x6201E90, 61 bytes) - node visitor. Blocked: MSVC custom calling
+// convention (arg in ebp). Not expressible in C/C++.
+
+extern "C" int __stdcall sub_6201ED0(int a1, int a2, int a3)
+{
+    int v3 = 0;
+    if (dword_6257910)
+        v3 = dword_6257910(a2, a3);
+    return (*(int(__stdcall **)(int, int, int))(*(int *)a1 + 80))(a1, v3, a3);
+}
+
+// TODO: sub_6201F00 (0x6201F00, 183 bytes) - recursive node visitor. Blocked: MSVC custom
+// calling convention (args in ebp + edi). Not expressible in C/C++.
+
+extern "C" int __fastcall sub_6201FC0(void *thisptr, int edx_, unsigned int a2)
+{
+    int *v2 = (int *)a2;
+    (*(void(__stdcall **)(unsigned int, unsigned int *))(*(int *)a2 + 32))(a2, &a2);
+    int v4 = *v2;
+    a2 |= 0x80000000;
+    (*(void(__stdcall **)(int *, unsigned int))(v4 + 36))(v2, a2);
+    if (dword_6257914)
+        dword_6257914(0, (int)v2, 0);
+    return (*(int(__stdcall **)(void *, int *))(*(int *)thisptr + 88))(thisptr, v2);
+}
+
+extern "C" int __stdcall sub_6202010(int a1, int *a2)
+{
+    int *v2 = a2;
+    int v3 = a1;
+    (*(void(__stdcall **)(int, int *))(*(int *)a1 + 96))(a1, a2);
+    (*(void(__stdcall **)(int *, int *))(*v2 + 32))(v2, &a1);
+    int v4 = *v2;
+    a1 |= 0x80000000;
+    (*(void(__stdcall **)(int *, int))(v4 + 36))(v2, a1);
+    if (dword_6257914)
+        dword_6257914(0, (int)v2, 0);
+    (*(void(__stdcall **)(int, int *))(*(int *)v3 + 88))(v3, v2);
+    return 0;
+}
+
+// TODO: sub_6202070 (0x6202070, 108 bytes) - recursive scene-graph teardown. Blocked:
+// MSVC custom calling convention (args in ecx + edi). Not expressible in C/C++.
+
+// TODO: sub_62020E0 (0x62020E0, 120 bytes) - scene-graph teardown driver. Blocked: calls
+// the register-convention sub_6202070 with edi live across the call (edi-coupled).
+
+extern "C" int __stdcall sub_6202160(int a1, int *a2)
+{
+    *a2 = dword_62578B0;
+    (*(void(__stdcall **)(int))(*(int *)dword_62578B0 + 4))(dword_62578B0);
+    return 0;
+}
+
+extern "C" int __stdcall sub_6202180(int a1, int i_4, int *a3, int i_3)
+{
+    int i = i_3;
+    if (!i_3)
+        i = dword_62578B0;
+    int i_1 = i;
+    while (i_1)
+    {
+        int t;
+        (*(void(__stdcall **)(int, int *))(*(int *)i_1 + 116))(i_1, &t);
+        if (i_4 == t)
+        {
+            *a3 = i_1;
+            return 0;
+        }
+        if ((*(int(__stdcall **)(int))(*(int *)i_1 + 44))(i_1))
+        {
+            i_1 = (*(int(__stdcall **)(int))(*(int *)i_1 + 44))(i_1);
+        }
+        else if (i_1 == i)
+        {
+            i_1 = 0;
+        }
+        else if ((*(int(__stdcall **)(int))(*(int *)i_1 + 52))(i_1))
+        {
+            i_1 = (*(int(__stdcall **)(int))(*(int *)i_1 + 52))(i_1);
+        }
+        else
+        {
+            int i_2 = (*(int(__stdcall **)(int))(*(int *)i_1 + 40))(i_1);
+            i_1 = 0;
+            while (i_2 != i)
+            {
+                i_1 = (*(int(__stdcall **)(int))(*(int *)i_2 + 52))(i_2);
+                i_2 = (*(int(__stdcall **)(int))(*(int *)i_2 + 40))(i_2);
+                if (i_1)
+                    break;
+            }
+        }
+    }
+    return -8;
+}
+
+extern "C" int __stdcall sub_6202230(int a1, char *a2)
+{
+    byte_6255060 = *a2 != 0;
+    byte_6255061 = a2[1] != 0;
+    return 0;
+}

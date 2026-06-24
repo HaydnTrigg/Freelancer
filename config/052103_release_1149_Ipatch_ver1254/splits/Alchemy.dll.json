@@ -115,7 +115,7 @@
       "size": 61,
       "scope": "static"
     },
-    "sub_6201ED0": {
+    "_sub_6201ED0@12": {
       "address": 102768336,
       "size": 44,
       "scope": "static"
@@ -125,12 +125,12 @@
       "size": 183,
       "scope": "static"
     },
-    "sub_6201FC0": {
+    "@sub_6201FC0@12": {
       "address": 102768576,
       "size": 70,
       "scope": "static"
     },
-    "sub_6202010": {
+    "_sub_6202010@8": {
       "address": 102768656,
       "size": 81,
       "scope": "static"
@@ -145,17 +145,17 @@
       "size": 120,
       "scope": "static"
     },
-    "sub_6202160": {
+    "_sub_6202160@8": {
       "address": 102768992,
       "size": 25,
       "scope": "static"
     },
-    "sub_6202180": {
+    "_sub_6202180@16": {
       "address": 102769024,
       "size": 167,
       "scope": "static"
     },
-    "sub_6202230": {
+    "_sub_6202230@8": {
       "address": 102769200,
       "size": 35,
       "scope": "static"
