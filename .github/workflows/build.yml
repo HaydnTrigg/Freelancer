@@ -98,14 +98,14 @@ jobs:
             $report = Get-Content "${config}_report\report.json" | ConvertFrom-Json
 
             $measures = $report.measures
-            $percent = if ($measures.PSObject.Properties['matched_functions_percent']) { [math]::Round($measures.matched_functions_percent, 2) } else { 0 }
+            $percent = if ($measures.PSObject.Properties['matched_code_percent']) { [math]::Round($measures.matched_code_percent, 2) } else { 0 }
             $percentEncoded = [Uri]::EscapeDataString("$percent%")
             $badgeUrl = "https://img.shields.io/badge/Matching-$percentEncoded-$(Get-BadgeColor $percent)"
             Invoke-WebRequest -Uri $badgeUrl -OutFile "${imagesDir}\${config}-objdiff-matching.svg"
 
             foreach ($category in $report.categories) {
               $catMeasures = $category.measures
-              $catPercent = if ($catMeasures.PSObject.Properties['matched_functions_percent']) { [math]::Round($catMeasures.matched_functions_percent, 2) } else { 0 }
+              $catPercent = if ($catMeasures.PSObject.Properties['matched_code_percent']) { [math]::Round($catMeasures.matched_code_percent, 2) } else { 0 }
               $catPercentEncoded = [Uri]::EscapeDataString("$catPercent%")
               $catLabel = [Uri]::EscapeDataString($category.name)
               $catBadgeUrl = "https://img.shields.io/badge/$catLabel-$catPercentEncoded-$(Get-BadgeColor $catPercent)"
