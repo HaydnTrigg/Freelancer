@@ -170,7 +170,43 @@ MsgIter DebugServer::EraseMessage(MsgNode *node)
 // sub_65D1210 : bind + listen the server socket (__stdcall virtual, slot 3).
 extern "C" int __stdcall sub_65D1210(DebugServer *self, u_short port, int maxConn)
 {
-    if (((char *)self)[8] != (char)0)
-        ; // placeholder removed below
+    if (self->sock != INVALID_SOCKET)
+        return -1;
+
+    if (maxConn > 0 && maxConn <= 256)
+        self->maxConn = maxConn;
+    self->port = port;
+
+    self->sock = socket(2, 1, 6);
+    if (self->sock == INVALID_SOCKET)
+    {
+        sub_65D1330();
+        return -1;
+    }
+
+    int optval = 1;
+    if (setsockopt(self->sock, 6, 4, (const char *)&optval, 4) == -1)
+        sub_65D1330();
+
+    struct sockaddr name;
+    memset(&name, 0, sizeof(name));
+    name.sa_family = 2;
+    *(u_short *)&name.sa_data[0] = htons((u_short)self->port);
+    *(u_long *)&name.sa_data[2] = 0;
+
+    if (bind(self->sock, &name, 16) == -1)
+    {
+        sub_65D1330();
+        closesocket(self->sock);
+        self->sock = INVALID_SOCKET;
+        return -1;
+    }
+    if (listen(self->sock, 5) == -1)
+    {
+        sub_65D1330();
+        closesocket(self->sock);
+        self->sock = INVALID_SOCKET;
+        return -1;
+    }
     return 0;
 }

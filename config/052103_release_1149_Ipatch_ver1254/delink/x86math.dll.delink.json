@@ -57,7 +57,7 @@
     {
       "start": 116854784,
       "end": 116854794,
-      "name": "sub_6F71000",
+      "name": "_sub_6F71000",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -67,7 +67,7 @@
     {
       "start": 116854800,
       "end": 116854871,
-      "name": "sub_6F71010",
+      "name": "_sub_6F71010",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -77,7 +77,7 @@
     {
       "start": 116854880,
       "end": 116854892,
-      "name": "sub_6F71060",
+      "name": "_sub_6F71060",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -87,7 +87,7 @@
     {
       "start": 116854896,
       "end": 116854917,
-      "name": "sub_6F71070",
+      "name": "_sub_6F71070",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -107,7 +107,7 @@
     {
       "start": 116855120,
       "end": 116855136,
-      "name": "x86MathEngine::QueryInterface",
+      "name": "_x86MathEngine_QueryInterface@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -117,7 +117,7 @@
     {
       "start": 116855136,
       "end": 116855144,
-      "name": "x86MathEngine::AddRef_Release",
+      "name": "_x86MathEngine_AddRef_Release@4",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -127,7 +127,7 @@
     {
       "start": 116855152,
       "end": 116855273,
-      "name": "x86MathEngine::IComponentFactory::CreateInstance",
+      "name": "_x86MathEngine_CreateInstance@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -137,7 +137,7 @@
     {
       "start": 116855280,
       "end": 116855678,
-      "name": "sub_6F711F0",
+      "name": "_sub_6F711F0@12",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -147,7 +147,7 @@
     {
       "start": 116855680,
       "end": 116856230,
-      "name": "sub_6F71380",
+      "name": "_sub_6F71380@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -157,7 +157,7 @@
     {
       "start": 116856240,
       "end": 116856341,
-      "name": "sub_6F715B0",
+      "name": "_sub_6F715B0@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -167,7 +167,7 @@
     {
       "start": 116856352,
       "end": 116856421,
-      "name": "sub_6F71620",
+      "name": "_sub_6F71620@8",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -177,7 +177,7 @@
     {
       "start": 116856432,
       "end": 116856548,
-      "name": "sub_6F71670",
+      "name": "_sub_6F71670@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -187,7 +187,7 @@
     {
       "start": 116856560,
       "end": 116856878,
-      "name": "sub_6F716F0",
+      "name": "_sub_6F716F0@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -197,7 +197,7 @@
     {
       "start": 116856880,
       "end": 116856967,
-      "name": "sub_6F71830",
+      "name": "_sub_6F71830@16",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -637,7 +637,7 @@
     {
       "start": 116861248,
       "end": 116861258,
-      "name": "x86MathEngine::IComponentFactory::QueryInterface",
+      "name": "_x86MathEngine_IComponentFactory_QueryInterface",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -647,7 +647,7 @@
     {
       "start": 116861264,
       "end": 116861274,
-      "name": "x86MathEngine::IComponentFactory::AddRef_Release",
+      "name": "_x86MathEngine_IComponentFactory_AddRef_Release",
       "thunk": false,
       "lib": false,
       "static": false,

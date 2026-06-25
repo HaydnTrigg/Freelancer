@@ -28,7 +28,7 @@ typedef float SINGLE;
 
 // This is an arbitrarily small constant used to circumvent matrix inversions
 // that might overflow due to small determinants.
-#define MIN_DET 1e-8f
+static const SINGLE MIN_DET = 1e-8f;
 
 // ---------------------------------------------------------------------------
 // Math types (layouts taken from the disassembly)
@@ -123,16 +123,20 @@ void          *pMathEngine;
 
 // Forward declarations (single source file, target address order)
 extern "C" void sub_6F71010(void);
-extern "C" int  sub_6F71060(void);
+extern "C" void sub_6F71060(void);
 extern "C" void __cdecl sub_6F71070(void);
+
+// The inv_sqrt_obj dynamic initializer keeps the constructor / atexit thunks as
+// out-of-line calls; keep the optimizer from auto-inlining them together.
+#pragma auto_inline(off)
 
 // ---------------------------------------------------------------------------
 // 0x6F71000 - dynamic initializer for inv_sqrt_obj
 // ---------------------------------------------------------------------------
-extern "C" int sub_6F71000(void)
+extern "C" void sub_6F71000(void)
 {
     sub_6F71010();
-    return sub_6F71060();
+    sub_6F71060();
 }
 
 // ---------------------------------------------------------------------------
@@ -155,9 +159,9 @@ extern "C" void sub_6F71010(void)
 // ---------------------------------------------------------------------------
 // 0x6F71060 - register inv_sqrt_obj destructor with atexit
 // ---------------------------------------------------------------------------
-extern "C" int sub_6F71060(void)
+extern "C" void sub_6F71060(void)
 {
-    return atexit(sub_6F71070);
+    atexit(sub_6F71070);
 }
 
 // ---------------------------------------------------------------------------
@@ -169,46 +173,50 @@ extern "C" void __cdecl sub_6F71070(void)
         byte_6F74430 |= 1;
 }
 
+#pragma auto_inline(on)
+
 // ---------------------------------------------------------------------------
 // 0x6F71090 - DllMain
 // ---------------------------------------------------------------------------
 extern "C" int __stdcall DllMain(void *hinstDLL, unsigned int fdwReason, void *lpvReserved)
 {
-    if (fdwReason == 1)
+    switch (fdwReason)
     {
-        DisableThreadLibraryCalls(hinstDLL);
-
-        void *self = ::operator new(8u);
-        if (self == 0)
+    case 1: // DLL_PROCESS_ATTACH
         {
-            pMathEngine = 0;
-            return 1;
-        }
+            DisableThreadLibraryCalls(hinstDLL);
 
-        ((void **)self)[0] = (void *)DAComponent_x86MathEngine_I3DMathEngine_vtbl;
-        ((void **)self)[1] = (void *)DAComponent_x86MathEngine_IComponentFactory_vtbl;
-
-        {
-            int f;
-            union _flint fi, fo;
-            for (f = 0; f < TABLE_SIZE; f++)
+            void *self = ::operator new(8u);
+            if (self)
             {
-                fi.i = ((EXP_BIAS - 1) << EXP_POS) | (f << LOOKUP_POS);
-                fo.f = 1.0f / sqrt(fi.f);
-                byte_6F74030[f] = (unsigned char)(((fo.i + (1 << (SEED_POS - 2))) >> SEED_POS) & 0xFF);
+                ((void **)self)[0] = (void *)DAComponent_x86MathEngine_I3DMathEngine_vtbl;
+                ((void **)self)[1] = (void *)DAComponent_x86MathEngine_IComponentFactory_vtbl;
+
+                int f;
+                union _flint fi, fo;
+                for (f = 0; f < TABLE_SIZE; f++)
+                {
+                    fi.i = ((EXP_BIAS - 1) << EXP_POS) | (f << LOOKUP_POS);
+                    fo.f = 1.0f / sqrt(fi.f);
+                    byte_6F74030[f] = (unsigned char)(((fo.i + (1 << (SEED_POS - 2))) >> SEED_POS) & 0xFF);
+                }
+                byte_6F74030[TABLE_SIZE / 2] = 0xFF;
             }
-            byte_6F74030[TABLE_SIZE / 2] = 0xFF;
-        }
 
-        pMathEngine = self;
+            pMathEngine = self;
 
-        ICOManager *DACOM = DACOM_Acquire();
-        if (DACOM != 0)
-        {
-            IComponentFactory *factory =
-                pMathEngine ? (IComponentFactory *)((char *)pMathEngine + 4) : (IComponentFactory *)0;
-            DACOM->RegisterComponent(factory, IID_I3DMathEngine, DACOM_LOW_PRIORITY);
+            if (pMathEngine)
+            {
+                ICOManager *DACOM = DACOM_Acquire();
+                if (DACOM)
+                {
+                    IComponentFactory *factory =
+                        pMathEngine ? (IComponentFactory *)((char *)pMathEngine + 4) : (IComponentFactory *)0;
+                    DACOM->RegisterComponent(factory, IID_I3DMathEngine, DACOM_LOW_PRIORITY);
+                }
+            }
         }
+        break;
     }
     return 1;
 }
@@ -243,7 +251,7 @@ extern "C" GENRESULT __stdcall x86MathEngine_CreateInstance(IComponentFactory *s
         return GR_INVALID_PARMS;
 
     if (info->size == sizeof(DACOMDESC) + 4 &&
-        strcmp(IID_I3DMathEngine, info->interface_name) == 0 &&
+        memcmp(IID_I3DMathEngine, info->interface_name, sizeof(IID_I3DMathEngine)) == 0 &&
         (((C8 **)info)[2] == 0 || stricmp(implementation_name, ((C8 **)info)[2]) == 0))
     {
         I3DMathEngine *engine = (I3DMathEngine *)((char *)self - 4);

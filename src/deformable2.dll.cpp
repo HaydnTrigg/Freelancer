@@ -1,3 +1,12 @@
+// deformable2.dll
+//
+// NOTE: this unit is built with /G6 (Pentium Pro scheduling) in addition to the
+// shared /O2 flags - the original dalibs were compiled that way and the
+// instruction scheduling only matches with it (see config.json).
+
+// sub_65F1100 deliberately reads a couple of registers that the caller leaves
+// set (the `vector constructor iterator' style edi value), which trips C4700.
+#pragma warning(disable : 4700)
 
 extern "C" void *__cdecl memset(void *, int, unsigned int);
 extern "C" void *__cdecl memcpy(void *, const void *, unsigned int);
@@ -78,7 +87,6 @@ int CDeformable::sub_65F1100(char *name, int *fs)
     int name_1;
     char *v25;
     void *CRC32;
-    int *self_2;
     int n48;
     int _DFMSkeleton__1;
     int v30[26];
@@ -131,7 +139,6 @@ int CDeformable::sub_65F1100(char *name, int *fs)
                     if ((*(int(__stdcall **)(int, int, Matrix *, int, int *, int))(*(int *)v22[0] + 20))(v22[0], v13, &src, 48, &n48, 0) && n48 == 48)
                     {
                         memcpy(v23 + 1, &src, 0x30);
-                        self_1 = self_2;
                         name_1 = 1;
                     }
                     else

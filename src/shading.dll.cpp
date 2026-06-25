@@ -202,8 +202,7 @@ extern "C" int __stdcall sub_6EB1050(IDAComponent *this_, const C8 *interface_na
     if (memcmp(interface_name, "1.11_IComponentFactory", sizeof("1.11_IComponentFactory")) != 0)
         return -3;
     *instance = this_;
-    IDAComponent_vtbl *vt = this_->vtbl;
-    vt->AddRef(this_);
+    (*(U32(__stdcall **)(IDAComponent *))(*(int *)this_ + 4))(this_); // AddRef
     return 0;
 }
 
@@ -225,54 +224,60 @@ extern "C" U32 __stdcall sub_6EB1090(void *Block)
 // DAComponentFactory<...>::CreateInstance
 extern "C" int __stdcall sub_6EB10C0(AtmosphereFactory *this_, DACOMDESC *descriptor, void **instance)
 {
-    if (descriptor->size == 0x14 && strcmp(descriptor->interface_name, this_->className) == 0)
+    int result = 0;
+    Material *pNew = 0;
+
+    if (descriptor->size != 0x14 || strcmp(descriptor->interface_name, this_->className))
     {
-        Material *m = (Material *)operator new(0x88);
-        if (m)
+        result = -3;
+        goto Done;
+    }
+    pNew = (Material *)operator new(0x88);
+    if (pNew != 0)
+    {
+        pNew->render_pipeline_draw = 0;
+        pNew->render_pipeline = 0;
+        pNew->texture_library = 0;
+        pNew->vbuffer_manager = 0;
+        pNew->f14 = 0;
+        pNew->texture_array = 0;
+        pNew->num_textures = 0;
+        pNew->f64 = 0;
+        pNew->f65 = 0;
+        memset(pNew->d3d_material, 0, 0x44);
+        pNew->d3d_material[4] = 1.0f;
+        pNew->d3d_material[5] = 1.0f;
+        pNew->d3d_material[6] = 1.0f;
+        pNew->d3d_material[7] = 1.0f;
+        pNew->d3d_material[0] = 1.0f;
+        pNew->d3d_material[1] = 1.0f;
+        pNew->d3d_material[2] = 1.0f;
+        pNew->d3d_material[3] = 1.0f;
+        InnerComponent *inner = (InnerComponent *)&pNew->inner_vtbl;
+        inner->vtbl = off_6ED1264;
+        inner->ref = 1;
+        inner->owner = pNew;
+        *(void **)pNew = off_6ED11F0;
+        if ((pNew->outerComponent = descriptor->outer) == 0)
+            pNew->outerComponent = inner;
+        else
+            *descriptor->inner = inner;
+        result = pNew->vf58_init(descriptor);
+        if (result != 0)
         {
-            m->render_pipeline_draw = 0;
-            m->render_pipeline = 0;
-            m->texture_library = 0;
-            m->vbuffer_manager = 0;
-            m->f14 = 0;
-            m->texture_array = 0;
-            m->num_textures = 0;
-            m->f64 = 0;
-            m->f65 = 0;
-            memset(m->d3d_material, 0, 0x44);
-            m->d3d_material[4] = 1.0f;
-            m->d3d_material[5] = 1.0f;
-            m->d3d_material[6] = 1.0f;
-            m->d3d_material[7] = 1.0f;
-            m->d3d_material[0] = 1.0f;
-            m->d3d_material[1] = 1.0f;
-            m->d3d_material[2] = 1.0f;
-            m->d3d_material[3] = 1.0f;
-            m->inner_vtbl = off_6ED1264;
-            m->inner_ref = 1;
-            m->inner_owner = m;
-            *(void **)m = off_6ED11F0;
-            if ((m->outerComponent = descriptor->outer) == 0)
-                m->outerComponent = &m->inner_vtbl;
-            else
-                *descriptor->inner = &m->inner_vtbl;
-            int result = m->vf58_init(descriptor);
-            if (result == 0)
-            {
-                *instance = m;
-                return result;
-            }
             if (descriptor->inner)
                 *descriptor->inner = 0;
-            m->vf54_dtor(1);
-            *instance = 0;
-            return result;
+            pNew->vf54_dtor(1);
+            pNew = 0;
         }
-        *instance = 0;
-        return -4;
     }
-    *instance = 0;
-    return -3;
+    else
+    {
+        result = -4;
+    }
+Done:
+    *instance = pNew;
+    return result;
 }
 
 // AtmosphereMaterial::initialize  (UnknownMaterial::initialize)
@@ -302,13 +307,13 @@ extern "C" int __stdcall UnknownMaterial_initialize(Material *this_, IDAComponen
     this_->num_textures = 0;
     if (count)
     {
-        TexOption *p = options;
+        char *q = (char *)&options->Value;
         U32 n = count;
         do
         {
-            if (p->type == 7)
+            if (*(U32 *)q == 7)
                 ++this_->num_textures;
-            p = (TexOption *)((char *)p + 0x4C);
+            q += 0x4C;
             --n;
         } while (n);
     }
@@ -316,26 +321,29 @@ extern "C" int __stdcall UnknownMaterial_initialize(Material *this_, IDAComponen
     U32 nt = this_->num_textures;
     if (nt)
     {
-        char *v9 = (char *)operator new(0x2C * nt + 4);
+        char *v9 = (char *)operator new(sizeof(TexSlot) * nt + 4);
         TexSlot *arr;
         if (v9)
         {
             arr = (TexSlot *)(v9 + 4);
             *(U32 *)v9 = nt;
             TexSlot *e = (TexSlot *)(v9 + 4);
-            U32 k = nt;
-            do
+            if ((int)(nt - 1) >= 0)
             {
-                e->unknown0 = 0;
-                e->unknown4 = (U32)-1;
-                e->unknown8 = 0;
-                e->unknown1C = 4;
-                e->unknown20 = 0;
-                e->unknown24 = 0;
-                e->unknown28 = 0;
-                ++e;
-                --k;
-            } while (k);
+                U32 k = nt;
+                do
+                {
+                    e->unknown0 = 0;
+                    e->unknown4 = (U32)-1;
+                    e->unknown8 = 0;
+                    e->unknown1C = 4;
+                    e->unknown20 = 0;
+                    e->unknown24 = 0;
+                    e->unknown28 = 0;
+                    ++e;
+                    --k;
+                } while (k);
+            }
         }
         else
         {
