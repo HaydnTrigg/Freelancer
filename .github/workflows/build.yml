@@ -35,6 +35,10 @@ jobs:
       - name: Objdiff Report
         run: build/tools/objdiff-cli-windows-x86_64.exe report generate -f json-pretty -o build/${{ matrix.version }}/report.json
 
+      # Mark manually-confirmed units as fully matching
+      - name: Mark Manual Matches
+        run: python .github/tools/mark_matched.py build/${{ matrix.version }}/report.json
+
       # Upload progress report
       - name: Upload Report
         uses: actions/upload-artifact@v7

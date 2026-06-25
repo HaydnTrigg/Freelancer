@@ -1,3 +1,5 @@
+// implemented in Liberty https://github.com/HaydnTrigg/Liberty
+
 //
 // x86math.dll - x86 implementation of I3DMathEngine.
 //
