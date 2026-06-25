@@ -133,7 +133,7 @@
         },
         "shading.dll": {
             "base": "decomp",
-            "flags": []
+            "flags": ["/G6"]
         },
         "soundmanager.dll": {
             "base": "decomp",
@@ -185,7 +185,9 @@
         },
         "DALib.dll": {
             "base": "decomp",
-            "flags": []
+            "flags": [
+                "/Ob2"
+            ]
         },
         "Freelancer.exe": {
             "base": "decomp",
@@ -259,7 +261,7 @@
         },
         "shading.dll": {
             "base": "decomp",
-            "flags": []
+            "flags": ["/G6"]
         },
         "soundmanager.dll": {
             "base": "decomp",
