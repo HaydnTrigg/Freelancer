@@ -372,3 +372,16 @@ static U32 __stdcall AtmosphereFactory_AddRef(IDAComponent *this_)
 {
     return ++((AtmosphereFactory *)this_)->ref_count;
 }
+
+// ---- next-20 batch ----
+
+// texture-channel index helper (n4 >> 2*a2) & 3
+extern "C" unsigned int __cdecl sub_6EB1630(unsigned int n4, int a2)
+{
+    switch (a2)
+    {
+    case 0: return n4 & 3;
+    case 1: return (n4 >> 2) & 3;
+    default: return 0;
+    }
+}

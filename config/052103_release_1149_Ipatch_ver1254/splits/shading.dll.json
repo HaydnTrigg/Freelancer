@@ -25,97 +25,97 @@
       "size": 356,
       "scope": "static"
     },
-    "sub_6EB1370": {
+    "_sub_6EB1370@8": {
       "address": 116069232,
       "size": 575,
       "scope": "static"
     },
-    "sub_6EB15E0": {
+    "@sub_6EB15E0@16": {
       "address": 116069856,
       "size": 76,
       "scope": "static"
     },
-    "sub_6EB1630": {
+    "_sub_6EB1630": {
       "address": 116069936,
       "size": 34,
       "scope": "static"
     },
-    "sub_6EB1660": {
+    "@sub_6EB1660@8": {
       "address": 116069984,
       "size": 84,
       "scope": "static"
     },
-    "sub_6EB16C0": {
+    "@sub_6EB16C0@12": {
       "address": 116070080,
       "size": 96,
       "scope": "static"
     },
-    "sub_6EB1720": {
+    "_sub_6EB1720@8": {
       "address": 116070176,
       "size": 612,
       "scope": "static"
     },
-    "sub_6EB19D0": {
+    "@sub_6EB19D0@12": {
       "address": 116070864,
       "size": 35,
       "scope": "static"
     },
-    "sub_6EB1A00": {
+    "_sub_6EB1A00@4": {
       "address": 116070912,
       "size": 5,
       "scope": "static"
     },
-    "sub_6EB1A10": {
+    "_sub_6EB1A10@8": {
       "address": 116070928,
       "size": 50,
       "scope": "static"
     },
-    "sub_6EB1A50": {
+    "_sub_6EB1A50@8": {
       "address": 116070992,
       "size": 108,
       "scope": "static"
     },
-    "sub_6EB1AC0": {
+    "_sub_6EB1AC0@12": {
       "address": 116071104,
       "size": 45,
       "scope": "static"
     },
-    "sub_6EB1AED": {
+    "_sub_6EB1AED@12": {
       "address": 116071149,
       "size": 6,
       "scope": "static"
     },
-    "sub_6EB1B00": {
+    "_sub_6EB1B00@12": {
       "address": 116071168,
       "size": 63,
       "scope": "static"
     },
-    "sub_6EB1B40": {
+    "_sub_6EB1B40@8": {
       "address": 116071232,
       "size": 15,
       "scope": "static"
     },
-    "sub_6EB1B50": {
+    "_sub_6EB1B50@8": {
       "address": 116071248,
       "size": 22,
       "scope": "static"
     },
-    "sub_6EB1B70": {
+    "_sub_6EB1B70@12": {
       "address": 116071280,
       "size": 378,
       "scope": "static"
     },
-    "sub_6EB1D40": {
+    "@sub_6EB1D40@12": {
       "address": 116071744,
       "size": 297,
       "scope": "static"
     },
-    "sub_6EB1EA0": {
+    "_sub_6EB1EA0@12": {
       "address": 116072096,
       "size": 357,
       "scope": "static"
     },
-    "sub_6EB2030": {
+    "_sub_6EB2030@12": {
       "address": 116072496,
       "size": 94,
       "scope": "static"
