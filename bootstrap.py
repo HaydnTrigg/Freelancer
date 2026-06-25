@@ -43,6 +43,7 @@ import subprocess
 import sys
 import tarfile
 import urllib.request
+import zipfile
 from pathlib import Path
 
 for _stream in (sys.stdout, sys.stderr):
@@ -150,6 +151,12 @@ OBJDIFF_CLI_SHA1 = "89F5666E23B05C93E4B166A60567A08661028F7A"
 OBJDIFF_EXE = Path("build/tools/objdiff-windows-x86_64.exe")
 OBJDIFF_URL = f"https://github.com/HaydnTrigg/objdiff/releases/download/{OBJDIFF_VERSION}/objdiff-windows-x86_64.exe"
 OBJDIFF_SHA1 = "18665D87721982B33D3CA78AA461B157AEB48A5C"
+
+NINJA_VERSION = "v1.13.2"
+NINJA_ARCHIVE = Path("build/tools/ninja-win.zip")
+NINJA_URL = f"https://github.com/ninja-build/ninja/releases/download/{NINJA_VERSION}/ninja-win.zip"
+NINJA_ARCHIVE_SHA1 = "C41FF4ACA70E5530AB5222917C53800C7AE5B3FF"
+NINJA_EXE = Path("build/tools/ninja.exe")
 
 MSVC6_ARCHIVE = Path("build/tools/msvc6.0.tar.gz")
 MSVC6_URL = "https://github.com/OmniBlade/decomp.me/releases/download/msvcwin9x/msvc6.0.tar.gz"
@@ -473,6 +480,14 @@ def ensure_tools():
     else:
         download_file(OBJDIFF_CLI_URL, OBJDIFF_CLI_EXE, OBJDIFF_CLI_SHA1)
     download_file(OBJDIFF_URL, OBJDIFF_EXE, OBJDIFF_SHA1)
+
+    if NINJA_EXE.exists():
+        info(f"{NINJA_EXE} already present, skipping ninja download")
+    else:
+        download_file(NINJA_URL, NINJA_ARCHIVE, NINJA_ARCHIVE_SHA1)
+        info(f"extracting {NINJA_ARCHIVE} → {NINJA_EXE.parent}")
+        with zipfile.ZipFile(NINJA_ARCHIVE) as zf:
+            zf.extract("ninja.exe", NINJA_EXE.parent)
 
     if (MSVC6_DIR / "Bin" / "CL.EXE").exists():
         info(f"{MSVC6_DIR} already present, skipping MSVC 6.0 download and extraction")
