@@ -1477,7 +1477,7 @@
     {
       "start": 116577568,
       "end": 116577602,
-      "name": "TEMPSTR",
+      "name": "??0TempStr@@QAA@PADZZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -19422,7 +19422,7 @@
     },
     {
       "addr": 116577568,
-      "name": "TEMPSTR",
+      "name": "??0TempStr@@QAA@PADZZ",
       "public": false,
       "weak": false,
       "is_func": true

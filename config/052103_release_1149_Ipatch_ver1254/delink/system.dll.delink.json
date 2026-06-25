@@ -57,7 +57,7 @@
     {
       "start": 116461568,
       "end": 116461782,
-      "name": "DAComponentInner_SystemContainer::QueryInterface",
+      "name": "?QueryInterface@SysConInner@@UAG?AW4GENRESULT@@PBDPAPAX@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -67,7 +67,7 @@
     {
       "start": 116461792,
       "end": 116461864,
-      "name": "SystemContainer::init",
+      "name": "?init@SystemContainer@@QAE?AW4GENRESULT@@PAUAGGDESC@@@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -77,7 +77,7 @@
     {
       "start": 116461872,
       "end": 116461905,
-      "name": "SystemContainer::_destructor",
+      "name": "??1SystemContainer@@QAE@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -87,7 +87,7 @@
     {
       "start": 116461920,
       "end": 116461935,
-      "name": "SystemContainer::QueryInterface",
+      "name": "?QueryInterface@SystemContainer@@UAG?AW4GENRESULT@@PBDPAPAX@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -97,7 +97,7 @@
     {
       "start": 116461936,
       "end": 116461952,
-      "name": "SystemContainer::AddRef",
+      "name": "?AddRef@SystemContainer@@UAGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -107,7 +107,7 @@
     {
       "start": 116461952,
       "end": 116461968,
-      "name": "SystemContainer::Release",
+      "name": "?Release@SystemContainer@@UAGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -117,7 +117,7 @@
     {
       "start": 116461968,
       "end": 116462043,
-      "name": "SystemContainer::Shutdown",
+      "name": "?Shutdown@SystemContainer@@UAG?AW4GENRESULT@@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -127,7 +127,7 @@
     {
       "start": 116462048,
       "end": 116462705,
-      "name": "SystemContainer::LoadSystemComponents",
+      "name": "?LoadSystemComponents@SystemContainer@@UAG?AW4GENRESULT@@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -147,7 +147,7 @@
     {
       "start": 116462768,
       "end": 116463060,
-      "name": "SystemContainer::AddComponent",
+      "name": "?AddComponent@SystemContainer@@UAG?AW4GENRESULT@@PBUAGGDESC@@@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -157,7 +157,7 @@
     {
       "start": 116463072,
       "end": 116463111,
-      "name": "SystemContainer::Update",
+      "name": "?Update@SystemContainer@@UAGXXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -167,7 +167,7 @@
     {
       "start": 116463120,
       "end": 116463241,
-      "name": "SystemContainer::Initialize",
+      "name": "?Initialize@SystemContainer@@UAG?AW4GENRESULT@@XZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -177,7 +177,7 @@
     {
       "start": 116463248,
       "end": 116463375,
-      "name": "SystemContainer::FindConnectionPoint",
+      "name": "?FindConnectionPoint@SystemContainer@@UAG?AW4GENRESULT@@PBDPAPAUIDAConnectionPoint@@@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -187,7 +187,7 @@
     {
       "start": 116463376,
       "end": 116463512,
-      "name": "SystemContainer::EnumerateConnectionPoints",
+      "name": "?EnumerateConnectionPoints@SystemContainer@@UAGJP6GJPAUIDAConnectionPointContainer@@PAUIDAConnectionPoint@@PAX@Z2@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -197,7 +197,7 @@
     {
       "start": 116463520,
       "end": 116463586,
-      "name": "Register_SystemContainer",
+      "name": "_Register_SystemContainer",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -217,7 +217,7 @@
     {
       "start": 116463664,
       "end": 116463723,
-      "name": "SystemContainerFactory::QueryInterface",
+      "name": "?QueryInterface@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAG?AW4GENRESULT@@PBDPAPAX@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -227,7 +227,7 @@
     {
       "start": 116463728,
       "end": 116463771,
-      "name": "SystemContainerFactory::Release",
+      "name": "?Release@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -237,7 +237,7 @@
     {
       "start": 116463776,
       "end": 116464009,
-      "name": "SystemContainerFactory::CreateInstance",
+      "name": "?CreateInstance@?$DAComponentFactory@USystemContainer@@UAGGDESC@@@@UAG?AW4GENRESULT@@PAUDACOMDESC@@PAPAX@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -247,7 +247,7 @@
     {
       "start": 116464016,
       "end": 116464032,
-      "name": "IDAComponent::AddRef",
+      "name": "?AddRef@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -257,7 +257,7 @@
     {
       "start": 116464032,
       "end": 116464092,
-      "name": "SysConInner::Release",
+      "name": "?Release@?$DAComponentInner@USystemContainer@@@@UAGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -267,7 +267,7 @@
     {
       "start": 116464096,
       "end": 116464106,
-      "name": "SystemContainer::IDAConnectionPointContainer::QueryInterface",
+      "name": "?QueryInterface@SystemContainer@@W3AG?AW4GENRESULT@@PBDPAPAX@Z",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -277,7 +277,7 @@
     {
       "start": 116464112,
       "end": 116464122,
-      "name": "SystemContainer::IDAConnectionPointContainer::AddRef",
+      "name": "?AddRef@SystemContainer@@W3AGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -287,7 +287,7 @@
     {
       "start": 116464128,
       "end": 116464138,
-      "name": "SystemContainer::IDAConnectionPointContainer::Release",
+      "name": "?Release@SystemContainer@@W3AGIXZ",
       "thunk": false,
       "lib": false,
       "static": false,
@@ -358,56 +358,56 @@
   "names": [
     {
       "addr": 116461568,
-      "name": "DAComponentInner_SystemContainer::QueryInterface",
+      "name": "?QueryInterface@SysConInner@@UAG?AW4GENRESULT@@PBDPAPAX@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116461792,
-      "name": "SystemContainer::init",
+      "name": "?init@SystemContainer@@QAE?AW4GENRESULT@@PAUAGGDESC@@@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116461872,
-      "name": "SystemContainer::_destructor",
+      "name": "??1SystemContainer@@QAE@XZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116461920,
-      "name": "SystemContainer::QueryInterface",
+      "name": "?QueryInterface@SystemContainer@@UAG?AW4GENRESULT@@PBDPAPAX@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116461936,
-      "name": "SystemContainer::AddRef",
+      "name": "?AddRef@SystemContainer@@UAGIXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116461952,
-      "name": "SystemContainer::Release",
+      "name": "?Release@SystemContainer@@UAGIXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116461968,
-      "name": "SystemContainer::Shutdown",
+      "name": "?Shutdown@SystemContainer@@UAG?AW4GENRESULT@@XZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116462048,
-      "name": "SystemContainer::LoadSystemComponents",
+      "name": "?LoadSystemComponents@SystemContainer@@UAG?AW4GENRESULT@@XZ",
       "public": false,
       "weak": false,
       "is_func": true
@@ -421,42 +421,42 @@
     },
     {
       "addr": 116462768,
-      "name": "SystemContainer::AddComponent",
+      "name": "?AddComponent@SystemContainer@@UAG?AW4GENRESULT@@PBUAGGDESC@@@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463072,
-      "name": "SystemContainer::Update",
+      "name": "?Update@SystemContainer@@UAGXXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463120,
-      "name": "SystemContainer::Initialize",
+      "name": "?Initialize@SystemContainer@@UAG?AW4GENRESULT@@XZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463248,
-      "name": "SystemContainer::FindConnectionPoint",
+      "name": "?FindConnectionPoint@SystemContainer@@UAG?AW4GENRESULT@@PBDPAPAUIDAConnectionPoint@@@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463376,
-      "name": "SystemContainer::EnumerateConnectionPoints",
+      "name": "?EnumerateConnectionPoints@SystemContainer@@UAGJP6GJPAUIDAConnectionPointContainer@@PAUIDAConnectionPoint@@PAX@Z2@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463520,
-      "name": "Register_SystemContainer",
+      "name": "_Register_SystemContainer",
       "public": false,
       "weak": false,
       "is_func": true
@@ -470,56 +470,56 @@
     },
     {
       "addr": 116463664,
-      "name": "SystemContainerFactory::QueryInterface",
+      "name": "?QueryInterface@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAG?AW4GENRESULT@@PBDPAPAX@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463728,
-      "name": "SystemContainerFactory::Release",
+      "name": "?Release@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAGIXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116463776,
-      "name": "SystemContainerFactory::CreateInstance",
+      "name": "?CreateInstance@?$DAComponentFactory@USystemContainer@@UAGGDESC@@@@UAG?AW4GENRESULT@@PAUDACOMDESC@@PAPAX@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116464016,
-      "name": "IDAComponent::AddRef",
+      "name": "?AddRef@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAGIXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116464032,
-      "name": "SysConInner::Release",
+      "name": "?Release@?$DAComponentInner@USystemContainer@@@@UAGIXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116464096,
-      "name": "SystemContainer::IDAConnectionPointContainer::QueryInterface",
+      "name": "?QueryInterface@SystemContainer@@W3AG?AW4GENRESULT@@PBDPAPAX@Z",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116464112,
-      "name": "SystemContainer::IDAConnectionPointContainer::AddRef",
+      "name": "?AddRef@SystemContainer@@W3AGIXZ",
       "public": false,
       "weak": false,
       "is_func": true
     },
     {
       "addr": 116464128,
-      "name": "SystemContainer::IDAConnectionPointContainer::Release",
+      "name": "?Release@SystemContainer@@W3AGIXZ",
       "public": false,
       "weak": false,
       "is_func": true

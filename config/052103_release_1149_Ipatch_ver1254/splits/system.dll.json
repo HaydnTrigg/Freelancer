@@ -1,76 +1,76 @@
 {
   "system.dll.obj": {
-    "DAComponentInner_SystemContainer::QueryInterface": {
+    "?QueryInterface@SysConInner@@UAG?AW4GENRESULT@@PBDPAPAX@Z": {
       "address": 116461568,
       "size": 214,
       "scope": "static"
     },
-    "SystemContainer::init": {
+    "?init@SystemContainer@@QAE?AW4GENRESULT@@PAUAGGDESC@@@Z": {
       "address": 116461792,
       "size": 72,
       "scope": "static"
     },
-    "SystemContainer::_destructor": {
+    "??1SystemContainer@@QAE@XZ": {
       "address": 116461872,
       "size": 33,
       "scope": "static"
     },
-    "SystemContainer::QueryInterface": {
+    "?QueryInterface@SystemContainer@@UAG?AW4GENRESULT@@PBDPAPAX@Z": {
       "address": 116461920,
       "size": 15,
       "scope": "static"
     },
-    "SystemContainer::AddRef": {
+    "?AddRef@SystemContainer@@UAGIXZ": {
       "address": 116461936,
       "size": 16,
       "scope": "static"
     },
-    "SystemContainer::Release": {
+    "?Release@SystemContainer@@UAGIXZ": {
       "address": 116461952,
       "size": 16,
       "scope": "static"
     },
-    "SystemContainer::Shutdown": {
+    "?Shutdown@SystemContainer@@UAG?AW4GENRESULT@@XZ": {
       "address": 116461968,
       "size": 75,
       "scope": "static"
     },
-    "SystemContainer::LoadSystemComponents": {
+    "?LoadSystemComponents@SystemContainer@@UAG?AW4GENRESULT@@XZ": {
       "address": 116462048,
       "size": 657,
       "scope": "static"
     },
-    "TempStr::set": {
+    "??0TempStr@@QAA@PADZZ": {
       "address": 116462720,
       "size": 34,
       "scope": "static"
     },
-    "SystemContainer::AddComponent": {
+    "?AddComponent@SystemContainer@@UAG?AW4GENRESULT@@PBUAGGDESC@@@Z": {
       "address": 116462768,
       "size": 292,
       "scope": "static"
     },
-    "SystemContainer::Update": {
+    "?Update@SystemContainer@@UAGXXZ": {
       "address": 116463072,
       "size": 39,
       "scope": "static"
     },
-    "SystemContainer::Initialize": {
+    "?Initialize@SystemContainer@@UAG?AW4GENRESULT@@XZ": {
       "address": 116463120,
       "size": 121,
       "scope": "static"
     },
-    "SystemContainer::FindConnectionPoint": {
+    "?FindConnectionPoint@SystemContainer@@UAG?AW4GENRESULT@@PBDPAPAUIDAConnectionPoint@@@Z": {
       "address": 116463248,
       "size": 127,
       "scope": "static"
     },
-    "SystemContainer::EnumerateConnectionPoints": {
+    "?EnumerateConnectionPoints@SystemContainer@@UAGJP6GJPAUIDAConnectionPointContainer@@PAUIDAConnectionPoint@@PAX@Z2@Z": {
       "address": 116463376,
       "size": 136,
       "scope": "static"
     },
-    "Register_SystemContainer": {
+    "_Register_SystemContainer": {
       "address": 116463520,
       "size": 66,
       "scope": "static"
@@ -80,74 +80,44 @@
       "size": 57,
       "scope": "static"
     },
-    "SystemContainerFactory::QueryInterface": {
+    "?QueryInterface@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAG?AW4GENRESULT@@PBDPAPAX@Z": {
       "address": 116463664,
       "size": 59,
       "scope": "static"
     },
-    "SystemContainerFactory::Release": {
+    "?Release@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAGIXZ": {
       "address": 116463728,
       "size": 43,
       "scope": "static"
     },
-    "SystemContainerFactory::CreateInstance": {
+    "?CreateInstance@?$DAComponentFactory@USystemContainer@@UAGGDESC@@@@UAG?AW4GENRESULT@@PAUDACOMDESC@@PAPAX@Z": {
       "address": 116463776,
       "size": 233,
       "scope": "static"
     },
-    "IDAComponent::AddRef": {
+    "?AddRef@?$DAComponentFactoryBase@USystemContainer@@UAGGDESC@@@@UAGIXZ": {
       "address": 116464016,
       "size": 16,
       "scope": "static"
     },
-    "SysConInner::Release": {
+    "?Release@?$DAComponentInner@USystemContainer@@@@UAGIXZ": {
       "address": 116464032,
       "size": 60,
       "scope": "static"
     },
-    "SystemContainer::IDAConnectionPointContainer::QueryInterface": {
+    "?QueryInterface@SystemContainer@@W3AG?AW4GENRESULT@@PBDPAPAX@Z": {
       "address": 116464096,
       "size": 10,
       "scope": "static"
     },
-    "SystemContainer::IDAConnectionPointContainer::AddRef": {
+    "?AddRef@SystemContainer@@W3AGIXZ": {
       "address": 116464112,
       "size": 10,
       "scope": "static"
     },
-    "SystemContainer::IDAConnectionPointContainer::Release": {
+    "?Release@SystemContainer@@W3AGIXZ": {
       "address": 116464128,
       "size": 10,
-      "scope": "static"
-    },
-    "??3@YAXPAX@Z": {
-      "address": 116464138,
-      "size": 6,
-      "scope": "static"
-    },
-    "??2@YAPAXI@Z": {
-      "address": 116464144,
-      "size": 6,
-      "scope": "static"
-    },
-    "__alloca_probe": {
-      "address": 116464160,
-      "size": 47,
-      "scope": "static"
-    },
-    "__CRT_INIT@12": {
-      "address": 116464207,
-      "size": 171,
-      "scope": "static"
-    },
-    "DllEntryPoint": {
-      "address": 116464378,
-      "size": 157,
-      "scope": "global"
-    },
-    "_initterm": {
-      "address": 116464536,
-      "size": 6,
       "scope": "static"
     }
   }
