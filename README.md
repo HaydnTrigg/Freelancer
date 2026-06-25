@@ -10,6 +10,10 @@
 
 A work-in-progress decompilation of Freelancer.
 
+Once libraries within scope are reverse engineered, they are reimplemented in
+Liberty. See [Liberty](https://github.com/HaydnTrigg/Liberty) for a
+work-in-progress reimplementation of the engine libraries.
+
 Supported Versions:
 
 - `052103_release_1149_Ipatch_ver1254` - Patch 1.1
@@ -30,7 +34,7 @@ Unsupported Versions:
 ![Freelancer.exe](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-Freelancer.exe.svg)
 ![RemoteClient.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-RemoteClient.dll.svg)
 ![Server.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-Server.dll.svg)
-![dacom.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-dacom.dll.svg)
+![dacom.dll](https://img.shields.io/badge/dacom.dll-Liberty-purple)
 ![debuglib.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-debuglib.dll.svg)
 ![deformable2.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-deformable2.dll.svg)
 ![engbase.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-engbase.dll.svg)
@@ -38,16 +42,16 @@ Unsupported Versions:
 ![flserver.exe](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-flserver.exe.svg)
 ![imeui.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-imeui.dll.svg)
 ![luaprofile.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-luaprofile.dll.svg)
-![movie.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-movie.dll.svg)
-![readfile.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-readfile.dll.svg)
+![movie.dll](https://img.shields.io/badge/movie.dll-Ignored-lightgrey)
+![readfile.dll](https://img.shields.io/badge/readfile.dll-Liberty-purple)
 ![remoteserver.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-remoteserver.dll.svg)
 ![rendcomp.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-rendcomp.dll.svg)
-![rp8.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-rp8.dll.svg)
+![rp8.dll](https://img.shields.io/badge/rp8.dll%20%28wip%29-Liberty-purple)
 ![rpclocal.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-rpclocal.dll.svg)
 ![shading.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-shading.dll.svg)
-![soundmanager.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-soundmanager.dll.svg)
-![soundstreamer.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-soundstreamer.dll.svg)
-![system.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-system.dll.svg)
+![soundmanager.dll](https://img.shields.io/badge/soundmanager.dll-Liberty-purple)
+![soundstreamer.dll](https://img.shields.io/badge/soundstreamer.dll-Liberty-purple)
+![system.dll](https://img.shields.io/badge/system.dll-Liberty-purple)
 ![thorn.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-thorn.dll.svg)
-![x86math.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-x86math.dll.svg)
+![x86math.dll](https://img.shields.io/badge/x86math.dll-Liberty-purple)
 ![ximage.dll](https://github.com/HaydnTrigg/Freelancer/raw/refs/heads/workflow-reports/images/052103_release_1149_Ipatch_ver1254-objdiff-ximage.dll.svg)
